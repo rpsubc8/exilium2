@@ -1,0 +1,225 @@
+[FOTOS 6]
+FOTO_ATARI_HARDWARE_1 PALETA_ATARI_HARDWARE_1 59 27
+FOTO_ATARI_HARDWARE_2 PALETA_ATARI_HARDWARE_2 61 54
+FOTO_ATARI_HARDWARE_3 PALETA_ATARI_HARDWARE_3 62 81
+FOTO_ATARI_HARDWARE_4 PALETA_ATARI_HARDWARE_4 61 102
+FOTO_ATARI_HARDWARE_5 PALETA_ATARI_HARDWARE_5 59 154
+FOTO_ATARI_HARDWARE_6 PALETA_ATARI_HARDWARE_6 59 184
+Hardware ATARI[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Pues, el ATARI sigue vivito y coleando (la compa¤¡a no ha muerto), y se[IZQUIERDA]
+siguen creando una serie de equipos, los cuales est n disponibles para el
+usuario normal y corriente.[NO]
+
+  Por tanto, en esta p gina se pondr n algunos de los equipos que se pueden[IZQUIERDA]
+adquirir. Que conste que esta informaci¢n est  sacada de INTERNET, gracias a
+el CLUB ATARIFAN Club de Espa¤a.[NO]
+
+
+
+
+Evolution[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Es compatible con el FALCON 030, ya que utiliza el mismo chipset. La placa[IZQUIERDA]
+base, es compatible con las carcasas de los PCs y compatibles. Y se encuentra
+disponible en dos versiones: Nueva caja y caja est ndar del ATARI FALCON
+030 / C-LAB.[NO]
+
+  Algunas de sus caracter¡sticas, son:[PC]
+
+   - Instalaci¢n inmediata (aproximadamente en 5 minutos),[GRIS]
+     y muy fiable.
+   - Capacidad de evoluci¢n m£ltiple.
+   - Entradas y salidas de audio (8 E/S de audio separadas
+     Anal¢gicas y/o digitales).
+   - Frecuencia  de  bus  de  16  ¢  20  Mhz ,  seg£n  las
+     necesidades del usuario.
+   - Procesador MOTOROLA MC68030 a una frecuencia de reloj
+     entre 16 y 60 Mhz.
+   - Memoria cach‚ de segundo nivel (L2)
+   - Procesador  DSP56002  a  una  frecuencia  de reloj de
+     hasta 80 Mhz.
+   - Bus ampliado a 32 bits.
+   - Codificaci¢n PAL mejorada.
+   - Controladora de memoria TT-RAM (memoria de 32 bits ultrarr pida).
+   - Fabricaci¢n francesa.
+
+
+
+
+Milan 040/060[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  La fecha de su lanzamiento, fue el 15 de Junio de 1998. Se distribuye en una[IZQUIERDA]
+caja minitorre con estructura moderna y robusta del estilo PC, pero con la
+arquitectura de MOTOROLA 68K.[NO]
+
+
+  El  Sistema  Operativo  est   actualizado  con  el nuevo
+hardware , incluyendo todav¡a el GEM. La informaci¢n sobre
+este ordenador, se puede encontrar en la p gina web:
+
+  http://www.milan-computer.de[CHAR14 VERDEFOSFORITO]
+
+
+  Tal y como se coment¢,el Sistema Operativo del ATARI, el[PCT BLANCO]
+TOS, ha sido actualizado para estar al d¡a con los £ltimos
+adelantos , en  cuanto al hardware , como  es el  caso  de
+tarjetas de sonido y gr ficas PCI, as¡ como de red.
+
+
+  Como resultado, se ha obtenido el TOS 4.5, que entre sus
+funciones, est  el soporte de tarjetas PCI. La recompilaci¢n del TOS, ha dado[IZQUIERDA]
+como resultado, un incremento del 10% en velocidad. El TOS se encuentra en una
+FLAS EPROM, la cual puede ser actualizada tan f cil como en los PC's (flaseado
+de BIOS), descargando la actualizaci¢n de la p gina web, antes comentada.[NO]
+
+
+  El S.O. MultiTOS, que junto a MiNT y MultiAES daban posibilidades multitarea[IZQUIERDA]
+al ATARI, ha sido sustituido por el sistema operativo N.AES, que se basa en el
+kernel BSD del MiNT.[NO]
+
+
+  Del apartado gr fico, se encarga el entorno gr fico Ming,
+compatible con GEM.
+
+
+  A su  vez , el MILAN  viene  con  numerosas  y poderosas
+aplicaciones para las tareas diarias, como son el  caso de
+aplicaciones de AUTOEDICION, CALCULO, RETOQUE FOTOGRAFICO,
+INTERNET, editores de Texto, CALCULADORA y JUEGOS.
+
+
+  Y en cuanto al hardware del equipo, se puede comentar:[PC]
+
+   - Slots ISA y PCI.[GRIS]
+   - Bancos de memoria RAM SIMM del tipo EDO.
+   - Puertos IDE y de disquetera.
+   - Chip Motorola 68040.
+   - Puertos MFP compatible con ATARI.
+   - Flash EPROM para el S.O. (512 KB).
+   - Tarjeta gr fica S3 TRIO 64 V+ (1024 x 768 16 bits de color).
+   - 4 Slots PCI de 32 bits.
+   - 3 Slots ISA de 16 bits.
+   - 2 buses IDE.
+   - 4 bancos de memoria SIMM (m ximo 512 MB).
+   - Teclado PC est ndar.
+   - Bater¡a para guardar fecha y hora.
+   - 1 Puerto paralelo.
+   - 1 puerto serie compatible MFP de 19200 baudios.
+   - 2  puertos  serie  compatibles  PC  de  hasta  230600
+     baudios.
+   - Disquetera de 1.44 MB HD.
+
+  Y muchas m s opciones, como es el caso de drivers con soporte para[PCT BLANCO IZQUIERDA]
+Impresoras, tarjetas de red, de sonido, modems RDSI, y dem s hardware, que le
+posibilita una ampliaci¢n tan grande como un PC, pero con la potencia y
+fiabilidad de un ATARI.[NO]
+
+
+
+
+Phenix 060 Workstation[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  La empresa CENTEK inici¢ en 1995 un proyecto para construir una gran[IZQUIERDA]
+computadora, llamado Phenix. Sin embargo, por motivos internos, este proyecto
+qued¢ abandonado.[NO]
+
+  Sin embargo, aqu¡ se comentar  algunas de las caracter¡sticas de este
+proyecto, que es muy interesante:[NO]
+
+  - Posibilidad de tener 2 procesadores de 240 MIPS.[PC GRIS]
+  - Un DSP (Procesador digital de se¤al) para c lculos matem ticos en tiempo
+    real de hasta 80 MIPS.
+  - Posibilidad de conectar a los buses PCI, tarjetas con 3 DSP de 240 MIPS.
+  - Un completo sistema de audio de 20 bits de muy alta calidad.
+  - Dos puertos USB.
+  - Dos puertos ULTRA-SCSI.
+  - Un puerto para el DSP.
+  - 3 ranuras PCI.
+  - Memoria FLASH ampliable a 4 MB para aplicaciones integradas sin necesidad
+    de disco duro.
+  - Un sistema operativo compacto y potente.
+  - Compatibilidad con UNIX y LINUX.
+
+  Por tanto, queda demostrado, que el Phenix no es ni un cl¢nico TOS, ni un PC[PCT BLANCO IZQUIERDA]
+compatible, sino que es un nuevo ordenador que posee nuevo hardware y nuevo
+S.O. La aplicaci¢n de emulaci¢n a nivel del sistema operativo, permite ejecutar
+los programas TOS / GEM.[NO]
+
+  Sus componentes hardware directas, son:[PC BLANCO]
+
+   - Procesador Motorola 68060 a 80 Mhz ampliable a 2 68060 a 80 Mhz (240[GRIS]
+     MIPS).
+   - BUS procesador 68060 a 32 bits 40 Mhz.
+   - BUS Phenix PCI a 32 bits 33 Mhz.
+   - Memoria RAM de modulos SIMM de hasta 256 MB
+   - DSP MOTOROLA 56031 a 100 Mhz (100 MIPS)
+   - USB PCI maestro a 132 MB/s.
+   - Ultra-SCSI 20 MB/s, PCI maestro 132 MB/s
+   - Video PCI Virge DX con 4 MB
+   - Audio integrado est‚reo de 20 bits a 44,1 y 48 Khz.
+   - IDE ATA-4
+   - MIDI
+   - Serie
+   - Paralelo
+   - Teclado y rat¢n PS/2
+
+
+  Y much¡simas m s cosas, que no se ponen, para que no se os haga la boca agua,[PCT BLANCO IZQUIERDA]
+ya que ahora, viene lo peor, es decir, el precio, que ronda los 1229 Euros
+(versi¢n con un solo procesador) y 1509 Euros (con dos procesadores).[NO]
+
+
+
+
+Afterburner[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Esta es una de las primeras placas aceleradoras que aparecieron para los[IZQUIERDA]
+FALCON030. Es completamente compatible con dichos modelos, aunque debido a sus
+dimensiones, es necesario realojar la placa base del ordenador en una caja m s
+grande.[NO]
+
+  Sus caracter¡sticas, son las siguientes:[PC]
+
+   - Motorola 68LC040 trabajando a 32 o 64 Mhz.[GRIS]
+   - Dos conectores de 72  contactos SIMM , ampliable a 64
+     MB.
+   - Duplicado  del  bus  de  expansi¢n  del  FALCON  para
+     conectar m s perif‚ricos.
+
+  Junto a la placa base , se incluye un completo manual de[PCT BLANCO]
+instalaci¢n, y el MC68040 Toolkit, que consta de un conjunto de programas y[IZQUIERDA]
+utilidades desarrollados por el grupo de programaci¢n BLACK SCORPION SOFTWARE,
+que permite un completo control acerca de todos los par metros de esta placa
+aceleradora.[NO]
+
+
+
+ 
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues hasta aqu¡ llega el resumen de alg£n que otro hardware disponible para[IZQUIERDA]
+ATARI. Que conste, que falta mucho que contar, ya que s¢lo se ha destacado
+alg£n que otro equipo y a¤adido.[NO]
+
+  Espero que esto sirva para hacer conocer al resto de comunidad ATARI y PC de[IZQUIERDA]
+que sigue activa.[NO]
+
+  Y por cierto, que conste, que esto no es ni una traducci¢n al espa¤ol, ni una[IZQUIERDA]
+p gina propia, sino que se trata de un resumen de la p gina web del ATARIFAN
+CLUB, el cual pod‚is encontrarlo buscando en el GOOGLE. De hecho, os recomiendo
+esta p gina, ya que en ella encontrareis con m s detalle lo comentado, as¡ como
+muchos m s a¤adidos.[NO]

@@ -1,0 +1,137 @@
+[FOTOS 7]
+FOTO_EMULADOR64_1 PALETA_EMULADOR64_1 60 0
+FOTO_DISKMAG64_1 PALETA_DISKMAG64_1 60 22
+FOTO_DISKMAG64_2 PALETA_DISKMAG64_2 60 33
+FOTO_DISKMAG64_3 PALETA_DISKMAG64_3 60 42
+FOTO_DISKMAG64_4 PALETA_DISKMAG64_4 60 52
+FOTO_DISKMAG64_5 PALETA_DISKMAG64_5 60 64
+FOTO_DISKMAG64_6 PALETA_DISKMAG64_6 25 82
+Diskmags en C64[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Muchos pueden creer que la scene de C-64 ha muerto o a desaparecido. Pero[IZQUIERDA]
+a pesar de esos pensamientos, esta scene sigue viva y cuanto m†s tiempo pasa
+m†s viva y m†s crece.[NO]
+
+  En Espa§a, a diferencia de la parte Este de Europa, la scene es bastante[IZQUIERDA]
+peque§a, pero no por eso peor. Y de nada sirve la scene de C64, sin que existan
+las diskmags (Revistas digitales) para dicha plataforma. Estos documentos
+digitales nos permiten mantener viva la llama del C64.[NO]
+
+  Hay diskmags desde el formato ASCII, pasando por el formato HTML, DOC y por[IZQUIERDA]
+supuesto, m†s elegante, archivos binarios para el C64 real.[NO]
+
+  Para aquellos que no dispongan de un C64 real, o que este en un estado[IZQUIERDA]
+bastante lamentable, pero que quieren ver dichas diskmags, les recomiendo que
+se descarguen un buen emulador, de la p†gina web:[NO]
+
+   http://www.emulatronia.com[VERDEFOSFORITO]
+
+
+
+Revistas binarias[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  En  este  aspecto,  entrar°an  perfectamente  la  revista
+[BLANCO]ARACHNOPHOBIA[AMARILLO], que aqu° al lado ponemos una foto preview de[BLANCO]
+su n£mero 21, aunque actualmente va por el n£mero 24.
+
+
+
+  TambiÇn tenemos una diskmag  llamada  [BLANCO]ANTINATIONALE[AMARILLO],  que[BLANCO]
+ponemos una foto adjunta. El £nico inconveniente de  cara a
+Espa§a, ser°a  que  est† en  el idioma ALEMAN, y por tanto,
+si  s¢lo  sabemos  ESPA•OL  o  INGLES , tendremos  bastante
+dificultad. Esta  revista  tiene  muy  buena  m£sica  y  va
+bastante r†pido, adem†s de que ya va por su versi¢n 5.
+
+
+
+
+  Hay otra diskmag llamada [BLANCO]DOMINATION[AMARILLO], que en el caso de la[BLANCO]
+foto va por su n£mero 13. Tiene  muy  buena calidad gr†fica,
+as° como de sonido.
+
+
+
+
+  En la foto adjunta esta la  diskmag  [BLANCO]MAIL  MADNESS[AMARILLO] en  su[BLANCO]
+n£mero 40. Le pasa igual  que  la  anterior, es  decir, muy
+buena calidad gr†fica (compite con la de  PC) y  una m£sica
+muy agradable. Los Scrolls de texto  son  muy fluidos y las
+fuentes elegidas muy agradables a la  vista. Por  tanto, no
+tiene nada que envidiar a las diskmags de otras plataformas
+
+
+
+  Por el camino nos encontramos con la revista [BLANCO IZQUIERDA]The Beer Garden[AMARILLO], en concreto en[BLANCO]
+su n£mero 8. A diferencia de la anterior, no es muy vistosa[NO]
+a la vista, pero  eso  no  quiere  decir  que  es  peor. Al
+contrario, ya que tiene unos grandes art°culos, entre ellos
+varias entrevistas a  la  scene  de  C-64, as°  como varios
+REPORTS de  las  party's. Adem†s se  pueden  elegir  varias
+canciones de fondo, y el men£ es muy interactivo.
+
+
+
+  Y por supuesto, una de las m†s bellas,es la VANDALISM,que
+en  esta  foto  se  trata  de  la n£mero 36. Tiene una gran
+calidad gr†fica,y un INTERFACE muy competitivo y atractivo,
+lo que la  convierte en una de las revistas m†s vistosas.
+
+  Si en los 80's,yo hubiese visto un C-64 con esta revista, estoy convencido[IZQUIERDA]
+de que no hubiese dejado que mi padre comprase un PC 8086. Por tanto, hay que
+darse cuenta de que estos equipos, al igual que los actuales nunca llegan a
+explotarse al m†ximo, ya que caducan antes de tiempo.[NO]
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Actualmente, la VANDALISM anda por el n£mero 37, y probablemente al terminar[IZQUIERDA]
+de salir nuestra revista EXILIUM, estar† el 38.[NO]
+
+
+
+Formato no binario[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Por £ltimo tenemos la DISKMAG HACKER que viene en formato ASCII, y va desde[IZQUIERDA]
+su n£mero 1 en 1992, hasta el 21 del 2002. Aunque venga en formato ASCII, se
+podria decir que es la mejor, ya que trata temas como la SUPERCPU, as° como
+nuevos S.O.'s para el C-64 y sus derivados. Contiene grandes entrevistas y
+muy buen c¢digo fuente, as° como trucos de programaci¢n 2D, 3D y de sonido.
+En definitiva, toda una obra de arte de un scener de C-64.[NO]
+
+  TambiÇn tenemos el PROJECT64! (Proyecto 64), que viene en formato DOC, y[IZQUIERDA]
+pretende preservar la memoria del C64, dejando toda la documentaci¢n abierta
+para poder programar este equipo en BASIC y con especificaciones de bajo nivel.
+La recomiendo sobre todo para los que quieren empezar en este mundo.[NO]
+
+
+
+  Espero que una vez le°do este art°culo os deis cuenta, que la DEMOSCENE no[IZQUIERDA]
+es una PLATAFORMA lo m†s veloz que sea y lo £ltimo, sino una cultura agregada
+a una PLATAFORMA, ya sea C64, CPC, AMIGA, GBA, PC, PS2, GC, ATARI, APPLE,
+etc...[NO]
+
+
+  Y los C64 originales ser†n antigÅos, pero no CHATARRA, y todav°a pueden[IZQUIERDA]
+seguir dando mucha guerra. As° que si tenÇis un C-64 por el armario, echarlo
+a andar, y sino tirad de emulador.[NO]
+
+  Recordad:[VERDEFOSFORITO]  "Ordenador a 4 Ghz estropeado es chatarra".[BLANCO]
+             "Cualquier cosa que funcione, es £til".

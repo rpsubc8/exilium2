@@ -1,0 +1,197 @@
+[FOTOS 1]
+FOTO_BEOS_DRIVERS_1 PALETA_BEOS_DRIVERS_1 60 0
+Drivers para BeOS[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+   
+  Pues como cualquier otro S.O., sin drivers o a¤adidos, poco se puede hacer,[IZQUIERDA]
+sobre todo si se tiene un hardware de esos de £ltima generaci¢n.[NO]
+
+
+  Si el hardware no es friendware, ni GNU, o sencillamente, el fabricante no ha
+dado nada de informaci¢n para programarlo, poco se puede hacer. Pero otras[IZQUIERDA]
+veces, bien porque se han liberado partes, bien por la comunidad hacker, o
+sencillamente gracias a la empresa, podemos disponer de drivers para ese
+sistema operativo, que en este caso, se trata de BeOS.[NO]
+
+
+  Por si no lo sab‚is, un driver o controlador, s¢lo es un semiprograma que[IZQUIERDA]
+permite conectar el sistema operativo (a veces directamente el n£cleo) con el
+hardware, de tal forma, que cuando un programador quiera acceder a ese
+hardware, no tendr  que programarlo desde cero, sino que tan s¢lo tendr  que
+llamar a las funciones del driver.[NO]
+
+
+
+Disponibles[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues en esta secci¢n, s¢lo voy a poner una peque¤a lista de drivers que se[IZQUIERDA]
+encuentran disponibles para BeOS (http://www.bebits.com), y si por casualidad
+os sirven, mejor que mejor. Que conste que no voy a incluir todos los
+disponibles para esta plataforma, ya que son muchos.[NO]
+
+
+
+
+
+
+Video[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Si tu tarjeta gr fica o aceleradora no es compatible con VESA 2.0 (t¡pico en[IZQUIERDA]
+las nuevas), lo m s seguro es que BeOS no funcionar  correctamente, o que te
+salga en modo de 256 colores (escala de grises).[NO]
+
+  As¡ que para poder solucionar esto, ten‚is 2 opciones:
+
+
+   - Cambiar de tarjeta gr fica.[PC GRIS]
+   - Buscar un driver para BeOS, que soporte dicho hardware.
+
+
+  Si hab‚is decidido la segunda opci¢n, deb‚is de saber que existen varias[PCT BLANCO IZQUIERDA]
+aceleradoras gr ficas, que ya poseen drivers para BeOS. Lamentablemente, por
+ahora, s¢lo se soporta la aceleraci¢n 2D, no siendo lo mismo para 3D, aunque
+eso si, las 2D de BeOS superan con creces a las de Windows y sistemas
+alternativos.[NO]
+
+
+  En cuanto a los drivers disponibles, est n:
+
+
+   - Nvidia (RIVA TNT y TNT2, Quadro, GeFORCE DDR y 2 MX) -->[PC AMARILLO] 44 KB[BLANCO]
+   - Matrox 450 Dual[AMARILLO]
+   - ATI TV
+   - ATI Radeon -->[AMARILLO] RadeonDriver_v3.2.2.pkg (97 KB)[BLANCO]
+   - DIVX (los codecs)[AMARILLO]
+   - S3 TRIO 64 V+
+   - VESA 2.0 compatible
+
+      
+  El driver de la S3 TRIO 64 V+, lo he probado a conciencia en una S3 TRIO V+[PCT BLANCO IZQUIERDA]
+original, pero no funciona, por tanto, lo m s seguro, es que me han estafado
+con la tarjeta.[NO]
+
+  En cuanto al driver VESA 2.0, que obliga a trabajar en modo VESA si cargamos[IZQUIERDA]
+un driver en memoria desde el DOS en el arranque o si tenemos VESA en ROM,
+tampoco ha funcionado con la TRIO 64 V+ que poseo.[NO]
+
+
+
+
+
+Procesadores[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Puesto que en el tema de los PC, a diferencia de las consolas, existen[IZQUIERDA]
+multitud de hardware (normalmente incompatible), tambi‚n se ve afectado el
+procesador (CPU).[NO]
+
+
+  As¡ la mayor¡a de la gente, en los tiempos actuales, suele tener un Pentium[IZQUIERDA]
+IV o un Athlon XP. Y claro, tal y como se coment¢ en el n£mero pasado de la
+diskmag EXILIUM, BeOS 5 PE, s¢lo hace uso de instrucciones x86 de los Pentiums
+(modo paralelizado). Por tanto, por mucho procesador que tengamos a 2,8 Ghz,
+tan s¢lo ir  un poco m s r pido, debido a las caches, a la velocidad del
+procesador y a los perif‚ricos. Sin embargo, si queremos obtener una mejora de
+velocidad superior, el propio KERNEL de BeOS, deber  hacer uso de las
+instrucciones extras de los procesadores.[NO]
+
+
+  Los drivers de procesadores que soporta BeOS, son:
+
+
+   - Athlon XP (sseopen.zip) -->[AMARILLO PC] Activa las instrucciones SSE (SIMD) del Athlon[BLANCO]
+                                 (17 KB).
+   - Pentium III[AMARILLO]
+   - Pentium IV
+
+
+
+
+
+Sonido[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  BeOS 5.0 soporta cualquier tarjeta Sound Blaster 16 o compatible con esta,[IZQUIERDA]
+as¡ como otras que han sido liberadas. Sin embargo, a prueba y error, se han
+encontrado muchas tarjetas de sonido, sobre todo PCI, que no son compatibles
+con BeOS, aunque el propio fabricante diga que es compatible con Sound Blaster
+16. Esto se debe, a que los fabricantes suelen incluir en su tarjeta de sonido
+un driver para Windows (generalmente), que permite hacer una emulaci¢n de la SB
+16. Es decir, cuando cargamos juegos o programas que acceden al hardware de SB
+16, llaman por emulaci¢n al driver, de tal forma, que es como si tuvi‚ramos una
+SB 16 original. Pero claro, este driver s¢lo funciona en el sistema citado
+antes, si el fabricante lo ha incluido.[NO]
+
+
+  Con esto, quiero decir, que por si s¢la, la tarjeta de sonido, no es una SB[IZQUIERDA]
+16 a nivel de hardware. Que conste, que no todas las tarjetas de sonido PCI
+tienen este problema, ya que las buenas, lo solucionan a nivel de hardware.[NO]
+
+
+  Claro esta, que a diferencia del video (VESA), el sonido, nunca ha pose¡do,[IZQUIERDA]
+ni posee, un est ndar, ya que las DIRECTX de Windows, no son un est ndar, y la
+Sound Blaster, tampoco (s¢lo la m s vendida).[NO]
+
+
+  Por tanto, hay que recurrir, a los drivers para BeOS oportunos:
+
+
+   - Sound Blaster Pro -->[PC AMARILLO] SBPRO.ZIP (26 KB)[BLANCO]
+   - Sound Blaster PCI128 (17 KB)[AMARILLO]
+   - CMPCI -->[AMARILLO] CMPCI.ZIP (57 KB)[BLANCO]
+   - DigitalXG -->[AMARILLO] DigitalXG_0.0.3.ZIP (71 KB)[BLANCO]
+   - Altavoz interno -->[AMARILLO] (PCSP.ZIP) 8 KB[BLANCO]
+   - Sound Blaster compatible -->[AMARILLO] SoundBlaster_Compatible.ZIP(24 KB)[BLANCO]
+
+   
+   
+
+
+Impresoras[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  En este tema, soporta no s¢lo impresoras hardware reales, sino las virtuales,[IZQUIERDA]
+al estilo de otros sistemas operativos, como es el caso de UNIX, LINUX y
+Windows.[NO]
+
+
+  Se soportan las impresoras:
+
+
+   - HP[PC AMARILLO]
+   - CANON BJC -->[AMARILLO] Bubblejet_v0.4x86.zip 121 KB (blanco y negro)[BLANCO]
+   - CANON LISP -->[AMARILLO] lips_driver_0.94.zip (292 KB)[BLANCO]
+   - PDF (fichero de documento portable: [AMARILLO]para los libros digitales)[BLANCO]
+
+
+
+
+
+Extras[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Como hardware extra, que est  soportado por BeOS con drivers, pero que no es[IZQUIERDA]
+muy extenso, tenemos:[NO]
+
+
+   - rat¢n whell -->[PC AMARILLO] wmouse-0.3a.zip (26 KB)[BLANCO]
+   - ide ATA-100 -->[AMARILLO] IDE_replacement_driver_v0.5.pkg (129 KB)[BLANCO]
+   - scaner --> [AMARILLO]scanit_v05.3_beta.zip (103 KB)[BLANCO]
+
+
+  El driver IDE ATA-100, soluciona el bloqueo de carga en el menu de arranque[PCT IZQUIERDA]
+de BeOS, sobre todo si nuestra placa no soporta una controladora 100%
+compatible con UDMA-33 o UDMA-100. Esto se debe, a que los fabricantes "venden
+gato por liebre", y por tanto, lo que se dice que cumple, no lo cumple.[NO]

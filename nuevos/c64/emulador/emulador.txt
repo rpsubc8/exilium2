@@ -1,0 +1,193 @@
+[FOTOS 2]
+FOTO_EMULADOR64_1 PALETA_EMULADOR64_1 62 0
+FOTO_EMULADOR64_2 PALETA_EMULADOR64_2 59 142
+ Emuladores de ordenador C-64.[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Pues desde hace mucho tiempo se dispone de varios emuladores de C64, y[IZQUIERDA]
+adem s se encuentran disponibles para multiples plataformas, entre ellas:[NO]
+
+
+   DOS, WINDOWS, LINUX, BeOS, QNX, MACOS, AtheOS, THEOS, AMIGAOS, SOLARIS,[IZQUIERDA AMARILLO]
+UNIX, FreeBSD, OpenBSD, y dem s plataformas.[NO]
+
+
+  Para aquel que no sepa de que estoy hablando, dir‚ que el C64 es un ordenador[BLANCO IZQUIERDA]
+de 8 bits que apareci¢ en 1984. Esta computadora sali¢ a un precio de 300$, y
+no disponia de S.O. En su defecto venia con el BASIC 2.0 en ROM.[NO]
+
+
+  Su CPU,era un motorola 6502/6510 a 2 Mhz, que aunque eso en aquella ‚poca era[IZQUIERDA]
+mucho, hoy se tiende a tomar a risa. Era capaz de manejar 16 colores, sonido de
+3 voces y 32 KBytes de RAM para el usuario, as¡ como una pantalla de 320 x 200
+pixels, lo que nos da 40 columnas por 24 filas para modo texto.[NO]
+  Tambi‚n se disponia de 2 puestos para joysticks o paddles, as¡ como un rat¢n.[IZQUIERDA]
+Para grabar programas, se disponia de un datasette, que era entre 3 y 4 veces
+m s r pido que los que venian con el SINCLAIR. Sin embargo, tambi‚n se disponia
+de una unidad de 5 1/4" que almacenaba hasta 160 KBytes. Como perif‚ricos
+extras, estaban las impresoras de color, monitores de color, modems, e icnluso
+2 unidades de disquetes, y todo eso en 1984, con lo que dejaban bastante en
+rid¡culo a cualquier PC 8088 u 8086 que hubiese salido en esa ‚poca.[NO]
+
+
+  Pero el futuro se puso del lado de BILL GATES e INTEL y para bien o para mal,[IZQUIERDA]
+hoy en d¡a el rey de ordenador dom‚stico es el PC. Sin embargo algunas
+compa¤ias y sceners se han puesto a continuar con el legado de COMMODORE, y se
+pueden usar discos duros y lectoras de cd en el C-64, as¡ como la posibilidad
+de disponer de sonido de alta calidad con tarjetas de sonido especificas, y
+como no la posibilidad de superar los 64 KB de RAM y los 2 Mhz de la CPU, con
+el KIT SCPU (50 Mhz y 16 MB de RAM).[NO]
+
+  En definitiva, que el C-64 nunca ha muerto, y para bien o para mal, hoy en[IZQUIERDA]
+d¡a podemos seguir us ndolo con emuladores o con hardware real.[NO]
+
+
+
+CCS64_32 V2.0[GRANDE AMARILLO]
+[PCT BLANCO]
+
+
+  Pues en esta versi¢n, tenemos las siguientes caracter¡sticas:
+
+   þ Versi¢n DOS:[PC BLANCO]
+
+     - Sistemas Operativos soportados:
+
+        DOS 5.0 o superior, Win95, Win98[GRIS]
+
+     - Requerimientos hardware:[BLANCO]
+
+        Procesador Pentium o superior[GRIS]
+        16 MBytes de RAM
+        Tarjeta gr fica VGA
+
+     - Soporte adicional:[BLANCO]
+
+        Tarjeta de sonido Sound Blaster 8/16 compatible, Gravis Ultrasound,[GRIS]
+        joystick compatible DOS y rat¢n compatible DOS.
+
+   
+   þ Versi¢n Win32:[BLANCO]
+
+     - Sistemas Operativos soportados:
+
+        Windows 95 con DIRECTX 3.0 o superior, Windows NT 4.0 con Service Pack[GRIS]
+        3 o superior, Windows 98, Windows 2000, Windows ME y Windows XP.
+
+     - Requerimientos hardware:[BLANCO]
+
+        Procesador Pentium o superior[GRIS]
+        16 MBytes de RAM
+        Tarjeta gr fica SVGA
+
+     - Soporte adicional:[BLANCO]
+
+        Tarjeta de sonido, joystick y rat¢n compatible con Windows[GRIS]
+
+
+
+  Este emulador se puede conseguir en:[PCT]
+
+  http://www.emulatronia.com[VERDEFOSFORITO PC]
+
+
+Cosas a emular[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  En principio emula la CPU 6502 y 6510 al 99%, as¡ como el VIC 6566/6567/6569[IZQUIERDA]
+y dem s modos gr ficos. En cuanto al sonido, emula el chip 6581/8581 muy bien.
+Y en cuanto a los perif‚ricos, el teclado se emula muy bien, as¡ como la unidad
+de disco 1541 y la unidad de cinta. La impresora tambi‚n se puede emular.[NO]
+
+
+  Otra cosa a emular, interesante, es la 1764 REU (Unidad de Expansi¢n de RAM),[IZQUIERDA]
+que va desde los 128 Kb (16 KB) hasta los 16 Mb (2 MB). Esto nos da mucho juego
+de RAM al [NO BLANCO]C64[AMARILLO], compitiendo con alg£n que otro PC.[BLANCO]
+
+
+  Los cartuchos ROM/RAM tambi‚n se pueden emular con facilidad, as¡ como el[IZQUIERDA]
+joystick, los paddles y el [NO BLANCO]rat¢n[AMARILLO].[BLANCO]
+
+
+
+
+Interface[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Existen varias resoluciones gr ficas, entre las cuales, se aceptan:
+
+    VGA:   284x282, 384x246, 368x240 y 320x200[PC GRIS]
+    SVGA:  320x200, 320x240, 400x300, 512x348, 640x400, 640x480 y 800x600
+
+  Soporte de pantalla completa o en ventana con DIRECTX bajo Windows, as¡ como[IZQUIERDA PCT BLANCO]
+la posibilidad de muestrear a 45454 Hz en 16 bits de sonido. Tambi‚n se permite
+capturar la pantalla en 16 o 256 colores, as¡ como la posibilidad de emular el
+joystick con teclas o con un joystick de PC real.[NO]
+
+  Anque quizas lo m s agradable es la posibilidad de poder incrementar la[IZQUIERDA]
+velocidad de emulaci¢n desde el menu o con las teclas [NO BLANCO]ALT+F5[AMARILLO].[BLANCO]
+
+  Para sacar el menu principal, se debe pulsar la tecla [NO BLANCO]F9[AZULCLARO] del teclado.[BLANCO]
+
+
+
+Manejo[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues en este caso, vamos a probar a arrancar el emulador, que es tan sencillo[IZQUIERDA]
+como ejecutar el [NO]CCS.EXE[AMARILLO].[BLANCO]
+
+  En el acto, nos saldr  una foto como la  que tenemos  a
+nuestra derecha, que es la del propio BASIC V2.0 que est 
+integrado en el chip ROM.
+
+  Se nos indicar  la memoria de la que se dispone, que en
+este  caso  es  de 64 KB, y de 38911 BYTES libres para el
+usuario final.
+
+  Y a modo de ejemplo,se ha probado a escribir un mensaje
+por pantalla desde el BASIC, de la siguiente forma:
+
+  PRINT "HOLA SLIDERS DESDE C64"[AMARILLO]
+[BLANCO]
+  Si lo que quereis es cargar un archivo .D64, hiremos al men£ principal como[IZQUIERDA]
+se coment¢, es decir, pulsando la tecla F9 o la F10. Y luego debemos elegir el
+dispositivo f¡sico que se va ha emular, que puede ser la unidad de cinta o la
+unidad de disco de 5 1/4". Para m s velocidad, mejor elegir la segunda opci¢n,
+pulsando sobre:[NO]
+
+  1541 DEVICE 8[AMARILLO]
+[BLANCO]
+  En el acto nos mostrar  una especie de explorador en el que podemos elegir[IZQUIERDA]
+la unidad de nuestro PC en el que tenemos el archivo .D64, que en este caso,
+emularia al disco f¡sico de 5 1/4. Una vez seleccionado, debemos elegir el
+archivo ejecutable o de BASIC que queremos cargar, usando los cursores del
+teclado para navegar y el ENTER para EJECUTAR. Y al cabo de un rato, se
+lanzar  el programa.[NO]
+
+  Os recuerdo, que podeis usar el [BLANCO]ALT+F5[AZULCLARO] para acelerar este proceso de carga.[BLANCO]
+
+
+
+Conclusiones[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Hemos aprendido algo acerca del C64, as¡ como del emulador. S¢lo os queda[IZQUIERDA]
+conseguir DEMOS y programas en formato .D64 para poder probarlo en el emulata.
+Para ello podeis probar suerte en los enlaces de:[NO]
+
+  http://www.emulatronia.com[VERDEFOSFORITO]
+
+  O atraves de la red.[BLANCO]
+
+  Y hasta aqui nada m s acerca de este emulador.
+
+  
+
