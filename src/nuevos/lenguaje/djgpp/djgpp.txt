@@ -1,0 +1,7 @@
+  El DJGPP es un compilador GNU, basado en el GCC. Por tanto, se trata de un
+compilador de C libre. En concreto, es un compilador de 32 bits, por lo que
+como m¡nimo se generaran binarios para 80386 bajo DOS.
+
+  Una de las principales ventajas de usar DJGPP, es que los binarios pueden
+usar memoria virtual, incluso bajo DOS, ¨o que creiais que s¢lo era posible
+bajo WINDOWS o LINUX?.

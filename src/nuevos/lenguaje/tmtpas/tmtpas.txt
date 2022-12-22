@@ -1,0 +1,25 @@
+  En el n£mero anterior se vio como se trabajaba con PASCAL. Normalmente, en
+la mayor¡a de las instituciones universitarias se suele dar PASCAL, pero con
+un grave error, y es que se usa el PASCAL en modo real, trabajando sobre
+m quinas de 32 bits (modo protegido). Como se suele pedir usar objetos y
+dem s ineficiencias, que consumen recursos, conlleva a un colapso de la
+memoria, con el cuelgue de nuestro programa.
+  La soluci¢n que han puesto muchos er£ditos en el tema 8-D)) ha sido usar
+el DELPHI (ante todo ilegal), alegando que se puede acceder a mas memoria.
+Esta claro, que se accede a m s memoria, pero Delphi funciona sobre Windows
+y Windows consume mucha memoria, as¡ como que la gestiona fatal.
+
+  Para ello, si disponemos de una CPU de 32 bits (80386 o superior), con al
+menos 2 MB de memoria (depende de la versi¢n), podremos usar TMTPASCAL bajo
+DOS.
+
+  Las ventajas que esto conlleba, son una mayor gesti¢n de memoria, ya que
+nos encontramos en modo protegido (4 GB), as¡ como el uso de funciones en
+plenos 32 bits, como ser¡an el acceso a E/S y llamadas al DOS, que en la
+mayor¡a de los casos son emuladas.
+
+  Como problemas, tendremos que nuestros ejecutables no funcionar n ni en un
+286, ya que se requiere como m¡nimo un 386, as¡ como que algunas funciones del
+PASCAL tradicional no funcionaran, como es el caso del PASCKET ARRAY. Sin
+embargo, la orientaci¢n a objetos funcionar  perfectamente, al puro estilo
+del TURBO PASCAL 7.0 del BORLAND.

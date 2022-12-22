@@ -1,0 +1,289 @@
+[FOTOS 0]
+Lenguaje C--[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  En el art¡culo anterior hab¡amos visto el C-- de Peter Sphinx Cellik. Pero[IZQUIERDA]
+tal y como se coment¢, su creador no ha vuelto ha realizar modificaciones en
+este compilador. Por lo que ahora vamos a ver el C-- avanzado, el cual soporta
+el C-- anterior, pero a¤ade mejoras, entre las cuales se encuentra la
+posibilidad de generar binarios para DOS en modo protegido, para WIN32
+(Windows 9x) e incluso para el Sistema Operativo de reciente creaci¢n MENUET.[NO]
+
+
+  Esta continuaci¢n del proyecto del canadiense Peter Sphinx Cellik, se la[IZQUIERDA]
+debemos al ruso Michael Sheker. Para poder descargar este compilador, pod‚is
+visitar esta p gina web:[NO]
+
+
+          http://www.sheker.chat.ru/index_e.htm[VERDEFOSFORITO CHAR14B]
+
+
+  Sino funciona esta, probad con esta otra:[PCT BLANCO]
+
+
+          http://www.dev0.de/cmm/index_e.htm[VERDEFOSFORITO CHAR14B]
+
+
+  Y sino, mirad en el buscador GOOGLE, pero recordad, que cuanto m s os[PCT BLANCO IZQUIERDA]
+acerqu‚is al contenido ruso, m s cerca estar‚is del C--. As¡ que si termin is
+en una p gina AMERICANA, probablemente, no sea el C--.[NO]
+
+  Nuestra p gina web, alberga contenidos y el compilador del C-- cl sico.
+
+
+
+
+
+
+Opciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Las opciones que se han a¤adido como nuevas, son las siguientes:
+ 
+   þ OPTIMIZACIONES:[PC]
+
+     /OC     tama¤o de c¢digo[GRIS]
+     /OS     velocidad
+     /ON     n£mero de optimizaci¢n
+     /UST    Usar al comienzo del c¢digo para variables
+     /DE     Activa expansi¢n temporal variable
+     /OST    Activa optimizaci¢n de strings
+     /AP[[=n] Alinea el comienzo del procedimiento
+     /AC[[=n] Alinea al comienzo de ciclo
+
+
+   þ GENERACION DEL CODIGO:[BLANCO]
+
+     /2        80286[GRIS]
+     /3        80386
+     /4        80486
+     /5        pentium
+     /WFA      Llamada r pida a los procedimientos de la API
+     /IV       Inicializa todas las variables
+     /A        Activa la alineaci¢n de direcciones
+     /SUV=#### Direcci¢n de comienzo de variables
+     /AL=##    Inserta un byte con valor dado
+
+
+   þ LINKADO:[BLANCO]
+
+     /DOS4GW fichero corriendo con extensor DOS4GW[GRIS]
+
+
+   þ SALIDA DE FICHEROS:[BLANCO]
+
+     /TEXE DOS EXE (modelo TINY)[GRIS]
+     /EXE  DOS EXE (modelo SMALL)
+     /OBJ  salida OBJ                                                 
+     /SYM  Symbiosis COM
+     /SYS  dispositivo (SYS)
+     /D32  EXE (32bit para DOS)
+     /W32  EXE para el GUI Windows32
+     /W32C EXE para consola Windows32
+     /DLL  DLL para Windows32
+     /DBG  creaci¢n de informaci¢n de debug
+     /LST  creaci¢n de un listado en ensamblador
+
+
+
+  Y much¡simas m s opciones que se han saltado por el medio y por el final,[PCT BLANCO IZQUIERDA]
+debido a que por ahora no las vamos a necesitar.[NO]
+
+
+
+
+
+
+
+Mejoras[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  A parte de lo que se puede ver a simple vista, cabe destacar que gracias al[IZQUIERDA]
+entusiasmo de programadores, como es el caso de Michael Sheker, y del GNU, se
+ha podido continuar con el legado de Peter Sphinx Cellik del C--.[NO]
+
+  Y se ha conservado la compatibilidad con todo lo anterior, pero con a¤adidos,[IZQUIERDA]
+entre ellos:[NO]
+
+   - Posibilidad de poner los includes con #include (amantes del C) o ?include.
+   - Definiciones avanzadas de punteros void (*proc)()
+   - Declaraci¢n de procedimientos y estructuras:
+
+      struct KK{[AMARILLO]
+       int color;
+       int olor;
+       int cantidad;
+      };
+
+   - Uso de orientaci¢n de objetos (Amantes del C++):[BLANCO]
+
+      struct TKK{[AMARILLO]
+       int color;
+       int olor;
+       int cantidad;
+       void Limpiar ();
+      };
+
+      void TKK.Limpiar(){
+       cantidad = 0;
+      }
+
+      void main(){
+       TKK kkcota;
+       kkcota.Limpiar();
+      }
+
+   - Soporte de inherencia simple y m£ltiple (amantes del C++).[BLANCO]
+   - Paso de par metros a la pila del procedimiento v¡a registros.
+   - Asignaci¢n de valores a m£tiples variables (tipo C):
+
+      variable1=0;[AMARILLO]
+      variable2=0;
+
+      variable1=variable2=0;
+
+   - Uso de variables locales y globales:[BLANCO]
+
+      int variable;  //variable global[AMARILLO]
+
+      void procedimiento()
+       int variable; //variable local
+      {
+       variable = 1; //Modifica la variable local
+       ::variable = 2; //Modifica la variable global
+      }
+
+        Como se puede observar, para acceder a una variable global se debe[BLANCO IZQUIERDA]
+      anteponer la palabra clave '::'.[NO]
+
+   - Reemplazo de la funci¢n return por GOTO (optimizaci¢n de c¢digo)
+   - Estructuras de bits (tipo C):
+
+      int variable:3; //Define un registro de 3 bits[AMARILLO]
+
+
+
+
+
+
+Instalacion[GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Pues una vez visto todo lo anterior, quiz s teng is ganas de descargar esta[IZQUIERDA]
+maravilla de compilador. Para ello pod‚is probar con las siguientes p ginas
+webs:[NO]
+
+          http://www.dev0.de/cmm/index_e.htm[VERDEFOSFORITO CHAR14B]
+
+          http://sheker.chat.ru
+
+          http://c--sphinx.narod.ru, http://www.dev0.de/cmm)
+
+          http://www.dcs.gla.ac.uk/~reig/c--
+
+          http://www.cse.ogi.edu/PacSoft/projects/C--
+
+          http://www.cminusminus.org
+
+          http://radio-mir.com
+
+
+  Y sino, probad suerte en alg£n buscador de INTERNES, pero recordad, que si[PCT BLANCO IZQUIERDA]
+pon‚is en la b£squeda "--", ser n interpretados como c¢digos especiales, as¡
+que probad con "Peter Sphinx Cellik" o "C minus minus".[NO]
+
+
+  Una vez encontrado, podr‚is observar que hay disponibles varias partes:
+
+
+   - Todo el C-- completo (2 MB).[PC GRIS]
+   - El compilador
+   - Las librerias
+   - Ejemplos
+
+
+  Os recomiendo que coj is el C-- completo, as¡ como los ejemplos,ya que con el[PCT IZQUIERDA BLANCO]
+compilador s¢lo, poco podr‚is hacer. En concreto si descarg is las librer¡as,
+podr‚is incluso hacer programas para WIN32  o Menuet.[NO]
+
+
+  En cuanto a los ejemplos, los hay muy bonitos, sobre todo las intros de 512[IZQUIERDA]
+bytes bajo DOS, que dejan ver la potencia de este compilador para la demoscene,
+que es lo que nosotros quer¡amos mostrar.[NO]
+
+  Tambi‚n hay ejemplos en OpenGL de peque¤o tama¤o, pero tened en cuenta una[IZQUIERDA]
+cosa:[NO]
+
+  Una intro de 4 KB para DOS no es lo mismo que para WIN32, ya que WIN32[IZQUIERDA]
+necesita much¡simos m s recursos de hardware para funcionar.[NO]
+
+
+  Se puede apreciar una vez instalado, que hay varios ejecutables:
+
+   - NG.COM  --> [PC AMARILLO]Base de datos residente[GRIS]
+   - WB.COM  --> [AMARILLO]Entorno de desarrollo del C-[GRIS]
+   - 4GS.COM --> [AMARILLO]Extensor[GRIS]
+   - 4GSQ.EXE --> [AMARILLO]Extensor[GRIS]
+   - ZRDX --> [AMARILLO]Extensor[GRIS]
+   - C-- --> [AMARILLO]El compilador[GRIS]
+
+
+
+
+
+
+
+
+Primer programa[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  void main(){[PC GRIS]
+    WRITESTR ("Mi primer golpe de sangre: UNREAL");
+  }
+
+  Y esto nos mostrar  un mensaje, y tan s¢lo el ejecutable resultante ocupar [PCT BLANCO IZQUIERDA]
+62 bytes (todo un record), frente a los binarios resultantes de la basura del
+Visual C++ de Microsoft, o incluso de BORLAND.[NO]
+  
+  Tal y como se compil¢ el ejecutable anterior, se gener¢ un binario para x86[IZQUIERDA]
+de c¢mo m¡nimo un 286.[NO]
+
+
+  Si quer‚is la versi¢n en modo protegido con el extensor DOS4GW, tan s¢lo[IZQUIERDA]
+deb‚is de realizar los siguientes cambios:[NO]
+
+
+
+          c-- /DOS4GW prueba.c--[VERDEFOSFORITO CHAR14B]
+
+
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Pues en este art¡culo se ha conseguido explicar la continuaci¢n del trabajo[IZQUIERDA]
+de Peter Sphinx Cellik (C--). Y a lo largo de los pr¢ximos n£mero iremos
+comentando m s cosas, as¡ como ejemplos de programaci¢n.[NO]
+
+  En el n£mero anterior, en los BONUS, dej‚ el c¢digo fuente y el binario[IZQUIERDA]
+resultante de una intro de 2 KB hecha por m¡. Por supuesto, est  sin acabar,
+pero vale como ejemplo de programaci¢n en C--.[NO]
+  Si os fij is, el c¢digo contiene rutinas para 8086, 386 y MMX. Si quitamos[IZQUIERDA]
+algunas de estas rutinas que se repiten, se obtendr  un binario de menos de
+1 KB.[NO]

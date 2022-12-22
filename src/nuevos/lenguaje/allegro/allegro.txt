@@ -1,0 +1,15 @@
+  Las librerias ALLEGRO sirven para realizar videojuegos, pero tambi‚n se
+pueden usar para tareas menos l£dicas, como puede ser el de esta revista.
+
+  Las ventajas de usar estas librerias radica en que el c¢digo aunque no es
+GNU, si esta abierto, por lo que se permite una mayor migraci¢n a otras
+plataformas, como es el caso de DOS, LINUX, QNX, BeOS, Windows MACOS, etc..
+
+  Son unas librerias pensadas para crear videojuegos en C, por lo que permiten
+trabajar con el video, con el sonido y con los formatos gr ficos sin falta de
+ensuciarnos las manos. En definitiva, se asemeja a lo que siempre quiso ser
+las DIRECTX de Microsoft, pero m s eficientes, y con un menor uso de recursos.
+
+  En este primer cap¡tulo, vamos a indicar algunos conceptos b sicos, como son
+la inicializaci¢n de los modos de video, y el dibujo de primitivas gr ficas.
+AS¡ que manos a la obra.

@@ -1,0 +1,153 @@
+[FOTOS 0]
+Librerias SDL[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Pues como sabr‚is, en el n£mero anterior de la revista, pudimos ver por[IZQUIERDA]
+encima, la instalaci¢n y manejo de las librer¡as SDL para el acceso a los
+modos de v¡deo y dibujo por pantalla.[NO]
+
+  Ahora vamos a ver como se puede leer de dispositivos de Entrada, es decir,[IZQUIERDA]
+del joystick, por ejemplo.[NO]
+
+
+
+
+
+Manos a la obra[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+  En primer lugar, debemos de hacer lo de siempre, es decir:
+
+   - Inicializar las librer¡as SDL[PC GRIS]
+   - Inicializar modo de video
+  
+  Pero esta vez, vamos a inicializar algo nuevo, que es el caso de un[PCT BLANCO IZQUIERDA]
+subsistema, que se hace corresponder con el joystick. Para ello, deberemos
+escribir algo, como lo siguiente:[NO]
+
+
+   SDL_InitSubsystem(SDL_INIT_JOYSTICK);[AMARILLO]
+
+
+  De esta forma, se puede carga el m¢dulo del JOYSTICK. Si no ponemos esto,[IZQUIERDA BLANCO]
+aunque se compile todo, en tiempo de ejecuci¢n, no tendremos acceso al
+joystick, aunque por supuesto, no dar  errores, si se siguen los pasos
+adecuados.[NO]
+
+  Y el c¢digo entero, en C, ser  algo como esto:
+
+
+  #include <stdlib.h>[AMARILLO]
+  #include <windows.h>
+  #include <SDL\SDL.H>
+
+
+  SDL_Surface *screen;
+  SDL_Joystick * joy;
+  int numeroJoystick,i, coord_x, coord_y;
+
+  int WINAPI WinMain (HINSTANCE hInstance,
+                      HINSTANCE hPrevInstance,
+                      PSTR szCmdLine,
+                      int iCmdShow) {
+
+   if ( SDL_Init(SDL_INIT_AUDIO|SDL_INIT_VIDEO) < 0 ) {
+       fprintf(stderr,"No se puede inicializar las SDL: %s\n", SDL_GetError());
+       exit(1);
+   }
+   else{
+    screen = SDL_SetVideoMode(640, 480, 16, SDL_SWSURFACE);
+    if ( screen == NULL ) {
+        fprintf(stderr, "No puedo poner 640x480: %s\n", SDL_GetError());
+        exit(1);
+    }
+    else{
+     SDL_InitSubSystem(SDL_INIT_JOYSTICK);
+     numeroJoystick = SDL_NumJoysticks();
+     printf ("N£mero de joysticks: %d\n",numeroJoystick);
+
+     for (i=0;i<numeroJoystick;i++)
+      printf ("Nombre %s\n",SDL_JoystickName(i));
+
+     if (numeroJoystick>0){
+      joy = SDL_JoystickOpen(0);
+
+      if (joy){
+       printf("Joystick abierto con ‚xito\n");
+
+       coord_x = SDL_JoystickGetAxis (joy,0); //El 0 es las X
+       coord_y = SDL_JoystickGetAxis (joy,1); //El 1 es la Y
+
+       printf ("coordenada X: %d\nCoordenada Y: %d\n",coord_x,coord_y);
+       SDL_JoystickClose(0);
+      }
+     }
+    }
+   }
+   atexit(SDL_Quit);
+  }
+
+
+
+  En este caso, he decidido poner el c¢digo fuente para ser compilado con el[BLANCO IZQUIERDA]
+MINGW32 (GCC WIN32) para WINDOWS. Por tanto, se ha a¤adido un cambio en el
+cuerpo principal.[NO]
+
+  En concreto, el main, pasar  a ser:
+
+   int WINAPI WinMain (HINSTANCE hInstance,[AMARILLO]
+                       HINSTANCE hPrevInstance,
+                       PSTR szCmdLine,
+                       int iCmdShow)
+
+  Y hay que poner un[BLANCO] #include <windows.h>[AMARILLO]
+
+
+  Para saber el n£mero de joysticks que posee nuestro sistema, pondremos:[BLANCO]
+
+    SDL_NumJoysticks();[AMARILLO]
+
+  Y si nos da m s de 0, es decir 1 en adelante, es que poseemos alg£n joystick.[BLANCO]
+  Por tanto, podemos sacar informaci¢n, como su nombre, con la funci¢n:
+
+    SDL_JoystickName(indice);[AMARILLO]
+
+  Esto, nos dar  el nombre del joystick de n£mero ¡ndice, es decir, si queremos[IZQUIERDA BLANCO]
+el nombre del primer joystick, en ¡ndice pondremos 0.[NO]
+  
+  Antes de poder trabajar con el joystick, hay que abrirlo. Y esto se hace con[IZQUIERDA]
+la funci¢n:[NO]
+
+    SDL_JoystickOpen(indice);[AMARILLO]
+
+  Que nos devuelve un puntero de tipo JOYSTICK *. El ¡ndice es lo mismo que[IZQUIERDA BLANCO]
+en el caso anterior.[NO]
+
+
+  Para poder cerrar un joystick, se pondr  la funci¢n:
+
+    SDL_JoystickClose(indice);[AMARILLO]
+
+
+  Y para poder leer las coordenadas, se har  con la funci¢n:[BLANCO]
+
+    SDL_JoystickGetAxis (joy,0);[AMARILLO]
+
+  Y con:[BLANCO]
+
+    SDL_JoystickGetAxis (joy,1);[AMARILLO]
+
+  Si os fij is, s¢lo cambia el par metro segundo, que ser  un 0 o un 1, seg£n[IZQUIERDA BLANCO]
+queramos la X o la Y.[NO]
+
+
+  Para poder compilar todo esto, debemos de escribir, algo como esto:
+
+
+    gcc -s -O9 joy.c -ojoy.exe -lsdl[AMARILLO]
+
+
+  Y ya est , con tan s¢lo 4 Kbytes, tendremos nuestro maravilloso programilla[IZQUIERDA BLANCO]
+que trabaja con el Joystick.[NO]

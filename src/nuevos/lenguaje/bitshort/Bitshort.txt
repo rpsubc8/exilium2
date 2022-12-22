@@ -1,0 +1,189 @@
+[FOTOS 0]
+Algoritmo Bitshort[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+Bitshort, Byteshort, y la polla con cebolla[PC AMARILLO CENTRO]
+-------------------------------------------
+[PCT BLANCO NO]
+
+
+  Bueno, bueno, bueno, culebras...
+  Voy a hablaros de el que dicen, es uno de los algoritmos mas r pidos de[IZQUIERDA]
+ordenaci¢n. No es que yo lo diga, pero los n£meros hablan por si mismos:[NO]
+
+
+  Si el realizar la ordenaci¢n de n£meros en un rango [[0,65535] en tan solo 2[IZQUIERDA]
+pasadas al array no os impresiona, pues probar a compraros una m gnum y ver el
+resultado de dispararos a la cabeza... (por esto me refiero a ordenar tanto a
+dos n£meros, 0 y 65535, como a doscientos o dos mil dentro del mismo rango)[NO]
+
+
+
+  Empezaremos con un sencillo ejemplo explicativo:
+
+
+    Coloquemos un conjunto reducido de n£meros ordenados por ejemplo del 0 al 3
+    (4 n£meros):
+
+
+        numero          representaci¢n binaria[PC AMARILLO]
+
+          0                     00[GRIS]
+          1                     01
+          2                     10
+          3                     11
+
+
+  Observemos la columna de la representaci¢n binaria de los n£meros en posici¢n[PCT BLANCO IZQUIERDA]
+ya ordenada. Comprobaremos que hay dos columnas, una de ellas alternando 0's y
+1's y la otra alternando dos 0's con dos 1's (mir ndola de arriba a abajo).[NO]
+
+
+  Coloquemos ahora los n£meros desordenados y probemos a aplicar un simple[IZQUIERDA]
+algoritmo:[NO]
+
+
+    3,2,1,0[AMARILLO]
+
+
+  Los he colocado al rev‚s no por capricho sino porque en un caso real seria[BLANCO IZQUIERDA]
+el peor de los casos, es decir ning£n elemento de la lista esta ya ordenado.[NO]
+
+
+  Ahora, orden‚moslos seg£n su codificaci¢n binaria del siguiente modo:
+
+
+   1.- Creamos una lista igual pero vac¡a[PC GRIS]
+   2.- Los n£meros cuya primera columna binaria sea un 0 en la parte alta de la
+       nueva lista. Y los que sean un 1 en la parte baja. Para ello dividiremos
+       la lista  en  dos. Con dos punteros  de  entrada , uno para  colocar los
+       n£meros con esa columna 0 y otro para los que tengan un 1.
+   3.- Cambiamos de  columna (en esta direcci¢n <----) y volvemos a  repetir el
+       algoritmo.
+
+
+  Vamos a verlo paso a paso:[PCT BLANCO]
+
+
+   tabla vac¡a:
+
+     _______[PC GRIS]
+    |_______|[GRIS]<-puntero para ceros[AMARILLO]
+    |_______|[GRIS]
+    |_______|[GRIS]<-puntero para unos[AMARILLO]
+    |_______|[GRIS]
+
+
+   paso 1:[PCT BLANCO]
+
+            3       11[PC AMARILLO]
+            2       10
+            1       01
+            0       00
+
+            esta ser  la primera columna[PCT BLANCO]
+
+
+  Comenzamos con el 3, como su primera columna tiene un 1, luego lo colocamos[IZQUIERDA]
+donde apunta el puntero para unos.[NO]
+
+
+   El 2 tiene un 0 as¡ que va arriba[PC GRIS]
+   El 1 tiene un 1 as¡ que va abajo
+   El 0 tiene un 0 y va abajo, quedando la tabla as¡:
+
+
+    2       10[AMARILLO]
+    0       00
+    3       11
+    1       01
+
+
+  Vemos como esta columna ha quedado ordenado alternando dos 0's y dos 1's.[PCT BLANCO IZQUIERDA]
+Para darle la puntilla volvemos a aplicar el algoritmo (tantas veces como
+d¡gitos binarios se necesiten para representar el rango de n£meros usados),
+pero esta vez a la siguiente columna, la de la izquierda. Eso si, no me se is
+burros, hay que aplicar el algoritmo de nuevo pero a la lista que hemos creado.[NO]
+  No hace falta crear otra nueva, pod‚is usar la que conten¡a los valores del[IZQUIERDA]
+principio.[NO]
+
+
+   El 2 tiene un 1 va abajo[PC GRIS]
+   El 0 tiene un 0 va arriba
+   El 3 tiene un 1 va abajo
+   y el 1 tiene un 0 va arriba y queda
+
+
+    0       00[AMARILLO]
+    1       01
+    2       10
+    3       11
+
+
+  Voila!!!, tenemos lo que quer¡amos en las columnas binarias y por ende los[PCT BLANCO IZQUIERDA]
+n£meros est n ordenados.[NO]
+
+
+  4 n£meros con 2 pasadas. Esto realmente no es impresionante.
+  Si us semos 16 n£meros (0..15) y este mismo algoritmo, dar¡amos tantas[IZQUIERDA]
+pasadas como d¡gitos binarios sean necesarios para representar 16 n£meros. Es
+decir dar¡amos 4 pasadas.[NO]
+
+
+  Ahora pensemos, para ordenar nos estamos fijando en simples ceros y unos. Que[IZQUIERDA]
+son s¡mbolos num‚ricos. Y si los agrupo por ejemplo, de dos en dos, y los
+considero un £nico s¡mbolo por el que ordenar. En vez de ser 0's y 1's, ser¡an
+00's,01's,10's y 11's. La lista se dividir¡a en cuatro, en vez de dos y las
+reglas de ordenaci¢n serian iguales, pero esta vez:[NO]
+
+
+   00 <-[PC AMARILLO] al primer cuarto de la lista[GRIS]
+   01 <-[AMARILLO] al segundo cuarto de la lista[GRIS]
+   10 <-[AMARILLO] al tercer cuarto de la lista[GRIS]
+   11 <-[AMARILLO] al ultimo cuarto de la lista[GRIS]
+
+
+  Volvamos a ordenar seg£n estas reglas la lista del ejemplo anterior, pero[PCT BLANCO IZQUIERDA]
+esta vez miraremos dos columnas a la vez en lugar de una.[NO]
+
+
+   3       11[PC AMARILLO]
+   2       10
+   1       01
+   0       00
+
+
+  El 3 es 11, as¡ que va al £ltimo cuarto de la lista.[PCT BLANCO]
+  El 2 es 10, as¡ que va al tercer cuarto de la lista.
+  El 1 es 01, as¡ que va al segundo cuarto de la lista.
+  El 0 es 00, as¡ que va al primer cuarto de la lista.
+
+
+   0       00[AMARILLO]
+   1       01
+   2       10
+   3       11
+
+
+  Ya esta!, y de una sola pasada![BLANCO]
+  Si pusi‚semos 500 n£meros en una lista y todos ellos estuvisen en el rango[IZQUIERDA]
+[[0,3] (n£meros enteros), podr¡amos ordenarla de una sola pasada.[NO]
+
+
+  Pero aun no acaba aqu¡ la cosa. Este algoritmo, llamado en su versi¢n m s[IZQUIERDA]
+simple (1 bit) bitshort y en su versi¢n mas heavy usada, byteshort (ya os
+pod‚is imaginar), se usaba, y puede que a£n se use, en ordenaci¢n para
+algoritmos de visualizaci¢n 3d.[NO]
+
+
+  A partir de aqu¡ pod‚is extender el algoritmo lo que quer is.
+
+  La soluci¢n de compromiso para ordenar un rango de n£meros de [[0,65535] en[IZQUIERDA]
+una sola pasada, se mueve de byte en byte, divide la tabla en 256 elementos y
+maneja un array de 256 punteros. Si es cierto, es un algoritmo que traga m s
+memoria que el alzehimer. Pero seguro que a alguno se le ocurre alguna
+optimizaci¢n para hacerlo menos exigente.[NO]

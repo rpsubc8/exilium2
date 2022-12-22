@@ -1,0 +1,163 @@
+[FOTOS 0]
+DARKBASIC[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  En el n£mero anterior, se hab°a comentado la potencia del DARKBASIC, al menos[IZQUIERDA]
+para WIN32 con DIRECTX 7.0 y un buen equipo con aceleradora.[NO]
+
+  Pues en este n£mero vamos a seguir hablando de la potencia de este[IZQUIERDA]
+"lenguaje", y de las posibilidades del mismo en el †mbito scener y de los
+juegos. Aunque m†s bien se podr°a hablar del †mbito de hacer felicitaciones
+navide§as y de salvapantallas.[NO]
+
+
+
+
+
+Control del Joystick[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues en este mismo n£mero os he ense§ado a construir un conversor de joystick[IZQUIERDA]
+de CPC, ATARI o consola con conector DB9, a DB25 de puerto paralelo. Adem†s os
+ense§Ç a programar directamente el puerto paralelo para poder leer los datos de
+ese joystick.[NO]
+
+  Pero, gracias al driver para WINDOWS, podrÇis prescindir (para bien o para[IZQUIERDA]
+mal) de programar directamente el puerto paralelo. De hecho, si usamos
+DARKBASIC, podremos usar este joystick, sin muchos conocimientos de su
+mec†nica interna, con s¢lo escribir este c¢digo:[NO]
+
+
+  Rem * Title  : Simple Joystick[AMARILLO]
+  Rem * Author : DBS-LB
+  Rem * Date   : 1st Sept 99
+  rem ==============================================
+  rem DARK BASIC EXAMPLE PROGRAM 7
+  rem ==============================================
+  rem This program provides simple joystick movement
+  rem ----------------------------------------------
+
+  rem Pone coordenadas en mitad de la pantalla
+  x=320
+  y=240
+
+  rem Comienzo del programa principal
+  do
+
+  rem Borra pantalla
+  cls
+
+  rem En funci¢n de la entrada del joystick, varia las variables de movimiento
+  if joystick up()=1 then y=y-1
+  if joystick down()=1 then y=y+1
+  if joystick left()=1 then x=x-1
+  if joystick right()=1 then x=x+1
+
+  rem Cambia el color, en funci¢n del bot¢n pulsado
+  if joystick fire a()=1 then ink rgb(255,0,0),0
+  if joystick fire b()=1 then ink rgb(0,255,0),0
+  if joystick fire c()=1 then ink rgb(0,0,255),0
+  if joystick fire d()=1 then ink rgb(64,0,64),0
+
+  rem Dibuja un circulo en la coordenadas del joystick especificadas
+  circle x,y,20
+
+  rem Fin del bucle y del programa
+  loop
+
+
+  Con esto, ya hemos conseguido usar nuestro querido joystick. Que conste que[IZQUIERDA BLANCO]
+s¢lo he traducido el c¢digo que ha realizado DBS-LB, ya que me ven°a muy bien.[NO]
+
+  Como se aprecia, la funci¢n clave es joystick. Y todo se hace preguntando a[IZQUIERDA]
+ella. As° si ponemos:[NO]
+
+   joystick up()[AMARILLO]
+
+  Nos devolver† si se ha movido el joystick hacia arriba.[BLANCO]
+
+  De la misma forma, si ponemos:
+
+   joystick FIRE a()[AMARILLO]
+
+  Sabremos si se ha pulsado el bot¢n A, es decir,el primero del joystick o PAD.[BLANCO]
+
+
+
+
+
+
+
+Raton[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Para el caso de querer usar el rat¢n, podremos hacer uso del siguiente c¢digo[IZQUIERDA]
+de programa:[NO]
+
+
+  Rem * Title  : Mouse Draw[AMARILLO]
+  Rem * Author : DBS-LB
+  Rem * Date   : 1st Sept 99
+  rem ==========================================
+  rem DARK BASIC EXAMPLE PROGRAM 2
+  rem ==========================================
+  rem This program will make the mouse draw
+  rem ------------------------------------------
+
+  rem User prompt
+  print "Usar el rat¢n para dibujar l°neas"
+
+  rem Comienzo del programa principal
+  do
+
+  rem Valores antigÅos de las coordenadas
+  oldx=x
+  oldy=y
+
+  rem Dibuja una l°nea en el cursor actual, si se aprieta el bot¢n del rat¢n
+  if mouseclick()=1
+        x=mousex()
+        y=mousey()
+        c=mousez()
+        ink rgb(100+c,100+c,100+c),0
+        line oldx, oldy, x, y
+        hide mouse
+  else
+        show mouse
+  endif
+
+  rem Fin del programa
+  loop
+
+
+  Como se puede apreciar, aqu° las coordenadas del rat¢n se sacan con las[IZQUIERDA BLANCO]
+funciones:[NO]
+
+    mousex(),  mousey() y mousez()[AMARILLO]
+
+  Seg£n se quiera la X, Y o Z. Si poseemos un rat¢n con NETSCROLL, nos vendr†[IZQUIERDA BLANCO]
+muy bien, la coordenada Z, ya que es la de giro de la rueda central.[NO]
+
+  Para mostrar y ocultar el rat¢n, se usa:
+
+   hide mouse[AMARILLO]
+   show mouse
+
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues hasta aqu°, el art°culo, de manejar el joystick y el rat¢n en DARKBASIC,[IZQUIERDA]
+que como veis es muy interesante para poder jugar, ya que un juego sin
+posibilidad de usar un canal de Entrada, poca diversi¢n va a tener, salvo que
+sea un juego con IA (Inteligencia Artificial).[NO]
