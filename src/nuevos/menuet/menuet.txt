@@ -1,0 +1,128 @@
+[FOTOS 3]
+FOTO_MENUET_1 PALETA_MENUET_1 57 37
+FOTO_MENUET_2 PALETA_MENUET_2 57 67
+FOTO_MENUET_3 PALETA_MENUET_3 57 90
+Menuet OS[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+MenuetOS y el paradigma de los mini-operativos[PC AMARILLO CENTRO]
+----------------------------------------------
+
+
+
+  Sinceramente, en estos tiempo que corren, y como corren los muy hijos de[PCT BLANCO IZQUIERDA]
+puta, hablar de SO's es algo com£n. Que si Linux, que si Windows, que si BeOS,
+etc...[NO]
+
+
+  Pa meter Windows, los hay que tener bien puestos y adem s grandes. Me refiero[IZQUIERDA]
+a los discos duros, mal pensaos. Y adem s depende de que versi¢n, tampoco
+merece mucho la pena.[NO]
+
+
+  Respecto a Linux, digo otro tanto. No es que vaya mucho mejor ni mucho peor.[IZQUIERDA]
+Lo cierto es, que puede ser una soluci¢n elegante al "yo no pago ni un puto
+euro por esta mierda". Aunque otros opinar¡an lo mismo de la Win-pirater¡a, es
+decir, copietear los [NO]Windows.[AMARILLO]
+
+
+  BeOS es para mi una de las vacas sagradas de los SO, pero claro como nunca[IZQUIERDA BLANCO]
+llueve a gusto de todos, y £ltimamente del m¡o menos, resulta que no les
+result¢ muy rentable a sus creadores. Sin embargo ah¡ esta, abri‚ndose paso
+hacia nuevos rumbos. Ah¡ est n diversos proyectos de un SO "libre" basado en
+BeOS. Ser  por lo poco que tiene, por que todo es muy compacto (de los que he
+hablado de momento es el que menos ocupa en su versi¢n personal), o porque los
+de la licencia GPL aun no le han metido demasiada mano. El caso es que es de
+los que mejor va.[NO]
+
+
+  Otro en esta l¡nea que aun no he mencionado, y que es
+"gratis", que no "libre", es el [BLANCO]QNX[AMARILLO] pero este no es una[BLANCO]
+plataforma  para  meter  jueguecitos  ni  chorradillas,
+aunque se puede, todo aquel que tenga una voodoo, podr 
+disfrutar del quake III en el QNX , o del doom. Este SO
+es una plataforma para tiempo real.
+
+
+  Ojo! , no  es  el  tiempo  real de los jueguecitos de
+estrategia , ni nada parecido. Es el tiempo real de los
+procesos, los programas con l¡mite de respuesta , o con
+un tratamiento de errores f‚rreo, o acaso cre‚is que el
+sistema  de  un  avi¢n  o  el  de los sat‚lites, llevan
+Windows CE.[AMARILLO]
+  Para que nos entendamos, los sistemas que tienen que dar una respuesta[IZQUIERDA BLANCO]
+correcta en un determinado periodo de tiempo, despu‚s del cual puede haber una
+cat strofe (o no, depende del sistema donde este instalado, no es lo mismo que
+falle un avi¢n, que una lavadora), se denominan de tiempo real.[NO]
+
+
+  Aunque el [BLANCO]QNX[AZULCLARO] tambi‚n esta muy bien, ocupa tambi‚n bastante.[BLANCO]
+
+
+  Hete aqu¡ que navegando por la red, encontr‚ una soluci¢n.
+
+
+  MenuetOS:[AMARILLO]  Un  SO  que  cabe  en  un  disquete,  de echo esa es  una  de  sus[BLANCO]
+especificaciones iniciales, junto a la de ser un SO de tiempo real. En concreto
+deb¡a cumplir la especificaci¢n hard.
+
+
+  Dicho sistema, realizado ¡ntegramente en ensamblador,
+se compone de una API f cil de usar.
+  Si alguien sabe programar en sistemas de ventanas,son
+comunes las funciones para crear y manejar ventanas,as¡
+como crear y manejar threads o hilos. En [BLANCO]MenuetOS[AMARILLO]  todo[BLANCO]
+esto se hace con una sola int.
+
+
+  La [BLANCO]INT  40h[AZULCLARO] y mediante diversas funciones , tenemos a[BLANCO]
+nuestro servicio un completo conjunto de funciones para
+representar tanto texto como gr ficos o ventanas.
+
+  Todo ello desde c¢digo ensamblador. Posee su propio compilador. Una versi¢n[IZQUIERDA]
+del FAST assembler (FASM).[NO]
+
+
+  De momento se halla en versiones beta, aun no han pasado del 0.xx al 1.00,[IZQUIERDA]
+pero ya posee bastante cosas. Entorno gr fico con resoluciones muy altas,
+demostraciones gr ficas, tanto de fuegos como de t£neles, como una peque¤a
+demostraci¢n de un motor estilo doom  en  ventana, y en[NO]
+sus £ltimas versiones beta, alg£n ejemplillo con [BLANCO]OpenGL[AMARILLO]
+(pienso que no esta acelerado).[BLANCO]
+
+
+  Pese a sus fallos, que  los  tiene,  estos  son menos
+escandalosos o flagrantes que los del win, linux,etc...
+  Y  eso  que  s¢lo  est   en  fase beta. El c¢digo  es
+totalmente  abierto  y   acompa¤a  al  SO ,  as¡   como
+instrucciones f ciles de modificaci¢n y compilaci¢n del
+kernel, y en sus £ltimas versiones, un modo de reinicio
+r pido para pruebas de  kernel  nuevo (a  ver  si Linux
+toma ejemplo). El cual viene entero en el disquete  que
+instala la  utilidad que se puede descargar de [BLANCO]Internet[AZULCLARO]
+libremente.[BLANCO]
+
+
+  Sin duda alguna, estamos ante el nacimiento de algo que, como todo, puede[IZQUIERDA]
+llegar a ser un buen SO, un mal SO, o s¢lo una rese¤a m s en esta revista, de
+parte de un columnista con poca visi¢n de futuro. Desde luego no soy Negroponte
+(gracias a Dios!...).[NO]
+
+
+
+  Direcci¢n:
+
+
+           http://www.menuetos.org[CHAR14B VERDEFOSFORITO]
+
+
+
+  Daos una vuelta y probarlo, solo cuesta un disquete.[PCT BLANCO]
+
+
+
+
+  ... (esperar un poco que cierre la ventana del doom, y cierre el quake 3)[AMARILLO]
