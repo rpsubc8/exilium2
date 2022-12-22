@@ -1,0 +1,251 @@
+[ARTICULOS 50]
+TEXTO_REVISTA Estilo de la Revista
+Editorial
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_FORO Foro Sliders
+Mundo Sliders
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_EXILIUM Exilium issue 1
+Mundo Sliders
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_PIRATA Piratas
+Mundo Informatica
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_SCENE_DEBATE Debate Scener
+Mundo Scene
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_MENUET Menuet OS
+Mundo PC
+Navegante
+www.lanzadera.com/ensamblador
+i2128593@petra.euitio.uniovi.es
+TEXTO_GBA Programar GBA
+Mundo Consolas
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BITSHORT Algoritmo Bitshort
+Mundo Informatica
+Navegante
+www.lanzadera.com/ensamblador
+i2128593@petra.euitio.uniovi.es
+TEXTO_SDL Librerias SDL
+Mundo PC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_DARKBASIC Lenguaje DARKBASIC
+Mundo PC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_LENGUAJE_C Lenguaje C--
+Mundo PC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_DOS_COVOX COVOX SOUND en DOS
+Mundo DOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_DOS_QUBE GUI para DOS
+Mundo DOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_DOS_DAMP MP3 bajo DOS
+Mundo DOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_DOS_QV DIVX bajo DOS
+Mundo DOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_DIVX DIVX para BeOS
+Mundo BeOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_DRIVERS Drivers para BeOS
+Mundo BeOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_DOSBOX Emulador DOS para BeOS
+Mundo BeOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_DIBUJO Dibujo en BeOS
+Mundo BeOS
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_BEOS_ENTREVISTA Entrevista BeProgramadores
+Mundo BeOS
+Grupo Sliders
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_ATARI_JOYSTICK Joystick ATARI en PC
+Mundo ATARI (PC)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_ATARI_EMULADOR Emulador Steem para PC
+Mundo ATARI
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_ATARI_DEMOS Demos de ATARI
+Mundo ATARI
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_ATARI_DISKMAG Diskmag Undercover 23
+Mundo ATARI
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_ATARI_HARDWARE Hardware ATARI
+Mundo ATARI
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_SCART CPC con Euroconector
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_FUENTE Fuente de alimentacion CPC
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_CINTAS Pasar cintas al CPC
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_DISCO Disquetera 3 1/2 en CPC
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_DEMOS Demos para CPC
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_DISKMAGS Diskmags para CPC
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_EMULADOR Emuladores CPC
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_CROSS Ensamblador cruzado en CPC
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_CPC_OXYGEN Revista Oxygen
+Mundo CPC
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_Z80_DISKMAG Diskmag ZXF
+Mundo Z80 (Spectrum)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_Z80_SPRINTER Ordenador SPRINTER
+Mundo Z80 (Spectrum)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_Z80_EMULADOR Emulador Sprint
+Mundo Z80 (Spectrum)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_Z80_CROSS Programar Sprinter
+Mundo Z80 (Spectrum)
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_C64_DISKMAG Diskmags en C64
+Mundo C-64
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_C64_DEMOS Demos en C64
+Mundo C-64
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_C64_EMULADOR Emulador C64
+Mundo C-64
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_C64_RED Servidor web C64
+Mundo C-64
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_C64_CROSS Compilador Cruzado C64
+Mundo C-64
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_C64_LEVEL64 Entrevista a Alonso (LEVEL64)
+Mundo Scener LEVEL64
+Grupo Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_RADIO_MORSE El morse
+Mundo Radio
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_RADIO_ENTREVISTA Entrevista RadioPacket
+Mundo Radio
+Grupo Sliders
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_RADIO_INTEK Packet con INTEK 200 +
+Mundo Radio
+JJ
+www.lanzadera.com/ensamblador
+jaimejj@mixmail.com
+TEXTO_SCENE_ASSEMBLY ASSEMBLY 2002
+Mundo Scene
+Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_SCENE_EUSKALX Euskal Party X
+Mundo Scene
+Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
+TEXTO_SCENE_BCNX BCN Party 10
+Mundo Scene
+Sliders
+www.lanzadera.com/ensamblador
+sliders2002@mixmail.com
