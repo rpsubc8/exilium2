@@ -1,7 +1,7 @@
 
 # Diskmag Exilium 2 (February 2003)
 
-Around February 2003, our Sliders group published issue 2 of the Diskmag Exilium on our own FTP.<br>
+Around February 2003, our <b>Sliders</b> group published issue 2 of the Diskmag Exilium on our own FTP.<br>
 Subsequently, several members of the demoscene published it on <b>pouet.net</b> and <b>scene.org</b>.
 
 <ul>
