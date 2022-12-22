@@ -1,0 +1,85 @@
+[FOTOS 2]
+FOTO_RED64_1 PALETA_RED64_1 22 0
+FOTO_RED64_2 PALETA_RED64_2 15 26
+ Servidor web C-64[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Pues hace tiempo, me dio por visitar una p gina web, la cual estaba[IZQUIERDA]
+controlada por un C-64 real. La p gina web es la siguiente:[NO]
+
+  c64.cc65.org[VERDEFOSFORITO PC]
+[PCT BLANCO]
+  El servidor de HTTP fue escrito por [BLANCO]ADAM DUNKELS[AMARILLO], como parte del proyecto Uip[BLANCO]
+, que consiste en una pila del protocolo TCP-IP sobre el C-64. Todo esto fue[IZQUIERDA]
+escrito en el lenguaje de programaci¢n C, con un compilador cruzado cc65. Sin
+embargo, algunas de las rutinas fueron codificadas en ensamblador por motivos
+de velocidad, como suele ser normal en los [NO BLANCO]buenos programadores[AMARILLO].[BLANCO]
+
+  Hay que destacar que toda esta informaci¢n la he sacado de la propia p gina[IZQUIERDA]
+web, a la cual llegu‚ gracias a un art¡culo en la diskmag VANDALISM o alguna
+similar de [NO BLANCO]C-64[AMARILLO].
+  El servidor web usa la versi¢n 0.6 de uIP, y todos los documentos e im genes[IZQUIERDA BLANCO]
+son servidos por el servidor web. El servidor web est  conectado a un PC con
+LINUX atrav‚s del puerto serie, con una linea SLIP. Y el PC se encuentra
+conectado a INTERNET con [BLANCO]FIREWALL[AMARILLO] (cortafuegos) y [BLANCO]router[AMARILLO] (enrutador), como[BLANCO]
+muestra la figura:[NO]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  El servidor web est  corriendo el TCP-IP, como se coment¢ anteriormente, por[IZQUIERDA]
+la linea de puerto serie. Y seg£n comenta el autor, un cartucho SwiftLink es
+usado como extensi¢n en el C-64 real. Y como dato de interes cabe mencionar,
+que la velocidad del puerto serie es de 38400 baudios (4800 bytes = 4.6 KB/s)
+para este proyecto.[NO]
+
+  He de destacar que la p gina no va excesivamente r pida al cargar, pero[IZQUIERDA]
+tampoco lenta, en comparaci¢n con un un enlace de tel‚fono de 5.6 KB/s. Por
+tanto, esto demuestra la gran utilidad que siguen teniendo estos ordenadores,
+y lo mucho que todab¡a se puede aprender de ellos. Porque, si cuando apareci¢
+INTERNET, se hubiera hecho software para C-64, seguro que m s personas
+hubiesen estado conectadas, en vez de haber hecho el software para PC y
+estaciones de trabajo.[NO]
+
+  El servidor web, contiene, lo siguiente:
+
+  /cgi/stats      ---> [GRISCLARO PC]muestra las estadisticas para la pila de IP[BLANCO]
+  /cgi/files      ---> [GRISCLARO]muestra la p gina individual[BLANCO]
+  /cgi/tcp        ---> [GRISCLARO]muestra el estado actual de conexi¢n[BLANCO]
+
+
+  Y hasta aqui ha llegado la exposici¢n de este proyecto, que hay que dar las[IZQUIERDA BLANCO PCT]
+gracias a [BLANCO]uz@cc65.org[AMARILLO], ya que personalmente, yo s¢lo he traducido lo que hab¡a[BLANCO]
+en la p gina web, y lo he nombrado.[NO]
