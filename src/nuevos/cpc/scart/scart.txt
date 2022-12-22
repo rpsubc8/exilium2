@@ -1,0 +1,207 @@
+[FOTOS 2]
+FOTO_CPC_SCART_1 PALETA_CPC_SCART_1 62 0
+FOTO_CPC_SCART_2 PALETA_CPC_SCART_2 10 74
+Euroconector para CPC 464[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues hace poco tiempo, me pille en el rastro lo siguiente:
+
+
+   - CPC 464[PC GRIS]
+   - Monitor GT67 de f¢sforo verde para el CPC 464
+   - Joystick DB9, formato recreativa (una pasada)
+   - CPC 464+ sin monitor
+
+
+  Y claro, me encargu‚ de que funcionara todo. En el caso del CPC 464, el[PCT BLANCO IZQUIERDA]
+monitor de f¢sforo verde se encarga de alimentar a la CPU y de sacar por
+pantalla todo lo procesado. Sin embargo, hay dos problemas:[NO]
+
+
+   - El 464 es RGB (color) y el monitor es de f¢sforo verde (B/N)[PC GRIS]
+   - El monitor es de unas 12 pulgadas
+   - Los cables del monitor son muy cortos (hay que estar pegado al monitor)
+   - El monitor tarde o temprano se fastidiar 
+
+
+  Por tanto, una soluci¢n para ello, es conectar el CPC al TV de casa. Para[PCT BLANCO IZQUIERDA]
+ello, debemos de disponer de un TV con euroconector. Si no dispon‚is de uno
+con ello, tendr‚is que esperar a pr¢ximos cap¡tulos de la diskmag para ver
+sistemas alternativos.[NO]
+
+
+  Si conseguimos conectarlo a una TV con ‚xito, ganaremos:
+
+
+   - CPC 464 en pleno color y con sonido[PC GRIS]
+   - Las pulgadas que marque el TV
+   - Distancia a la CPU, la que queramos
+   - Y podremos liberarnos del monitor para siempre
+
+
+  La informaci¢n para poder hacer este cable la saqu‚ de INTERNET, as¡ que[IZQUIERDA PCT BLANCO]
+pod‚is directamente seguir este esquema o buscar por alg£n buscador de la
+INTERNES.[NO]
+
+
+  El cable conversor del CPC a TV con Euroconector, lo pod‚is construir por[IZQUIERDA]
+menos de 5 Euros, y queda muy bien. Lo que necesit is, es lo siguiente:[NO]
+
+
+  þ Para el video:[PCT BLANCO]
+
+     - Euroconector a‚reo macho (para la TV)[PC GRIS]
+     - Conector DIN 6 (para el CPC)
+     - 3 metros de cable con 6 hilos, mas masa
+     - Un conector externo con cables para pila de 9 V (opcional)
+
+
+  þ Para el audio:[PCT BLANCO]
+
+     - Jack stereo a‚reo macho (para CPC)[PC GRIS]
+     - 3 metros de cable de audio (2 hilos y masa)
+
+
+  Y claro, queda la parte menos agraciada, que es la de soldar, ya que es muy[PCT BLANCO IZQUIERDA]
+raro que en una tienda de electr¢nica o un amigo, quiera ensuciar sus
+maravillosas manos para hacernos la vida mejor.[NO]
+
+
+  Debemos de seguir el esquema de uni¢n de los pines, tal y como muestra la[PCT BLANCO IZQUIERDA]
+imagen, recordando, que el esquema es por la parte de los pines a soldar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Un consejo a la hora de unir los cables, ser¡a usar los colores de los hilos
+que m s se parecen a los del cable. As¡, si tenemos un cable ROJO, lo usaremos
+para conectar el pin que se corresponde a la se¤al anal¢gica del ROJO en el
+conector DIN 6 y en el Euroconector. En mi caso, salvo el color MARRON y
+LILA, los dem s los hice siguiendo este esquema de colores.[NO]
+
+  La uni¢n de pines de forma no gr fica, ser¡a la siguiente:
+
+  þ 1 --> Salida audio derecho - RCA amarillo[PC GRIS]
+  þ 2 --> Entrada audio derecho - RCA blanco
+  þ 3 --> Salida audio izquierdo - RCA gris
+  þ 4 --> Masa de audio
+  þ 5 --> Masa del canal B (azul). Masa de video.
+  þ 6 --> Entrada audio canal izquierdo. RCA rojo.
+  þ 7 --> Entrada inf. B [GRIS](azul)[AZUL]
+  þ 8 --> Entrada de video[GRIS]
+  þ 9 --> Masa del canal G (verde)
+  þ 10 -> L¡nea de interconexi¢n invertida
+  þ 11 -> Entrada de informaci¢n G [GRIS](verde)[VERDEFOSFORITO]
+  þ 12 -> L¡nea de interconexi¢n directa[GRIS]
+  þ 13 -> Masa del canal R (rojo)
+  þ 14 -> Masa de la l¡nea de intercambio
+  þ 15 -> Entrada de informaci¢n R [GRIS](rojo)[ROJO]
+  þ 16 -> Conmutaci¢n para RGB[GRIS]
+  þ 17 -> Masa de video
+  þ 18 -> Masa conmutaci¢n RGB
+  þ 19 -> Salida de video = BNC-verde
+  þ 20 -> Entrada de video = BNC-azul
+  þ 21 -> Masa del conector
+
+
+  El conector externo de la pila de 9 V, ser¡a para el caso de que vuestra TV[PCT BLANCO IZQUIERDA]
+o video no tenga una tecla para seleccionar la entrada del Euroconector. En
+este caso, se detecta autom ticamente, si en la entrada llegan 9 V. Para eso,
+podemos usar una fuente de alimentaci¢n externa de baja tensi¢n e intensidad,
+pero para no quemar nada, que mejor, que usar una pila. Como inconveniente,
+est  que tarde o temprano, se gastar  la pila, pero para probar nos viene muy
+bien.[NO]
+
+
+  El audio, es opcional que lo conectemos o no, aunque es bastante m s[IZQUIERDA]
+agradable conectar el audio a la salida del TV. Pero si disponemos de una
+salida de ALTAVOCES amplificada, que suene mejor que en la TELE, pues o bien,
+no lo soldamos, o no conectamos el jack de audio.[NO]
+  Eso si, si quer‚is sonido, deb‚is de conectar el jack est‚reo a la salida de[IZQUIERDA]
+audio del CPC 464, que est  al lado del joystick.[NO]
+
+
+  Tal y como coment‚, se dijo que os despedir¡ais del monitor para siempre,[IZQUIERDA]
+pero esto no es del todo cierto, ya que necesitar‚is la alimentaci¢n de 5 V y
+2,5 Amperios del monitor para alimentar a la CPU del 464. Pero para quitarnos
+por completo al monitor, debemos de construir una fuente de alimentaci¢n de
+esas caracter¡sticas:[NO]
+
+
+   - 5 V de tensi¢n[AMARILLO]
+   - 2,5 Amperios de intensidad.
+
+
+  Si no sabemos como construirla, podemos comprar una similar, como es el caso[IZQUIERDA BLANCO]
+de una de PC, tal y como se comenta en el siguiente art¡culo.[NO]
+
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Yo he probado este esquema en el CPC 464, y funciona perfectamente[IZQUIERDA]
+conect ndolo a una TV con Euroconector con autodetecci¢n de entrada AV, y sin
+ella. En el caso de la TV que ten¡a detecci¢n de Entrada, tuve que conectar la
+pila de 9 V, y funcion¢ perfectamente, ya que si no, se mezclaba la entrada de
+75 Ohmios con un mal sincronismo del CPC.[NO]
+  Cuando me refiero a la autodetecci¢n de entrada, es lo mismo que si la TV no[IZQUIERDA]
+dispusiese de una opci¢n para seleccionar la entrada de Euroconector.[NO]
+
+
+  En el caso de conectarlo al euroconector de un video, me he encontrado con[IZQUIERDA]
+un problema, que es que a la hora de mezclar la imagen a la salida de 75
+Ohmios, me sale en Blanco y Negro (pero al menos sale).[NO]
+
+
+  La verdad, que poner el CPC 464 en una TV de m s de 24 pulgadas a todo color,[IZQUIERDA]
+gana mucho m s que usar un emulador en un PC, adem s de que el sonido es de
+m s calidad.[NO]

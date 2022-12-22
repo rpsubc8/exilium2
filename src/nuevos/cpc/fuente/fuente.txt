@@ -1,0 +1,161 @@
+[FOTOS 2]
+FOTO_CPC_SCART_1 PALETA_CPC_SCART_1 63 0
+FOTO_CPC_FUENTE_1 PALETA_CPC_FUENTE_1 45 71
+Alimentacion externa para CPC 464[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  En el art¡culo dedicado a realizar el conversor de euroconector (scart) del[IZQUIERDA]
+CPC a la TV, se coment¢ que se pod¡a uno librar del aparatoso monitor de
+f¢sforo verde del CPC 464 original. Sin embargo, s¢lo nos libr bamos del tema
+gr fico, no pasando lo mismo con la alimentaci¢n.[NO]
+
+
+  Para librarnos por completo del monitor, debemos de ser capaces de alimentar[IZQUIERDA]
+al CPC con una fuente externa de alimentaci¢n que suministre los 5 V y los 2,5
+Amperios.[NO]
+
+
+  Si miramos la parte de debajo del CPC 464, veremos como posee una etiqueta[IZQUIERDA]
+indicando los voltios y amperaje necesario para alimentarlo. Por tanto si
+conseguimos una fuente de alimentaci¢n con estas caracter¡sticas y que sea de
+peque¤o tama¤o, mejor para vosotros.[NO]
+
+
+  Pero si queremos ir por el camino r pido, podemos pillar una fuente de[IZQUIERDA]
+alimentaci¢n de PC (tipo AT). Si no poseemos una a mano, podemos directamente
+usar la del PC que tengamos en casa, pero eso si, cuando queramos usar el CPC,
+tendremos que tener el PC encendido.[NO]
+
+
+  Las fuentes de PC de tipo ATX, no he tenido el gusto de probar si funcionaban[IZQUIERDA]
+para adaptarla al CPC, pero puesto que siguen un esquema similar, deber¡a
+funcionar.[NO]
+
+
+
+
+
+
+Manos a la obra[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+
+  Pues hay que hacerse con una fuente de alimentaci¢n de PC (tipo AT), y por[IZQUIERDA]
+supuesto que funcione. Despu‚s procederemos a realizar una comprobaci¢n de
+tensi¢n en uno de los conectores de 4 pines en donde se suele conectar la
+alimentaci¢n de los discos duros, disqueteras de 5 1/4, CD-ROMS, y dem s
+dispositivos.[NO]
+
+
+  Normalmente, se sigue la siguiente nomenclatura:
+
+
+   Cable rojo y negro de al lado --> 5 Voltios[PC GRIS]
+   Cable amarillo y negro de al lado --> 12 Voltios
+
+
+  La tensi¢n que nos interesa es la de 5 Voltios, es decir, el cable rojo y el[PCT BLANCO IZQUIERDA]
+negro de al lado. Todo esto es en corriente continua. Para estar seguros,
+debemos de comprobar con un multitester si estos dos cables nos dan la tensi¢n
+deseada de 5 Voltios, ya que si ponemos los 12 Voltios, seguro que quemamos el
+CPC. As¡ que todo esto entra en el grado de peligrosidad, y como se suele
+decir: [NO]"la responsabilidad es la de la propia persona que realiza el acto".[ROJO]
+
+
+  Si todo va bien, procederemos a realizar un conversor de corriente de la[IZQUIERDA BLANCO]
+fuente de alimentaci¢n a nuestro CPC, porque como habr‚is visto, suele venir
+con un conector peque¤o cil¡ndrico.[NO]
+
+
+  Por tanto, necesitaremos:
+
+   þ Conector de 2,5 mm o 2,1 mm[PC GRIS]
+   þ Cable de  2  hilos  para  conectar  al
+     conector de CPC
+   þ Fuente de alimentaci¢n de PC (tipo AT)
+     o alguna similar
+
+  Y por £ltimo, tirar de soldador, para enganchar el conector de 2,5 mm al[IZQUIERDA PCT BLANCO]
+cable. Luego pelaremos los dos hilos del cable que hemos pillado para luego
+juntarlos al cable rojo y negro que suministraba los 5 Voltios de la fuente de
+alimentaci¢n del PC. Aseguraros que conect is bien la masa y la parte positiva.[NO]
+  En el conector de 2,5 mm, la parte externa es la masa, y la interna los 5[IZQUIERDA]
+Voltios positiva.[NO]
+
+
+  Y dependiendo de lo manitas que se is, pod‚is dejar esos cables pelados[IZQUIERDA]
+unidos al conector de la fuente de alimentaci¢n, o bien, soldarlos a ese
+conector. La decisi¢n es vuestra. Si no quer‚is soldarlos, deb‚is de usar la
+cinta aislante, pero eso si, la parte del conector de 2,5 mm si debe estar
+soldada.[NO]
+
+
+
+
+
+Realizar la conexion[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+
+  Pues ahora te¢ricamente debemos de proceder a encender la fuente de PC, pero[IZQUIERDA]
+antes hay que comprobar que los conectores del interruptor de la misma est n
+bien conectados, ya que sino, corremos el riesgo de en el mejor de los casos,
+BAJAR LOS LIMITADORES de casa.[NO]
+
+
+  Para ello, la fuente, suele venir con un esquema dibujado, de la siguiente[IZQUIERDA]
+forma:[NO]
+
+
+   þ Cable azul --> blanco[PC GRIS]
+   þ Cable marron --> negro
+
+
+  Si no est is seguros, deb‚is de mirar el esquema, o bien mirar como est n[IZQUIERDA PCT BLANCO]
+conectados en un PC que funciona correctamente. Para estar seguros, deb‚is de
+mirar con el multitester en modo continuidad, cada una de las conexiones del
+interruptor, que os dar  dos circuitos de continuidad.[NO]
+
+
+  Si por alg£n motivo no funciona, probar‚is de otra manera. Pero tened en[IZQUIERDA]
+cuenta una cosa, si vuestra casa no posee un buen sistema de seguridad, lo
+m s probable es que os cargu‚is algo, lo primero la fuente de alimentaci¢n del
+PC.[NO]
+
+  Por tanto, haced las pruebas con la fuente no conectada al CPC.
+
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+
+  Pues si todo ha ido bien, os habr‚is librado para siempre del monitor de[IZQUIERDA]
+f¢sforo verde. Ya se que la fuente de alimentaci¢n no es muy peque¤a, pero es
+menor que el monitor GT65 o GT67. Por tanto, algo es algo.[NO]
+
+
+  Si sois m s manitas, pod‚is compraros o haceros una fuente m s peque¤a, pero[IZQUIERDA]
+eso queda para vosotros.[NO]
+
+
+  En mi caso, el CPC 464 y el 464+, funcionan perfectamente con una fuente de[IZQUIERDA]
+alimentaci¢n de PC. Para el caso del conector de 2,5 mm, realmente us‚ uno
+que se parec¡a a ‚l, que coincid¡a con uno de esas fuentes de alimentaci¢n de
+las tiendas de 60 c‚ntimos, que te permiten conectar tu walkman a corriente
+alterna, con un voltaje desde 3 V hasta 12 V y con 500 miliamperios. Esta
+fuente no sirve para el CPC, ya que tiene poco amperaje, sin embargo, nos
+sirven los conectores como ejemplo a la hora de coger unos en una tienda de
+electr¢nica. De hecho, uno de los enganches sirve a la vez para el CPC 464 y el
+464 +, que fue lo que hice yo, ya que los dos equipos tienen un enganche
+diferente, y as¡ nos ahorramos dos enganches diferentes.[NO]

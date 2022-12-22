@@ -1,0 +1,148 @@
+[FOTOS 4]
+FOTO_DISKMAGSCPC_1 PALETA_DISKMAGSCPC_1 60 19
+FOTO_DISKMAGSCPC_2 PALETA_DISKMAGSCPC_2 54 48
+FOTO_DISKMAGSCPC_3 PALETA_DISKMAGSCPC_3 54 94
+FOTO_DISKMAGSCPC_4 PALETA_DISKMAGSCPC_4 54 120
+Diskmags en el CPC[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Pues desde hace mucho tiempo que existe la demoscene del CPC, y gracias a las[IZQUIERDA]
+revistas digitales para dicha plataforma, se sigue conservando. A lo largo de
+este art¡culo veremos las distintas diskmags que existen.[NO]
+
+  He decidido recopilar algunas al azar, y gracias a los emuladores,he decidido[IZQUIERDA]
+ponerlas a prueba, para as¡ mostrarlas a todos vosotros.[NO]
+
+
+
+Badmag[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Una gran diskmag,que contiene cerca de 450 Kbytes de puro
+texto. Se  encuentra escrita completamente en ingl‚s, y  se
+permite  colaborar  en la misma enviando los art¡culos. Hay
+que  destacar que los art¡culos son de gran calidad , tanto
+las entrevistas de la scene , que trata temas  como  ATARI,
+AMIGA y por supuesto CPC , as¡ como entrevistas a  miembros
+de la scene.
+
+  Quiz s lo  £nico  que puede resultar poco vistoso, es los
+colores del interface , que no son muy agradables , pero la
+navegaci¢n por la diskmag , es muy r pida , sin  notarse la
+carga de art¡culos , en definitiva , optimizada para CPC al
+100%.
+
+  Los creadores son:
+
+  Programador, editor principal:[AMARILLO] Crown[BLANCO]
+  Dise¤ador y artista:[AMARILLO] Link y Crown[BLANCO]
+  Editores:[AMARILLO] Cpc-Mike, TIC y Lovebyte[BLANCO]
+
+
+
+Demoniak[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Esta revista contiene un interface muy bonito, adem s de una peque¤a intro de
+inicio. El sonido es bastante agradable. Este n£mero que aqu¡ se presenta es el
+6, el cual sali¢ en el [BLANCO]a¤o 1998[AMARILLO].[BLANCO]
+
+
+  Las teclas de trabajo,son los cursores de izquierda
+y derecha para avanzar o retroceder  en  el  art¡culo
+(scroll izquierda y derecha). Si  pulsamos  la  barra
+espaciadora, equivale  a  aceptar (enter), con lo que
+nos  carga  un  tema. Y  si  pulsamos la  tecla  ESC,
+volvemos al men£ anterior.
+
+
+  Toda la revista fluye muy r pidamente,incluso mejor
+que las de PC (incluida la nuestra) con lo que apenas
+se nota , la  m quina sobre la cual esta  funcionando
+(CPC).
+
+
+  Los autores son:
+
+  Intro[AMARILLO]
+  ------
+   Programador -->[AMARILLO] Tragan/Arcos[BLANCO]
+   Grafista -->[AMARILLO] Rainbind/Arcos[BLANCO]
+   M£sico -->[AMARILLO] Tragan/Arcos[BLANCO]
+
+
+  Interface[AMARILLO]
+  ----------
+   Programador -->[AMARILLO] Orphee/Arkos[BLANCO]
+   Grafista -->[AMARILLO] Rainbird/Arkos[BLANCO]
+
+
+  Los temas que tratan, van desde entrevistas a la scene del CPC, pasando por[IZQUIERDA]
+reviews de demos, y con reports de party's. Pero por supuesto, lo que la hace
+muy £til, es la gran cantidad de art¡culos sobre programaci¢n en CPC, que
+engloba el uso del ensamblador, as¡ como c¢digos del Z80, y trucos de efectos
+de demos.[NO]
+
+  Por tanto, aunque sea una revista de 1998, sigue siendo £til hoy en d¡a,[IZQUIERDA]
+puesto que los temas de programaci¢n son v lidos hasta el fin de los d¡as.[NO]
+
+
+
+Ovation[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Una gran revista, que en su n£mero 6, el cual se ha
+puesto  una  foto , se trata de un preview , el cual,
+desconozco si consigui¢ salir como n£mero final.
+
+
+  A lo largo  de 4 a¤os, esta revista  a  tratado  de
+preservar la scene del CPC,gracias a sus entrevistas,
+reportajes de las party's y art¡culos de programar en
+CPC.
+
+
+  Pero lo m s importante, ha sido el gran talento del
+programador, el cual ha conseguido meter en 128 KB de
+RAM , esta  impresionante  revista , con  esa calidad
+visual y de sonido, y por supuesto, sin fallos, y con
+gran velocidad.
+
+
+
+Focus[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+   He decidido coger el n£mero 1 al azar. Data de 1996, y contiene una peque¤a[IZQUIERDA]
+intro al inicio, que nos permite girar un logotipo a la izquierda y a la
+derecha con los cursores de forma muy r pida.[NO]
+
+
+  Esta revista,aunque no es tan atractiva visualmente
+como la Ovation, sigue un estilo bueno. La  m£sica es
+muy  graciosa  y  entretenida . Y  en  cuanto  a  los
+art¡culos,se puede destacar, que trata temas como las
+novedades del CPC, entrevistas, as¡ como la evoluci¢n
+del CPC,programaci¢n en BASIC y ensamblador para CPC,
+hardware para CPC (creaci¢n de un Euroconector).
+
+
+  Se le da gran importancia al creador del CPC  [BLANCO](Alan[AMARILLO]
+Mikael Sugar)[AMARILLO].[BLANCO]
+
+  El men£ de la revista es  muy f cil de  manejar, ya
+que  con  los  cursores  nos  movemos en la paleta de
+opciones, pudiendo  movernos  un  art¡culo anterior o
+posterior con los botones < y >. Tenemos tambi‚n un bot¢n (i), que nos permite[IZQUIERDA]
+pedir informaci¢n. Para poder asentir los botones, debemos de pulsar la Barra
+espaciadora de nuestro teclado. El bot¢n que contiene un libro, es el indice de
+la revista, que nos indica el n£mero de cada uno de los art¡culos, pudiendo con
+el teclado num‚rico cargar el tema en el acto. El bot¢n de la m£sica sirve para
+cambiar la melod¡a, el bot¢n de la impresora para imprimir, y el de Miscel nea,
+para cambiar los colores de la diskmag.[NO]

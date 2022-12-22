@@ -1,0 +1,367 @@
+[FOTOS 2]
+FOTO_OXYGENCPC_1 PALETA_OXYGENCPC_1 65 0
+FOTO_CPC_DISCO_1 PALETA_CPC_DISCO_1 54 117
+CPC con disquetera de 3 1/2[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Pues hace poco tiempo, me pille tambiÇn un CPC 6128, junto con un monitor en[IZQUIERDA]
+color. Para aquellos que no se acuerden como es un CPC 6128, les dirÇ que es
+como un AMSTRAD Spectrum 128 KB, estÇticamente.[NO]
+
+
+  Como sabrÇis, este equipo posee una unidad lectora de discos de 3". Y claro,[IZQUIERDA]
+yo lo pillÇ sin un solo disco de estas caracter°sticas, por lo que poco se
+puede hacer con Çl.[NO]
+
+
+  Sin embargo, existen varias opciones para dar vida a este equipo, sobre todo[IZQUIERDA]
+para los sceners, entre ellas la de poner una disquetera de 3 1/2 en el
+conector de segunda unidad (FDD2).[NO]
+
+
+  Toda la informaci¢n la he sacado de la p†gina web de Diego Vizca°no y gracias[IZQUIERDA]
+a la ayuda por correo de otra persona que se llama como yo: "Jaime".[NO]
+
+
+  Aunque se puede conectar la disquetera de 3 1/2 de forma interna (no lo he[IZQUIERDA]
+probado a£n), el proceso implicar† tirar de un serrucho o similar, ya que la
+disquetera de 3 1/2 es m†s grande que la de 3 ", y por tanto, hay que ser mucho
+m†s cauteloso que en el proceso anterior.[NO]
+
+
+
+
+
+Material necesario[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Yo segu° el proceso de la p†gina web de Diego Vizca°no, y por tanto se[IZQUIERDA]
+necesita lo siguiente:[NO]
+
+   - CPC 6128[PC GRIS]
+   - Fuente de alimentaci¢n de PC (AT o ATX) con conector para disquetera de
+     3 1/2.
+   - Disquetera de 3 1/2 HD (alta densidad)
+   -  Faja con conector de 5 1/4 y 3 1/2.
+   - 2 interruptores
+   - Cinta aislante
+   - Un poco de paciencia y ganas de experimentar
+
+  Yo he hecho la prueba con unidades de 3 1/2 de HD (alta densidad) antigÅas y[PCT BLANCO IZQUIERDA]
+viejas, pero en principio tambiÇn deber°a funcionar con las DD (baja densidad).
+As° que si disponÇis de una disquetera por ah°, o si est† algo estropeada (que
+no grabe, pero que lea), pues podÇis usarla con vuestro CPC 6128.[NO]
+
+  Hay que destacar que estos ejemplos, tambiÇn deben funcionar en una[IZQUIERDA]
+disquetera de 5 1/4 (no lo he probado), pero seguro que en los tiempos que
+corren, ser† m†s f†cil conseguir una disquetera de 3 1/2 que una de 5 1/4.[NO]
+
+  Para la fuente de alimentaci¢n de PC, podÇis seguir el mismo ejemplo que en[IZQUIERDA]
+el art°culo de la[NO] fuente de alimentaci¢n externa para CPC[AMARILLO].[BLANCO]
+
+
+
+
+
+Manos a la obra[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Yo intentÇ seguir los esquemas de otras p†ginas webs, pero me liÇ a la hora[IZQUIERDA]
+de hacer las uniones de pines, tal y como ven°an en las fotos adjuntas. Sin
+embargo en la p†gina de Diego Vizca°no, ven°a muy bien explicado.[NO]
+
+  Lo primero que hay que hacer es coger la faja con los dos tipos de conectores[IZQUIERDA]
+(5 1/4 y 3 1/2). El de 5 1/4 va a la parte del CPC del FDD2 (unidad externa) y
+el de 3 1/2 va a la disquetera. Si os fij†is, la mayor°a de estas fajas suelen
+venir para 4 unidades (dos de 5 1/4 y dos de 3 1/2), aunque actualmente, s¢lo
+suelen venir para dos. As° que si no posee este conector de 5 1/4, poco vamos
+a poder hacer. As° que o bien cogÇis un cable con estos conectores, o bien
+pill†is este conector por separado y lo insert†is en la faja.[NO]
+
+  Esta faja de cables suele venir con un cruce de cables en los dos conectores[IZQUIERDA]
+m†s altos, para as° poder usar la disquetera como maestra (la de arranque).Pero
+claro, este cruce fastidiar† todo el proceso de comunicaci¢n con el CPC, as°
+que a quitarlo.[NO]
+
+  Para ello procederemos de la siguiente forma:
+
+   Quitar los dos enganches superiores (5 1/4 y 3 1/2) que van a la parte que[AMARILLO IZQUIERDA]
+   se cruza. Estos enganches no hace falta romperlos, ya que vienen por piezas,
+   y por tanto, con apretar unas pesta§as laterales o levantarlas con un
+   destornillador, ya saldr†n. Una vez quitados los dos, nos quedar† la faja
+   libre sin cruces, de tal forma, que tendremos lo siguiente:[NO]
+
+    - Un conector de 5 1/4 que va al CPC[PC GRIS]
+    - Dos conectores de 3 1/2 que van a la disquetera,aunque s¢lo necesitamos 1
+
+
+  Eso si, al quitar los conectores, nos daremos cuenta, que quedan las marcas[PCT BLANCO IZQUIERDA]
+que hicieron. Si no hemos sido muy animales para quitar los conectores, las
+marcas no deber°an tocar unas de otras, de tal forma que hagan cortocircuito.[NO]
+
+  Si queremos ser muy curiosos, podemos poner cinta aislante, pero no suele[IZQUIERDA]
+hacer falta.[NO]
+
+
+  DespuÇs es cuando viene los mejor, que es hacer la uni¢n de cables. No[IZQUIERDA]
+obstante, esto va a ser f†cil, ya que al quitar estos conectores, nos va a
+quedar una gran trama de faja libre para poder maniobrar, sin interferir a la
+parte de la disquetera.[NO]
+
+
+  Pues en principio, para poder procesar la unidad, debe estar unido el PIN 1[IZQUIERDA]
+con el 2 de la faja de cables. Si no sabÇis cual es este pin, os dirÇ
+brevemente,que el pin 1 es el de m†s peso, por tanto,[NO]
+suele venir marcado en color rojo.Y el pin 2 es el de
+al lado.
+Este proceso debe hacerse para que la disquetera este
+siempre en estado READY (preparado).Por tanto,siempre
+que se le mande hacer cosas, las har†.Es decir,si hay
+alg£n error, lo m†s seguro, es que no nos informe, ya
+que esta siempre PREPARADA.
+
+
+  El pin 1 y 2, se pueden ver bien, porque si hemos quitado los conectores, y[IZQUIERDA]
+miramos las marcas que han dejado, se puede ver, como un pin esta en la parte
+de arriba, y el otro en la de abajo del otro hilo contigÅo, y as°
+sucesivamente, hasta los 34 pines. Para comprobar, podemos tirar de
+multitester.[NO]
+
+
+  Para hacer un empalme de estos hilos, podemos o bien directamente juntarlos[IZQUIERDA]
+y enrredarlos, o tirar de soldador (m†s perfecto).[NO]
+
+
+  Con esto, es m†s que suficiente para que funcione la lectora. De hecho, ya[IZQUIERDA]
+podemos probarla. Para ello, bastar† con que conectemos la faja al CPC y a la
+disquetera. Hay que tener en cuenta que muchas lectoras, siguen este esquema:[NO]
+
+   - Pin de m†s peso (rojo) al lado de la alimentaci¢n.[AMARILLO]
+   - Un indicador numeral con el pin de m†s peso
+
+  Sin embargo, otras o bien no tienen ese indicador, o bien dicen que el de m†s[PCT BLANCO IZQUIERDA]
+peso est† al lado de la alimentaci¢n, cuando en realidad, es justo lo
+contrario. Por tanto, muchas veces es a prueba y error.[NO]
+
+  Pero claro, si querÇis probar la lectora, deberÇis tener un disco preparado.
+
+  Para ello, deberÇis tirar de herramientas como el CPDWRITE o el CPCTRANS. El[IZQUIERDA]
+primero permite grabar im†genes DSK a disquete, de la siguiente forma:[NO]
+
+   cpdwrite imagen.dsk[AMARILLO]
+
+  Con esto se graba en la primera cara, que es la de por defecto.[BLANCO]
+
+  Y con CPCTRANS, podÇis formatear disquetes o grabar im†genes, con s¢lo cargar[IZQUIERDA]
+un men£, y elegir el tipo de unidad y formato de la misma. Hay que tener en
+cuenta, que el CPCTRANS funciona en Windows, mientras que el CPDWRITE lo hace
+s¢lo bajo DOS bien. Sin embargo, muchas veces en Windows, el disco es
+interpretado err¢neamente, y no se deja formatear bien con el CPCTRANS. As° que
+recomiendo usar el CPDWRITE en puro DOS.[NO]
+
+  Eso si, debÇis de poner un disco de DD (doble o baja densidad), ya que sino,[IZQUIERDA]
+no lo formatear† correctamente, as° como que la lectora en el CPC no lo leer†
+bien. Si no sabÇis donde conseguir estos discos, podÇis tirar de un simple
+truco, que es tapar la pesta§a de detecci¢n de disco con CINTA aislante o
+CELO, o una pegatina. Recordad que esta pesta§a es idÇntica a la de grabaci¢n,
+pero no tiene nada para taparla.[NO]
+
+
+  Y ahora es cuando, llevÇis el disco al CPC y lo comprob†is, a ver si lo lee:
+
+   ≥b[AMARILLO]
+   cat
+
+  Esta unidad al ser la FDD2, ser† interpretada como la B, de ah° que hagamos[IZQUIERDA BLANCO]
+este proceso. Si todo va bien, nos saldr† lo que tenga la imagen, ya sea libre
+u ocupada. Sino, se quedar† en un bucle, que incluso tendremos que resetear el
+ordenata.[NO]
+
+  Si tenÇis alg£n error, debÇis de comprobar varias cosas:
+
+   - Que realmente tenÇis un corto en los pines 1 y 2.[AMARILLO]
+   - Que las im†genes han sido bien grabadas (comprobar con CPDREAD)
+   - Que el cable de la disquetera est† bien conectado (a veces hay que ponerlo
+     de lado contrario, aunque indique lo contrario el pin de m†s peso).
+   - Que el conector de 5 1/4 del CPC est† bien encajado (tiene que estar
+     prieto, por lo que a veces hay que ponerlo un poco hacia delante y a la
+     izquierda), ya que no suele quedar bien apretado.
+
+  Si habÇis comprobado todos los pasos, y sigue dando error, puede ser debido[BLANCO IZQUIERDA]
+a que la disquetera est† estropeada, o alguna incompatibilidad.[NO]
+
+
+
+
+
+Mas opciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues ahora ya podÇis leer discos de 3 1/2 formateados para CPC, e incluso[IZQUIERDA]
+grabarlos. Hay que tener cuidado a la hora de grabar, ya que si el conector de
+5 1/4 de la parte del CPC no est† bien prieto (conexiones ajustadas), se pondr†
+a grabar, pero realmente no lo har† (al estar siempre READY). Por tanto, mover
+este conector hasta que quede bien aprisionado.[NO]
+
+
+  Pero claro, un disco de 3 1/2 puede formatearse en un PC bajo formato DOS con[IZQUIERDA]
+1.44 MB, mientras que el formato del CPC ser† el mismo que el de los de 3 ", es
+decir, 178 KB. Por tanto, se desaprovecha mucha cantidad de informaci¢n. Pero
+existen varios trucos. Entre ellos, ser°a el uso del pin de cambio de cara
+(cara 2 del disco), de tal forma, que se podr°an usar otros 178 KB de la cara
+segunda. Es decir, tendremos 356 KB de uso (todav°a poco, pero m†s que antes).
+
+  De esta forma, podremos usar la cara 1 y la cara 2, con s¢lo activar este[IZQUIERDA]
+pin, ques ser† tan sencillo, como poner un interruptor.[NO]
+
+  El interruptor, podÇis elegirlo como quer†is, aunque ser°a ideal que fuera de[IZQUIERDA]
+poco tama§o y que hubiese que hacer poca presi¢n para activarlo. Yo eleg° uno
+de tipo interruptor de los aviones, ya que eran los £nicos que ten°an, pero es
+m†s aconsejable, uno de tipo bot¢n turbo de ordenador, porque hay que que hacer
+poca fuerza para activarlo.[NO]
+
+
+  Los pines que hay que usar, son los siguientes:  Pin 3 y 4 (que est†n al lado[IZQUIERDA]
+de el 1 y 2 anterior). DebÇis de procurar que los pines 1 y 2 no se toquen con
+el 3 y 4. De esta forma, cuando el interruptor estÇ apagado, usaremos la cara
+1 del disco, y cuando encendamos el interruptor, usaremos la cara 2. Es la
+forma m†s r†pida de cambiar de disco, sin falta de sacarlo.[NO]
+
+
+  Para poder grabar datos en esta pista segunda, usaremos lo siguiente:
+
+   cpdwrite imagen.dsk s[AMARILLO]
+
+
+  Por parte del CPC, no hay que indicar nada, ya que el CPC no entiende de[BLANCO IZQUIERDA]
+caras, sino nuestro interruptor. As° que tened cuidado de estar leyendo o
+grabando algo, y en mitad del proceso dar al interruptor.[NO]
+
+  Una vez detectado los pines 3 y 4, debÇis de soldarlos al interruptor. Y m†s[IZQUIERDA]
+tarde grabar en vuestro PC alguna imagen DSK en la segunda cara, tal y como se
+indic¢ antes. Ahora que tenÇis una imagen DSK grabada en la cara 1 y otra en la
+cara 2, procederÇis a llevar este disco al CPC, y proceder a leerlo, dando al
+interruptor para mirar una cara o la otra. A partir de ahora, se acab¢ el tener
+dos discos para un juego o una DISKMAG que los ped°a, ya que con s¢lo grabar en
+la segunda cara y usar el interruptor, ya podremos leer el segundo disco.[NO]
+
+
+  Y por £ltimo nos queda algo pendiente, que es el de poder usar la disquetera[IZQUIERDA]
+como unidad A. Tal y como se dijo antes, todo esto se hac°a a travÇs de la
+unidad B. Pero hay algunos juegos o programas que s¢lo funcionan en la unidad
+A, al hacer accesos directos al hardware. Para ello, debemos de enga§ar una
+vez m†s al CPC, y decirle que la unidad B es la A. Otra opci¢n es haber
+instalado la disquetera de 3 1/2 en donde est† de 3 ", pero no lo he probado,
+y como dije, habr† que tirar de serrucho.[NO]
+
+  Para enga§arla, debemos de unir los pines 23 y 24. Si los dejamos en corto,[IZQUIERDA]
+la disquetera ser† interpretada como unidad A, y todos los accesos t°picos se
+har†n a ella, y no a la disquetera de 3 ". Y si est† sin unir, ser†
+interpretada como unidad B, siendo la A, la de 3 ".[NO]
+
+  Por tanto, podemos usar otro interruptor, para activar la unidad A o B, seg£n[IZQUIERDA]
+nos interese. En mi caso, he decidido soldar el pin 23 y 24, para que as° la
+unidad de 3 1/2 sea siempre la A, ya que no poseo ning£n disco de 3 ", y no
+creo que le vaya a sacar provecho. Pero esta opci¢n, es a gusto del consumidor.[NO]
+
+  De hecho, una vez soldado, si tecleo esto:
+
+   ≥a[AMARILLO]
+   ≥b
+
+  Accedo a la misma unidad. Y por supuesto, por defecto los accesos son a la[BLANCO IZQUIERDA]
+unidad A. Ya digo, que si no est†is de acuerdo con esta opci¢n podÇis usar el
+interruptor. De hecho, esta opci¢n es £til para cuando queramos copiar discos
+de la A a la B. Pero en mi caso, s¢lo tengo intenci¢n de usar una s¢lo
+disquetera, ya que las transferencias de im†genes las hago desde el PC a
+disquete.[NO]
+
+  Adem†s la disquetera de 3 " podr°a ser sustituida por una de 3 1/2, y usar[IZQUIERDA]
+otra de 3 1/2 como externa, para as° agilizar las copias de discos. Pero claro
+ya digo, que con la INTERNES, y los emulatas, teniendo una sola disquetera se
+pueden hacer grandes logros, ya que s¢lo la necesitamos para transferir el
+proceso final.[NO]
+
+  Una vez hecho este esquema, s¢lo os queda poner cinta aislante, a cualquier[IZQUIERDA]
+posible corto, y dejarlo todo lo m†s estÇtico posible. En mi caso, no ha
+quedado muy bonito, pero no ocupa gran espacio (es portable a otro CPC) y
+adem†s me ha sido muy f†cil de unir los pines, tal y como lo dejÇ.[NO]
+
+
+
+
+Mas capacidad[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Con el uso de la disquetera de 3 1/2 habÇis dado nueva vida al CPC, ya que[IZQUIERDA]
+las de 3" son dif°ciles de encontrar. Pero tambiÇn habÇis ganado en capacidad,
+ya que antes usabais 178 KB, y ahora 356 KB. Pero si querÇis ganar m†s
+capacidad, podÇis hacer uso del RAMDOS.[NO]
+
+  Esta utilidad, se carga en memoria RAM, y es v†lida para todos los CPC's,[IZQUIERDA]
+tanto 464 como superiores. Se encuentra disponible en formato ROM y RAM. La
+primera no hace falta que carguemos nada, ya que est† en ROM, pero implica que
+pongamos la ROM en el equipo. Mientras que la segunda es un programa, que queda
+en memoria RAM mientras funciona el equipo.[NO]
+
+  Lo que nos permite el RAMDOS, es poder formatear los disquetes a la m†xima[IZQUIERDA]
+capacidad de DD (doble o baja densidad), es decir, unos 796 KB. Claro, ahora si
+que gan†is en capacidad, aunque no lleguÇis a los 1.44 MB del disco de 3 1/2.[NO]
+  La verdad que entrar°an unas cuantas demos, juegos y diskmags, sin falta de[IZQUIERDA]
+tener m£ltiples disquetes desperdigados. Pero claro, habr† juegos con anticopia
+y accesos a bajo nivel, que no trabajar†n bien con este formato.[NO]
+
+  Por tanto, esto queda para uso de prueba y error. En mi caso, he podido[IZQUIERDA]
+formatear los disquetes a m†s de 700 KB correctamente.[NO]
+
+  Pero como dije lo ideal ser°a que pudiÇsemos usar los 1.44 MB o los 2 MB[IZQUIERDA]
+(formato 2M) del disquete de 3 1/2, aunque para ello, habr† que construirse
+uno mismo la controladora de disquetes, y en cuanto me entere lo probarÇ y
+comentarÇ.[NO]
+
+
+
+
+
+Comentarios[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Tal y como comentÇ, todo esto funciona. Aunque he de dar las gracias a la[IZQUIERDA]
+p†gina web de Diego Vizca°no, y a JAIME, ya que lo £nico que he hecho es seguir
+sus esquemas, con alguna peque§a variaci¢n. Es decir, s¢lo he estado de
+BETATESTER.[NO]
+
+  En concreto, he probado con varias lectoras de 3 1/2 nuevas y antiguas, y[IZQUIERDA]
+funciona perfectamente.[NO]
+
+  Y en cuanto al RAMDOS, tambiÇn funciona correctamente.
+
+  Y el proceso de grabar en el disquete bajo el CPC, tambiÇn funciona, aunque[IZQUIERDA]
+como dije, si tenÇis el conector algo flojo, no os grabar†. Para los que no se
+acuerden, para grabar podÇis hacer algo como esto.[NO]
+
+   10 cls[AMARILLO]
+   20 print "grabar"
+
+   save "prueba.bas"
+  
+  He de reconocer, que el acceso a disquete es m†s r†pido en la m†quina real[IZQUIERDA BLANCO]
+que en la emulada. Y como en CPC se trabaja con cosas muy peque§as, es casi
+como en tiempo real, incluso m†s r†pido que en un PC en su estado hom¢logo.[NO]
+
+  As° que ya podÇis descargar las demos que comentÇ en el art°culo de DEMOS[IZQUIERDA]
+PARA CPC, y probarlas en el CPC, que fue lo que hice yo en cuanto montÇ la
+disquetera.[NO]
+
+  Y en cuanto consiga los esquemas para construir la controladora de disco para[IZQUIERDA]
+el CPC 464 y el 464+, tambiÇn las probarÇ en ellos.[NO]

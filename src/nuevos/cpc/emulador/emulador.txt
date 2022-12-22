@@ -1,0 +1,386 @@
+[FOTOS 3]
+FOTO_EMULADORCPC_1 PALETA_EMULADORCPC_1 60 243
+FOTO_EMULADORCPC_2 PALETA_EMULADORCPC_2 60 278
+FOTO_EMULADORCPC_3 PALETA_EMULADORCPC_3 60 301
+Emuladores CPC[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues como en el resto de plataformas, existen emuladores para el AMSTRAD CPC,
+tanto para DOS, como Win32, Linux, Unix, BeOS, AMIGA, GBA, etc...
+
+  Por tanto, en este art¡culo, veremos diferentes emuladores,con sus ventajas e
+inconvenientes.
+
+
+
+Caprice32[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Funciona bajo DOS, haciendo uso del extensor CWSDPMI, por lo que tambi‚n es[IZQUIERDA]
+compatible con Win32.[NO]
+
+  En primer lugar, tenemos el archivo CAP32.CFG, que podemos editar a mano, o[IZQUIERDA]
+se nos guarda autom ticamente desde el men£ interactivo del emulador.Un ejemplo
+de este archivo, podr¡a ser:[NO]
+
+ # CAP32.CFG - CaPriCe32 Configuration File[AMARILLO]
+ [[file]
+ drvA_file = DMK7-A.DSK
+ path_rom = e:\compi\emuladores\amstrad\cap32_200b2\ROM\
+ path_snap = e:\compi\emuladores\amstrad\cap32_200b2\SNAP\
+ path_driveA = i:\
+ path_driveB = e:\compi\emuladores\amstrad\cap32_200b2\DISK\
+ path_tape = .\TAPE
+ path_temp = e:\compi\emuladores\amstrad\cap32_200b2\TEMP\
+ path_sdump = e:\compi\emuladores\amstrad\cap32_200b2\BMP\
+
+ # fs_entries - the number of files to display in the file selector
+ #  change this value if you increase the PC video resolution...
+ #  default for 320x200: 14
+ fs_entries = 30
+
+ # fs_width - the width of the file selector in pixels
+ #  change this value if you increase the PC video resolution...
+ #  default for 320x200: 300
+ fs_width = 300
+
+ # fs_? - screen location of file selector
+ #  default: -1 (centers dialog)
+ fs_x = 170
+ fs_y = 75
+
+ # ___________________________________________________________________________
+
+ [[general]
+
+ # CPC_model
+ #  0 = CPC464, 1 = CPC664, 2 = CPC6128
+ CPC_model = 2
+
+ # speed
+ #  0 = no speed limiting, 1 = original CPC speed, 2 = sync to PC video
+ #  refresh, 3 = original speed + vsync
+ speed = 1
+
+ # joy_type - specifies what kind of joystick(s)/pad(s) you are using
+ #  none, one, two, sidewinder, gamepad_pro, grip, snes_lpt? (? = 1, 2 or 3),
+ #  psx_lpt?, n64_lpt?, db9_lpt?, tgfx_lpt?, sega_isa, sega_pci, sega_pci2
+ joy_type = none
+
+ # joy_config - PC joystick configuration
+ #  0 = none, 1 = only joystick 1, 2 = only joystick 2, 3 = both
+ joy_config = 1
+
+ # ___________________________________________________________________________
+
+ [[expansion]
+
+ # rom_?? - expansion ROMs to load
+ #  ?? = ROM slot 02 - 15; 07 is usually reserved for a Disk Operating System
+ #  ROM files are read from the "path_rom" directory (see file section above)
+ rom_07 = AMSDOS.ROM
+ #rom_07 = PARADOS.ROM
+
+ # ___________________________________________________________________________
+
+ [[video]
+
+ # gfx_driver - the PC video driver to use
+ #  auto, vga, modex, vesa1, vesa2b, vesa2l, vesa3, vbeaf
+ gfx_driver = auto
+
+ # 50hz_refresh - tries to force a 50Hz screen refresh
+ #  WARNING: only works on VESA3 compatible video cards and only with certain
+ #  video modes! If the screen flickers wildly, hit F10 to quit the emulator.
+ #  set "speed" (general section) to 2 for perfect scrolling effects...
+ 50hz_refresh = 0
+
+ # res_x & res_y - specifies horizontal and vertical resolution of the PC video
+ #  mode to use
+ res_x = 640
+ res_y = 480
+
+ # double_? - the method to use to double the CPC screen output (i.e. true
+ #  mode 2 resolution), appropriate only for resolutions greater than 640x480!
+ #  0 = no, 1 = stretch, 2 = 50% scanlines, 3 = 100% scanlines
+ double_x = 0
+ double_y = 0
+
+ # ___________________________________________________________________________
+
+ [[sound]
+
+ # sound_driver - the PC sound card driver to use
+ #  auto, none, sb_auto, sb10, sb15, sb20, sbpro, ess, ensoniq, wss
+ sound_driver = sb20
+
+ # emulate_AY
+ #  speed might improve on low-end systems if sound emulation is turned off...
+ emulate_AY = 1
+
+ # playback_rate
+ #  0 = 22kHz, 1 = 44kHz
+ playback_rate = 1
+
+ stereo = 1
+
+
+
+  El principal inconveniente que tiene este emulador, es que no permite[IZQUIERDA BLANCO]
+capturar im genes de la emulaci¢n, ya que la versi¢n (v2.00b2) que estoy
+probando, no es estable (Beta), y algunas opciones est n desactivadas.[NO]
+
+  En cualquier momento podemos cambiar la imagen de disco de la unidad,con s¢lo
+pulsar F6 y elegir el archivo .DSK. Pero a diferencia del C64, no se nos carga[IZQUIERDA]
+autom ticamente el ejecutable del disco. Para ello, debemos de seleccionarlo,
+y eso se consigue con comandos, como:[NO]
+
+   CAT                -->  [AMARILLO]Nos muestra los archivos del disco[BLANCO]
+   RUN "ARCHIVO.EXT"  -->  [AMARILLO]Nos ejecuta el archivo ARCHIVO.EXT[BLANCO]
+   LOAD "ARCHIVO.EXR" -->  [AMARILLO]Nos carga en memoria el archivo ARCHIVO.EXT[BLANCO]
+   |cpm               -->  [AMARILLO]Llama al DOS PLUS que carga el programa. La tecla |[BLANCO]
+                           se consigue con SHIFT + [[
+
+  Si queremos reiniciar el ordenador CPC, podemos pulsar la tecla F5, y si[IZQUIERDA]
+queremos aumentar la velocidad de emulaci¢n, para no cansarnos esperando a leer
+de disco, podemos pulsar la tecla F12, que nos quita la velocidad original. Sin
+embargo, puede que esta velocidad pueda resultar excesiva, sobre todo para
+escribir.[NO]
+
+  Para salir del emulador, o bien lo hacemos desde el men£ principal, o[IZQUIERDA]
+pulsando la tecla F10.[NO]
+
+  La versi¢n 1.11 funciona bajo DOS y es similar a esta, salvo que funciona[IZQUIERDA]
+mejor. EL men£ ya no es interactivo, y hay que elegir las opciones con teclas
+r pidas como F5 (resetar), F6 (archivos), etc...[NO]
+
+ Tal y como dice el autor:
+
+  "el Caprice32 permite (tal como el CPC original) el uso de hasta 251 ROMs de[IZQUIERDA AMARILLO]
+ expansi¢n. Como extra se incluye en el archivo de Caprice32 el sustituto del
+ sistema operativo de disco, PARADOS, de Richard Wilson. Para activarlo borra
+ el punto y coma que se encuentra en frente de la l¡nea "#rom = 7, PARADOS.ROM"
+ en el fichero CAP32.CFG, y pon como comentario "#rom = 7, AMSDOS.ROM" en su
+ lugar (mira la secci¢n FICHERO DE CONFIGURACION para m s detalles). PARADOS es
+ m s tolerante con los formatos de disco de alta capacidad, y, por defecto,
+ configura la unidad B del CPC como de doble densidad, y es capaz de manejar 80
+ pistas. Introduce el comando "|DRIVE" en el indicador de BASIC para acceder a
+ la suite de utilidades integrada de PARADOS"[NO]
+
+  Posee adem s la posibilidad de guardar SNAPSHOTS, es decir, el estado de[IZQUIERDA BLANCO]
+emulaci¢n en cualquier momento, para despu‚s poderlo volver a cargar.[NO]
+
+  Pero quiz s la caracter¡stica mas destacada, es el MULTIFACE 2, que act£a de[IZQUIERDA]
+interface multiprop¢sito, ya que permite:[NO]
+
+ 1) Completa copia de seguridad autom tica de cualquier programa, una vez[AMARILLO]
+    cargado en memoria RAM.
+
+ 2) ampliaci¢n de RAM de 8K - para software como nuestro INSIDER, o como
+    bufer, etc.
+
+ 3) MULTI TOOLKIT para estudiar/ modificar/ desarrollar programas. POKEAR vidas
+    infinitas, etc.
+
+ 4) BOTON DE RESET REAL que limpia los primeros 64K de la RAM del CPC.
+
+
+  Para activarlo, hay que hacerse con una copia de la ROM MF2, que se puede[IZQUIERDA BLANCO]
+conseguir en la direcci¢n ftp:[NO]
+
+   ftp://ftp.nvg.unit.no/pub/cpc/emulator/rom/multface.zip[VERDEFOSFORITO XM]
+
+  Hay que descomprimir el ZIP en el directorio de ROM y renombrar el fichero a[PCT BLANCO IZQUIERDA]
+MF2.ROM. Para cargarlo cuando Caprice32 arranca hay que quitar el indicativo
+de comentario de la palabra clave #mf2_rom en el fichero CAP32.CFG.[NO]
+
+  El MF2 se activa pulsando la tecla F11. Eso deber¡a visualizar un men£ de dos[IZQUIERDA]
+l¡neas en la parte baja de la pantalla. Para volver al CPC pulsa la tecla r.[NO]
+
+  El fichero CAP32.CFG podemos elegir el modelo de CPC a emular, que ser¡a:
+
+   0 = 464, 1 = 664, 2 = 6128[AZULCLARO]
+
+
+  Tambi‚n se permite usar el viejo JOYSTICK que ten¡amos en nuestro CPC, pero[IZQUIERDA BLANCO]
+para ello necesitaremos construir un peque¤o INTERFACE de puerto paralelo, como
+viene explicado en nuestro art¡culo de la revista.[NO]
+
+   En cuanto al sonido, si nuestra tarjeta es soportada por el emulador, todo[IZQUIERDA]
+perfecto, ya que s¢lo hay que elegir la frecuencia de muestreo y la precisi¢n.[NO]
+
+
+
+CPE[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  En su versi¢n 5.2, se caracteriza por ser LIBRE. Permite emular el CPC en un[IZQUIERDA]
+IBM compatible 486-AT. La £nica restricci¢n que se pone, es que no se puede
+cobrar m s de 8 marcos alemanes o el equivalente en otra moneda (no se cuanto
+ser  en Euros).[NO]
+
+  En el aspecto CPC de especificaciones documentadas, el autor dice:
+
+  "El CPE puede emular los tres modelos de CPC en el PC. De hecho, siempre[AMARILLO IZQUIERDA]
+emula el hardware del 6128, pero esto nunca ocasionar  problema alguno, puesto
+que en realidad no ha habido ning£n cambio en el hardware; s¢lo a¤adiduras.[NO]
+
+  El modelo que se obtiene viene determinado por el contenido de las ROM. Hay[IZQUIERDA]
+m s sobre eso despu‚s.[NO]
+
+  Todas las caracter¡sticas documentadas de hardware est n emuladas. Por[IZQUIERDA]
+supuesto, algunas cosas no pueden duplicarse exactamente en un sistema
+totalmente diferente. El esquema de teclado del PC difiere al del teclado del
+CPC, as¡ que puede que tengas alg£n problema para encontrar algunas teclas al
+empezar a usar CPE.[NO]
+
+  CPE.EXE funciona  siempre a la velocidad exacta de un CPC, a menos que se le[IZQUIERDA]
+diga lo contrario. Si tu ordenador es lo suficientemente r pido, no habr 
+ninguna diferencia respecto a un CPC real."[NO]
+
+
+  Y en cuanto a las caracter¡sticas indocumentadas:[BLANCO]
+
+  "Un CPC puede hacer otras cosas aparte de las que dice el[AMARILLO]
+manual. En especial el chip de  video  (CRTC)  puede  hacer
+mucho m s de lo que uno podr¡a imaginar.
+
+  CPE  puede  emular  el  overscan , efectos  de  raster  y
+pantallas  de  32K  (con EMS en modo 800x600). Puede emular
+algunos  efectos  de split screen (pantalla partida) que se
+usan en demos, pero esto todav¡a tiene paque¤os fallos.."
+
+  Por ejemplo,es perfectamente posible usar resoluciones de[BLANCO]
+hasta  768x280 con los 27 colores, y programadores expertos
+de verdad han hechos cosas como esa.
+
+  Sin embargo, desconozco si el autor ha conseguido poner esta opci¢n en el[IZQUIERDA]
+emulador.[NO]
+
+  Las teclas de opciones son las mismas o parecidas a las que usa el emulador[IZQUIERDA]
+CAPRICE.[NO]
+
+  Al igual que el resto de emuladores de CPC, cuando se lee de disco o de[IZQUIERDA]
+cinta, se nos encienden las luces de CAPS-LOCK y SCROLL-LOCK del teclado, del
+mismo modo que si fuera el led de una disquetera.[NO]
+
+  Este emulador si permite capturar im genes desde Windows con la tecla[IZQUIERDA]
+Impr+Pant, tal y como se muestra.[NO]
+
+
+
+No$CPC[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Tenemos disponible el emulador y depurador No$CPC. Funciona bajo Win32 y nos[IZQUIERDA]
+permite depurar programas para CPC, viendo en cualquier momento los registros
+del Z80, as¡ como las instrucciones que ejecuta. Pero tambi‚n se permite llamar
+al emulador, para as¡ ver en funcionamiento el programa.[NO]
+
+  Es muy intuitivo, ya que se hace todo por men£s,pero como
+inconveniente ,  est    que  no  emula  muy  bien   el  CPC
+indocumentado , aunque  permite  cambiar  la  velocidad  de
+emulaci¢n , y convertir nuestro CPC a 4 Mhz, en uno a 8 Mhz
+o m s.
+
+ ¨Sois  capaces  de  imaginar  un CPC a 1 Ghz? Pues no hace
+falta ir muy lejos, ya que vuestro PC a 2 Ghz, se convierte
+en un 8086 a 2 Ghz muchas veces.
+
+  Os he dejado una foto adjunta, para que observ‚is este emulador.
+
+
+
+Winape[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Este emulador funciona en Win32, y es muy f cil de manejar. Como[IZQUIERDA]
+inconveniente, est  que en alguna emulaci¢n no puede tirar por ella, ya que
+Win32 no es muy potable para este trabajo.[NO]
+
+
+  Tampoco  emula  muy bien el CPC indocumentado, para poder
+ver alguna demo.
+
+
+  Todo se hace desde una barra de men£ . Y  es mejor ver la
+emulaci¢n en pantalla completa , ya que en ventana no  hace
+muy bien los volcados, as¡ como la muestra de colores.
+
+
+  Os dejo una foto para que le ech‚is un vistazo.
+
+
+
+Yage[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  La versi¢n 0.91 funciona bajo DOS, y en ventana de DOS del Win32. Los[IZQUIERDA]
+requisitos m¡nimos, son disponer de un PC 386 y una tarjeta gr fica compatible
+con VESA, aunque se recomienda disponer de un Pentium y una tarjeta gr fica con
+bus PCI y VESA 2.0.[NO]
+
+  Puede emular lo siguiente:
+ 
+   - procesador:[AMARILLO] Todos los c¢digos, ciclos NOP, y todos los modos de[BLANCO]
+                 interrupci¢n
+
+   - video:[AMARILLO] CRTC Tipo 0 + Puerta Array, con emulaci¢n line-precise[BLANCO]
+            (i.e. normal screen-splittings y rasters horizontales)
+
+   - memoria:[AMARILLO] 576 K RAM + 48 K ROM[BLANCO]
+
+   - teclado:[AMARILLO] QWERTY + primer joystick[BLANCO]
+
+   - disco:[AMARILLO] instrucciones de escritura no emuladas por el momento[BLANCO]
+
+   - sonido:[AMARILLO] nada por el momento[BLANCO]
+
+   - cinta e impresora:[AMARILLO] nada[BLANCO]
+
+
+  Se pueden ver varias demos sin problemas.
+
+  Hay que destacar, que este emulador est  realizado con las librer¡as ALLEGRO,[IZQUIERDA]
+lo que no impide que actualmente se encuentre disponible para otras plataformas
+adem s del DOS. Para poder elegir las im genes de disco, se puede pulsar el
+bot¢n derecho del rat¢n, y nos sacar  un men£ del GUI de las ALLEGRO.[NO]
+
+  Para resetear el emulador, se pulsar  la tecla F5, y el resto de teclas[IZQUIERDA]
+siguen un orden similar a los otros emuladores.[NO]
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Debemos de ser conscientes, que los emuladores, sirven para preservar el[IZQUIERDA]
+hardware y para desarrollar software para dichas m quinas de forma m s c¢moda
+en nuestro ordenador, en caso de no disponer de un equipo real. Sin embargo,
+actualmente se suelen usar para jugar y ejecutar programas que tienen
+COPYRIGHT, y por tanto esto es ilegal.[NO]
+
+  As¡ que recordad, usad s¢lo ROMS y programas legales, o creadlos vosotros[IZQUIERDA]
+mismos con un compilador cruzado o real.[NO]
+
+  Esto es importante, ya que los programas no se hacen solos, y si los[IZQUIERDA]
+pirateamos, estamos ofendiendo al autor, y sino, poneos en su lugar.[NO]
+
+  Afortunadamente, las ROMS del CPC que lo permiten arrancar, junto con el[IZQUIERDA]
+BASIC y el CPM, se pueden distribuir libremente, pero eso no quiere decir, que
+el juego PANG por ejemplo, lo sea.[NO]
+
+  Si quer‚is descargar los emuladores, pod‚is probar en esta direcci¢n:
+
+   http://www.emulatronia.com[VERDEFOSFORITO]
+
+  Y para el driver gr fico VESA:[BLANCO]
+
+   http://www.scitechsoft.com[VERDEFOSFORITO]

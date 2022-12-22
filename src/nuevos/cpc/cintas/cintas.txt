@@ -1,0 +1,155 @@
+[FOTOS 1]
+FOTO_CPC_SCART_1 PALETA_CPC_SCART_1 63 0
+Pasar CDTS al CPC[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Pues como os coment‚, al pillarme el CPC, ten¡a ganas de probar software[IZQUIERDA]
+(juegos) en el CPC real. Pero mi principal problema era, que aunque el CPC
+pose¡a una cinta original de AMSTRAD, el juego era muy simple, ya que se
+trataba del FRUIT.[NO]
+
+
+  Lo que realmente quer¡a, era un buen juego, como el MADMIX, el ARKANOID,[IZQUIERDA]
+DIZZY o incluso demos de la scene.[NO]
+
+
+  Y claro, el problema estaba, en que el CPC 464 tal y como lo tengo, no posee[IZQUIERDA]
+una unidad de discos de 3 1/2, ni nada que me permita transferir estos juegos
+de forma c¢moda, desde mi PC al CPC.[NO]
+
+
+  As¡ que prob‚ por la maravillosa INTERNES, y me encuentre una serie de[IZQUIERDA]
+juegos, los cuales ven¡an en formato DSK. Este formato es para las im genes de
+los discos de 3 ", y no la de 3 1/2. Sin embargo, como coment‚, el CPC s¢lo
+dispone de una unidad de cinta, la cual tuve que limpiar los cabezales, as¡
+como toda la placa y exteriores del mismo, para dejarlo en buen funcionamiento.[NO]
+
+
+  En INTERNES, como dije, me encontr‚ una utilidad que se llamaba cpc2tape.Esta[IZQUIERDA]
+utilidad, nos permite pasar archivos binarios de tipo CPC al formato de audio,
+el cual puede ser grabado en una cinta. El problema radica, en que esta
+utilidad, requiere de un CPC 6128, como m¡nimo, y hay que hacer un conversor
+para enganchar la tarjeta de sonido del PC al DIM del CPC del casete. Y por
+supuesto, estaba que aunque lo enviases a una cinta, luego el CPC 464 no lo
+le¡a correctamente. Adem s hab¡a que poseer la utilidad CPCXFS que se encargaba
+de extraer los archivos de la imagen DSK, para luego ir metiendo uno a uno en
+un archivo de sonido con separaci¢n de silencio, para grabarlo en cinta.[NO]
+
+
+
+
+
+
+Materiales necesarios[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Se necesita lo siguiente:
+
+    þ Un PC 386 o superior, con tarjeta de sonido.[PC GRIS]
+    þ Una minicadena o unidad de cinta con entrada de audio y posibilidad de
+      grabaci¢n.
+    þ Un cable de audio de la tarjeta de sonido a la entrada de la minicadena
+    þ Una cinta virgen
+    þ El programa PLAYTZX
+    þ Alg£n archivo en formato CDT.
+    þ Un editor de audio, como el GOLDWAVE.
+
+
+  Pues si ten‚is esto, pod‚is poneros en marcha. Para ello, deb‚is de descargar[IZQUIERDA PCT BLANCO]
+alg£n que otro juego o programa en formato CINTA, que en el caso de los
+emuladores, suele venir en formato .CDT. He de dar gracias a un amigo, que por
+correo electr¢nico me di¢ la direcci¢n de un buen sitio FTP para descargar
+cintas, que de otra manera, hubiese tardado mucho m s en encontrar determinados
+juegos.[NO]
+
+
+  Una vez descargado, por ejemplo el juego ARKANOID.CDT, debemos de usar la[IZQUIERDA]
+utilidad PLAYTZX, del spectrum, para poder convertir este archivo en formato de
+audio. Se puede enviar directamente a la salida de la tarjeta de sonido, sin
+falta de enviarse a un archivo (ahorrando espacio), pero como el programa est 
+hecho para DOS, suele haber problemas con pesudosistemas como NT, XP y dem s.[NO]
+
+
+  La opci¢n b sica, ser¡a:
+
+
+   playtzx arkanoid.cdt /voc arkanoid.voc[AMARILLO]
+
+
+  De esta forma, se crear  un archivo de sonido que contendr  el juego de[IZQUIERDA BLANCO]
+ARKANOID. Por defecto, se samplea a 33 Khz, pero con 22050 Hz, es m s que
+suficiente, ya que a m s sampleo, m s consumo de memoria. La mayor¡a de cintas,
+funcionan con un sampleo de 11025 Hz, pero para asegurar, usad 22050 Hz
+(22 Khz).[NO]
+
+
+   playtzx arkanoid.cdt /voc arkanoid.voc /freq 22050[AMARILLO]
+
+
+  Ahora, es cuando entra en marcha la minicadena. Aseguraros de que la pieza de[IZQUIERDA BLANCO]
+grabaci¢n de vuestra minicadena, o de la unidad que teng is para grabar,
+funciona correctamente y est  limpia. Para ello, pod‚is probar a grabar una
+cinta original de AMSTRAD. Si la original la lee, y la copia, no, significar 
+que algo va mal. Por tanto, limpiad los cabezales de reproducci¢n y la pieza de
+grabaci¢n con alcohol y un palillo o algod¢n, y cuando este apagado. Luego
+esperad a que se seque, y probad de nuevo. El m‚todo m s r pido, pero menos
+seguro, es usar una cinta limpiadora.[NO]
+
+
+  Y luego proceded a conectar el cable de la tarjeta de sonido a la minicadena.
+Seleccionad la entrada de minicadena, y ajustar los vol£menes. Esto es a prueba
+y error. Un volumen muy alto, da problemas, as¡ como uno muy bajo. As¡ que[IZQUIERDA]
+probad a cambiar eso en la minicadena (desactivar los filtros y el ecualizador)
+, as¡ como el panel de control de volumen de Windows.[NO]
+
+
+  Y dadle a reproducir el archivo, desde Windows, con el Goldwave por ejemplo,[IZQUIERDA]
+o el WinAMP. Si hac‚is esto, seguramente no funcionar , por un problema muy
+sencillo, que es el siguiente. Hay que grabar en aquella secci¢n magn‚tica de
+la cinta, y si os fij is, las cintas suelen llevar una secci¢n inicial que no
+es magn‚tica. Por tanto, si se graba ah¡, todo eso se pierde. Por tanto, dejad
+la cinta, al menos 5 o 10 segundos en grabaci¢n, antes de dar a reproducir el
+archivo. Otro problema, es el de que se debe dejar algunos segundos entre
+archivo y archivo, por tanto, pod‚is o bien a¤adir 5 segundos de silencio en
+el inicio del archivo con el programa GOLDWAVE, aunque si hab‚is dejado los 5
+primeros segundos de la cinta en la grabaci¢n, no har  falta.[NO]
+
+
+  Y s¢lo queda esperar, que lo normal, suele ser para un juego de 64 Kbytes,[IZQUIERDA]
+unos 6 o 8 minutos. Y una vez grabado, procederemos a meter la cinta en el CPC,
+rebobinar y a reproducir de la siguiente forma:[NO]
+
+
+   run ""[AMARILLO]
+
+
+  Seguro que encuentra algo. Si no es as¡, es que ha salido todo mal, y debemos[IZQUIERDA BLANCO]
+revisar los pasos. En mi caso, he tenido que hacer varias pruebas, as¡ como
+limpiar la minicadena y casete del CPC, para que todo funcionara.[NO]
+
+
+  Si prob is a hacer los siguiente:
+
+
+   cat[AMARILLO]
+
+
+  Os encontrar‚is con alg£n que otro error de lectura, que suele ser normal. En[IZQUIERDA BLANCO]
+el comando anterior, si os da error, est is perdidos, y tendr‚is que volver a
+grabar.[NO]
+
+
+  Y con esto queda todo concluido. As¡ que s¢lo os queda buscar aquel juego que[IZQUIERDA]
+tanto os gust¢, y ha probarlo en la cinta.[NO]
+
+
+  Personalmente se que la cinta es bastante lenta, sobre todo para juegos de[IZQUIERDA]
+64 KB o m s, no siendo lo mismo para 16 KB o menos. Sin embargo, a lo largo de
+pr¢ximos n£meros se ver n m‚todos alternativos, que nos permitir n una
+velocidad 10 veces superior a la cinta, sin gastar mucho dinero. Y sino, probad
+a tirar de emulatas, que en el acceso a disco, aceleran mucho, no siendo lo
+mismo para los gr ficos y sonidos.[NO]

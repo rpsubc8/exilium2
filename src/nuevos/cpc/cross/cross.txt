@@ -1,0 +1,291 @@
+[FOTOS 0]
+TASM 3.1[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  De la misma forma que se puede programar una m quina C64 y un Sprinter, por[IZQUIERDA]
+medio de compiladores cruzados, tambi‚n se puede hacer lo mismo con el AMSTRAD
+CPC.[NO]
+
+
+  Esto se debe, a que todos los ordenadores antes citados disponen de un[IZQUIERDA]
+procesador com£n, que en este caso, es de 8 bits. En el caso del C64, el micro
+es un 6502 de MOTOROLA, aunque es compatible con el Z80 de Zilog.[NO]
+
+
+  De esta forma, con s¢lo descargar el parser l‚xico (TASM) de ensamblador,[IZQUIERDA]
+podremos generar c¢digos para el AMSTRAD CPC (por los viejos y nuevos tiempos).[NO]
+
+  Por tanto, deb‚is de conseguirlo por INTERNET:
+
+
+          "download tasm 3.1"[CHAR14B VERDEFOSFORITO]
+
+
+  Esta versi¢n nos permitir  programar para los siguientes procesadores:[PCT BLANCO]
+
+
+   8048, 6502, 8051, 8085, z80, 6800, 6805, TMS7000, 8096, TMS32010, TMS32025[PC GRIS]
+
+
+  Que soporte estos procesadores, no significa que genere c¢digo de forma[PCT BLANCO IZQUIERDA]
+abstracta para ellos, al estilo del C, PASCAL, BASIC y dem s. Al tratarse de un
+ensamblador, tan s¢lo soportar  los upcodes (nem¢nicos) de dichos procesadores.
+
+
+  Adem s, tambi‚n generar  el binario resultante, pero eso no quiere decir, que[IZQUIERDA]
+genere un ejecutable conocido para dicho procesador, es decir, no a¤adir  un
+cargador de BASIC o similar, para hacer f cil su carga.[NO]
+
+
+  Pero por algo hay que empezar, y si no disponemos de un m quina CPC original,[IZQUIERDA]
+podremos tirar de este ensamblador cruzado en nuestro PC, para luego probarlo
+en un emulata o en una m quina real.[NO]
+
+
+  Los materiales que necesitamos para esta haza¤a, son:
+
+   - TASM 3.1[PC AMARILLO] (soporte de Z80).[BLANCO]
+   - CPCXFS[AMARILLO] (para trabajar con .DSK)[BLANCO]
+   - Emulador de CPC o m quina real[AMARILLO]
+
+
+
+
+
+Ejemplos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues vamos a empezar por algo sencillo, como es el caso de poner un car cter[IZQUIERDA]
+por pantalla. Para ello, debemos de saber, que gracias a DIOS, el CPC dispone
+de una ROM, la cual nos liberar  de la carga de dibujar un car cter.[NO]
+
+
+  Por tanto, el c¢digo en ensamblador ser¡a de la siguiente forma:
+
+
+              .ORG $1000[AMARILLO]
+   comienzo:   LD A,65
+               CALL $BB5A
+               RET
+              .end
+
+
+  Para aquellos que esten acostumbrados al ensamblador NASM, debo recordar, que[BLANCO IZQUIERDA]
+el TASM para poner directivas, hay que anteponer el '.', y para los c¢digos en
+hexadecimal, el '$'.[NO]
+
+
+  En este caso hemos usado el servicio $BB5A, que el TXT_OUTPUT (salida de[IZQUIERDA]
+texto). Los par metros de entrada son el car cter a imprimir, el cual va en el
+registro A del Z80. Al igual que los PC's, el CPC, usa la tabla ASCII, que en
+este caso, si coincide con la de PC. Por tanto, la letra 'A' empieza en el
+valor 65, contrario al c64.[NO]
+
+
+  Cualquier programa de CPC, debe contener una sentencia RET (Fin de[IZQUIERDA]
+Procedimiento) al final del mismo, ya que sino, nunca acabar , e ir  a
+posiciones no v lidas.[NO]
+
+
+  En este caso, he hecho que el programa comience en la posici¢n 0x1000, que es[IZQUIERDA]
+bastante suficiente para no machacar posiciones de RAM.[NO]
+
+
+  Y claro, s¢lo queda compilar esto, de la siguiente manera:
+
+
+   tasm -80 -b cpc.asm[AMARILLO]
+
+
+  Es important¡simo que pong is la opci¢n '-b', ya que sino, no se generar  en[IZQUIERDA BLANCO]
+formato binario, sino en ASCII. Y la opci¢n '-80' es para que se genere un
+binario para el Z80.[NO]
+
+
+  Si todo ha salido bien, vuestro binario resultante ocupar  menos de 8 bytes[IZQUIERDA]
+(una pasada en comparaci¢n con los de WIN32). El binario, no vendr  en formato
+EXE, sino en formato .OBJ. As¡ que procurad no carg roslo.[NO]
+
+
+
+
+
+
+CPCXFS[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues por mucho que lo intent‚is, poco vais a poder hacer con este binario, si[IZQUIERDA]
+no pod‚is meterlo en un CPC emulado o real, es decir, a trav‚s de disquetes o
+de im genes de disco (emulador).[NO]
+
+  Para ello, se proceder  a crear una imagen de disco, con la utilidad CPCXFS,[IZQUIERDA]
+de la siguiente forma:[NO]
+
+   Ejecutaremos el cpcxfs[AMARILLO]
+
+  Una vez dentro de ‚l, se pondr  la opci¢n:[BLANCO]
+
+   new cpc.dsk[AMARILLO]
+
+  En el acto se crear  una imagen de disco de datos. Despu‚s se proceder  a[IZQUIERDA BLANCO]
+salir de ‚l mismo de la siguiente forma:[NO]
+
+   bye[AMARILLO]
+
+  Y luego meteremos el binario cpc.obj en dicha imagen, de la siguiente forma:[BLANCO]
+
+   cpcxfs cpc.dsk -b -p cpc.obj[AMARILLO]
+
+  Si os fij is, todos estos pasos se pueden hacer o desde dentro del cpcxfs, o[IZQUIERDA BLANCO]
+desde l¡nea de comandos (vosotros mismos). Pero eso, s¡, la opci¢n '-b' es
+importante, ya que es lo que permite la transferencia en BINARIO (estilo ftp),
+y no en ASCII. El archivo cpc.obj, antes de meterlo, pod‚is cambiarle la
+extensi¢n por .BIN (a gusto del consumidor).[NO]
+
+  Y si todo ha salido bien, ya ten‚is una imagen de disco creada.
+
+
+
+
+
+Carga del programa[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues ahora, s¢lo os queda cargar el emulador, por ejemplo el ARNOLD (algo[IZQUIERDA]
+lento), y proceder a meter la imagen de disco cpc.dsk a emular.[NO]
+  Para asegurarnos de que todo va bien, ejecutaremos lo siguiente:
+
+   cat[AAMRILLO]
+
+  Y si lo hemos hecho bien, deber  salir, lo siguiente:[BLANCO]
+
+   cpc.obj o el cpc.bin[AMARILLO]
+
+  Y claro, que bonito, a muchos se os ocurrir  ejecutar directamente, el[BLANCO IZQUIERDA]
+archivo "cpc.obj", pero claro, os dar‚is cuenta de que no funciona. Esto es
+debido, a que no se ha hecho un cargador ni nada por el estilo, es decir, se
+trata de una simple rutina metida en formato binario.[NO]
+
+  Por tanto, para poder cargarla, procederemos de la siguiente manera:
+
+   load "cpc.obj"[AMARILLO]
+   call 1000
+
+  o bien:[BLANCO]
+
+   load "cpc.bin"[AMARILLO]
+   call 1000
+
+  Y seguro que ahora, os va a aparecer una letra 'A' por pantalla. Y todo con[BLANCO IZQUIERDA]
+menos de 8 bytes (una pasada en ensamblador).[NO]
+
+
+
+
+
+Mas ejemplos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  A quedado bastante bien, pero claro, en cierta medida es algo pesado estar[IZQUIERDA]
+cada rato compilando y metiendo el ejecutable dentro de la imagen de disco. Por
+tanto, si quer‚is ahorraros estos pasos, pod‚is buscar un emulador que soporte
+le introducci¢n directa de binarios, como los del C64.[NO]
+
+
+  Y sino, seguir‚is haciendo lo mismo, salvo que ahora no hace falta ir creando
+la imagen de disco (ya la hemos creado), teniendo s¢lo que machacar el archivo[IZQUIERDA]
+cpc.obj o cpc.bin.[NO]
+
+  Pues que mejor, que seguir probando cosas de nuestro querido CPC real o el[IZQUIERDA]
+emulado. As¡ que va siendo hora de meterse con la memoria de video. De la misma
+forma que el C64 tiene memoria de video, el CPC, posee otra, que por supuesto
+esta en otras direcciones. En concreto, tenemos que desde la direcci¢n 0xC000
+hasta la 0xFFFF, esta todo disponible para el video del CPC.[NO]
+
+  Dependiendo del modo de video en el que estemos (0, 1 y 2), tendremos m s[IZQUIERDA]
+resoluci¢n y m s colores, as¡ como una forma de programarlo m s f cil o
+dif¡cil.[NO]
+
+  En concreto, en el modo 2, tendremos 1 bit por pixel, es decir, 2 colores por[IZQUIERDA]
+pixel, lo que se traduce en 8 pixels por byte de memoria.[NO]
+  Para el modo 1 tenemos 2 bits por pixel, es decir, 4 colores por pixel, lo[IZQUIERDA]
+que equivale a 4 pixels por byte de memoria.[NO]
+  Y para el caso del modo 0, tenemos 16 colores por pixel, lo que se traduce[IZQUIERDA]
+en 4 bits por pixel, es decir, 2 pixels por byte de memoria.[NO]
+  Si os dais cuenta, con 16 colores ya se puede hacer una verdadera imagen[IZQUIERDA]
+digital de calidad scener. As¡ que apuntad bien este dato.[NO]
+
+  Y ahora a lo que iba, que se me va la cabeza. Por tanto, vamos a intentar[IZQUIERDA]
+dibujar un pixel en el modo actual de pantalla, por lo que pondremos el
+siguiente trozo de c¢digo:[NO]
+
+
+              .ORG $1000[AMARILLO]
+   pixel:      LD A,128
+               LD (49200),A
+               RET
+              .end
+
+
+  Y si todo va bien, y segu¡s los pasos anteriores para pasarlo a emulador,[BLANCO IZQUIERDA]
+podr‚is observar un punto en pantalla, que se corresponde con la posici¢n
+49200 de video.[NO]
+
+  Pero aqu¡ no queda la cosa, ya que pod‚is seguir haciendo cosas raras, como[IZQUIERDA]
+el siguiente trozo de c¢digo:[NO]
+
+
+              .ORG $1000[AMARILLO]
+   scroll:     LD HL,40
+               CALL $BC05
+               RET
+              .end
+
+
+  Esto nos permitir  hacer un scroll del comienzo de la zona de video, es[IZQUIERDA BLANCO]
+decir, no ser  un scroll de l¡neas de texto, sino que afectar  a la zona donde
+empieza el video (en modo ristra), lo que har  que parezca que se ha desplazado
+de forma rara. En este caso, se ha procedido a un desplazamiento de 40 bytes
+(registro HL).[NO]
+
+
+  Pero eso si, si queremos hacer un scroll sencillo de una l¡nea de texto,[IZQUIERDA]
+procederemos de la siguiente forma:[NO]
+
+
+              .ORG $1000[AMARILLO]
+   scroll:     LD A,0
+               LD B,10
+               CALL $BC4D
+               RET
+              .end
+
+
+  En este caso se hace un scroll hardware del texto, de tal forma que se[IZQUIERDA BLANCO]
+desplaza la l¡nea 10 (registro B), y aparece en la 0 (registro A).[NO]
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues hasta aqu¡ ha llegado el art¡culo de programaci¢n para CPC con[IZQUIERDA]
+ensamblador cruzado. Espero que os haya servido de ayuda, sobre todo para poder
+dar uso de nuevo a vuestro querido y viejo (en algunos casos) CPC.[NO]
+
+  En todos estos ejemplos, se ha trabajado con emulador, pero si quer‚is pasar[IZQUIERDA]
+los binarios al CPC original, deb‚is de transferir las im genes a disco real
+con utilidades como el CPCWRITE, o bien convertir el binario a formato cinta,
+con utilidades como el CPC2TAPE (esta £ltima funciona s¢lo en CPC 6128).[NO]
+
+  As¡ que a trabajar con el CPC 464, 464+, 6128 o el 6128+, y dem s.

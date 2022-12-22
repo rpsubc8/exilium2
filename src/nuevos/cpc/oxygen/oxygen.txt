@@ -1,0 +1,126 @@
+[FOTOS 3]
+FOTO_OXYGENCPC_1 PALETA_OXYGENCPC_1 53 0
+FOTO_OXYGENCPC_2 PALETA_OXYGENCPC_2 59 19
+FOTO_OXYGENCPC_3 PALETA_OXYGENCPC_3 51 67
+Diskmag Oxygen[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  Desde hace tiempo, se encuentra disponible la Revista digital de Oxygen.[IZQUIERDA]
+Actualmente va por el n£mero 7, y espero que llegue a muchos m†s. La
+caracter°stica principal que la hace diferente al resto, es que su formato es
+el HTML del mundo WEB. Esto permite a cualquier persona tanto ajena al mundo de
+la inform†tica, como conocedora, participar como observador de esta revista,
+sin falta de poseer un CPC real o emulador, e incluso sin pagar dinero por leer
+los art°culos.[NO]
+
+
+  Para aquel que todav°a no sepa de que va esta revista, se puede comentar que[IZQUIERDA]
+trata del pasado, presente y futuro del [BLANCO NO]AMSTRAD CPC[AMARILLO].[BLANCO]
+
+
+  El CPC, al igual que el Spectrum, C-64, AMIGA y PC,sigue
+teniendo  escuela, y  por tanto, scene. Se siguen haciendo
+DISKMAGS,demos y m¢dulos de sonido SID,adem†s de gr†ficos.
+
+
+  La revista Oxygen trata  temas  principalmente  del  CPC
+real, aunque tambiÇn incluye  emuladores  y  sobre todo el
+aclamado ordenador [BLANCO]CPCNG[AMARILLO].[BLANCO]
+
+
+  Los art°culos a nivel de montaje Hardware, cuenta como ampliar la RAM de 64[IZQUIERDA]
+KB a 512 KB de nuestro CPC, conectar el equipo a un televisor, o usar el puerto
+paralelo CENTRONICS, as° como meter unidades de disquete de 3 1/2".[NO]
+
+
+  TambiÇn se celebran los 18 a§os del nacimiento del CPC, as° como un recuerdo[IZQUIERDA]
+a todas las revistas de AMSTRAD CPC que salieron desde 1984 hasta 1995.[NO]
+
+
+  Lo m†s interesante, de cara al programador, es la posibilidad de programar en[IZQUIERDA]
+Z80, d†ndose en esta revista las nociones para ello, tanto en BASIC como en
+ensamblador.[NO]
+
+
+  TambiÇn se dedican secciones a los remakes de juegos de CPC, arcades,[IZQUIERDA]
+Spectrum y PC.[NO]
+
+
+  La entrevista m†s importante es a Christophe Guelff, sobre el CPNG, en el[IZQUIERDA]
+que deja la siguiente frase:[NO]
+
+  "the most difficult is to explain to people that it's not necessary to have a[AMARILLO IZQUIERDA]
+   1.5Ghz computer if you want to launch an office application"[NO]
+
+  "Lo dificil es explicar a la gente que no es necesario tener un computador[AZULCLARO IZQUIERDA]
+   a 1.5 Ghz si tu quieres lanzar una aplicaci¢n ofim†tica"[NO]
+
+ 
+
+CPCNG[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pero quiz†s lo que m†s llame la atenci¢n a cualquier usuario de ordenador,[IZQUIERDA]
+es el art°culo del CPC NG (CPC Next Generation), o Nuevo CPC.[NO]
+
+
+  Trata de  dar nueva  vida  comercial al CPC en
+nuestros tiempos, pero eso si, es totalmente GNU
+a nivel hardware y software.
+
+  Es un ordenador basado en el procesador [BLANCO]EZ80[AMARILLO] a[BLANCO]
+50  Mhz  (compatible  con  el  Z80) , que  puede
+direccionar 16 MB de RAM  directamente, pudiendo
+llegar a ampliarse hasta 1 GB de RAM.
+
+
+  Posee tarjeta de sonido, DVD, soporte de disco duro y tarjeta aceleradora[IZQUIERDA]
+gr†fica (GPU), siendo adem†s totalmente compatible con el CPC cl†sico.[NO]
+
+  Lo m†s atractivo del CPC NG, viene de la mano de la revista Oxygen, que a lo[IZQUIERDA]
+largo de sus n£meros va a§adiendo los avances en la construcci¢n de este
+equipo, no s¢lo a nivel de hardware, sino de especificaciones y programaci¢n,
+tanto del controlador IDE, como del apartado gr†fico GPU, de sonido, e incluso
+de la programaci¢n del EZ80.[NO]
+
+  Aunque quiz†s lo m†s interesante para desarrolladores, sea la llegada del[IZQUIERDA]
+emulador del CPC NG, que en la revista se dedica alg£n apartado, pero que por
+ahora, s¢lo se consigue emular la [NO BLANCO]CPU EZ80[AMARILLO].[BLANCO]
+
+  Las personas que trabajan en este proyecto son:
+
+   Markus Buntru [AMARILLO](dise§ador y administrador de cpcng.de)[BLANCO]
+   Christophe Dupas [AMARILLO](GPU ,SPU, desarrollador de software)[BLANCO]
+   Jeri Slsworth [AMARILLO](desarrolladora del CommodoreOne)[BLANCO]
+   Kristian Gavran [AMARILLO](administrador del cpcng-website)[BLANCO]
+   Laurent Guedon [AMARILLO](administrador del cpcng.com)[BLANCO]
+   Christophe Guelff [AMARILLO](GPU, SPU, coordinador de sponsoring)[BLANCO]
+   Francis GÅrmarker [AMARILLO](OS, software y herramientas)[BLANCO]
+   Ehong Hwangs [AMARILLO](Dinse§ador del PCB)[BLANCO]
+   Damien Legieda [AMARILLO](GPU-, SPU-)[BLANCO]
+   Tim Riermann [AMARILLO](Dise§o de la FPGA y VHDL, placamadre)[BLANCO]
+   Stefan Stumpferl [AMARILLO](OS, asistencia de cpcng.de)[BLANCO]
+   Ham Summers [AMARILLO](Dise§o de la FPGA y VHDL, placamadre)[BLANCO]
+   As°s Varshneya [AMARILLO](dise§o del VHDL)[BLANCO]
+   Adrian Pintilie [AMARILLO](PCB y comunicaciones en Rumania)[BLANCO]
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Esta revista promete mucho, no s¢lo para los sceners de sus CPC original,[IZQUIERDA]
+sino para los futuros con el CPC NG (que la verdad estoy esperando para
+conseguir el emulador y probarlo en serio).[NO]
+
+
+  Desde aqui se da la enhorabuena al creador de esta revista, y se le anima[IZQUIERDA]
+a que prosiga con su trabajo, para dar a conocer la verdadera historia de la
+inform†tica y no la falsa publicidad de compa§°as monopolistas.[NO]

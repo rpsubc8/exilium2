@@ -1,0 +1,221 @@
+[FOTOS 6]
+FOTO_DEMOSCPC_1 PALETA_DEMOSCPC_1 39 13
+FOTO_DEMOSCPC_2 PALETA_DEMOSCPC_2 52 54
+FOTO_DEMOSCPC_3 PALETA_DEMOSCPC_3 48 87
+FOTO_DEMOSCPC_4 PALETA_DEMOSCPC_4 59 118
+FOTO_DEMOSCPC_5 PALETA_DEMOSCPC_5 41 150
+FOTO_DEMOSCPC_6 PALETA_DEMOSCPC_6 46 178
+Demos en el CPC[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Pues en este art¡culo, se expondr n una serie de demos, las cuales funcionan[IZQUIERDA]
+en una m quina CPC original, sin a¤adidos. Lamentablemente, no poseo un CPC en
+buen estado, ya que alguna de las teclas est n estropeadas, as¡ como alg£n que
+otro problemilla. As¡ que he tenido que tirar de EMULATA.[NO]
+
+
+
+
+Crystal[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Consta de dos discos, los cuales hay
+que ir  cambi ndolos  muy  r pidamente
+seg£n  se  nos vayan pidiendo (con una
+foto  de  una  chica  manga  ARGAHH!!!
+8-D....). Se  trata  de  una visi¢n de
+fotos de  pixelador de [BLANCO]CPC real[AMARILLO], junto[BLANCO]
+una peque¤a melod¡a.
+
+
+  El grupo  creador de esta  maravilla
+es Rebelds, y para rematar, se hizo en
+el [BLANCO]a¤o 1993[AMARILLO], lo cual demuestra el gran[BLANCO]
+poderio de algunos  sceners en aquella
+‚poca. Y  digo, que  es una maravilla,
+puesto  que  algunas   fotos  compiten
+perfectamente con  cualquier  PC (s¢lo
+algunas).
+
+  El sitio  web del que descargu‚ esta
+pasada, fue:
+
+  http://www.terra.es/personal2/amstradweb[XM VERDEFOSFORITO]
+
+  As¡ que os animo a que la prob‚is, y os deis el gustazo. Por mi parte, me he[PCT BLANCO IZQUIERDA]
+permitido hacer un CUT & Paste de las fotos que he capturado desde el emulata
+(ya se que no es muy ‚tico), para que as¡ ve is un preview.[NO]
+
+
+
+
+RTS[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues despu‚s de esta pasada, vienen otra demo, que aunque no es tan vistosa[IZQUIERDA]
+como la anterior, es bastante agradable al oido, sobre todo, con su melod¡a de
+fondo.[NO]
+
+
+  Esta demo pertenece a la  demoscene francesa del
+CPC, que gracias al creador de esta obra [BLANCO](JACK)[AMARILLO],se[BLANCO]
+present¢ en [BLANCO]1998[AMARILLO].[BLANCO]
+
+
+  Va muy fluida, y es muy agradable ver una  serie
+de morfings  3d de cubos, esferas y dem s objetos.
+Se puede apreciar el  [BLANCO]ROTOZOOM[VERDEFOSFORITO], as¡ como el SCROLL[BLANCO]
+t¡pico de mensajes.
+
+
+  Se puede ver tambi‚n unas curbas de LISSAJOUS, que suelen ser muy atractivas[IZQUIERDA]
+si se eligen bien los colores, y se programa bien.[NO]
+
+
+  En definitiva, que es una demo que pasa perfectamente el Notable gracias a[IZQUIERDA]
+una buena programaci¢n, pero que para algunos probablemente, no llegue a un
+Sobresaliente (yo opino que si se merece un Sobre, ya que la belleza est  en
+el c¢digo).[NO]
+
+
+
+
+
+Wacwe[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  El nombre completo de esta demo es: What a cool week-end, y al igual que la[IZQUIERDA]
+anterior, pertenece a la demoscene francesa del CPC. Su creador es Eliot y se
+entreg¢ del 6 al 9 de Julio.[NO]
+
+  A  diferencia  de  la  anterior , tiene  unos
+colores m s  atrevidos, pero  no  posee  tantos
+efectos. De  hecho, se reducen a una visi¢n por
+pantalla en una ventana.
+
+  La m£sica suena perfectamente,y a lo largo de
+los   efectos   se   nos   van  mostrando  unos
+comentarios, entre los cuales  figura que alg£n
+efecto estaba hecho en [BLANCO]BASIC[AMARILLO].[BLANCO]
+
+  Los efectos se suelen reducir a deformaciones
+de im genes.
+
+  Hay que destacar, que esta demo no hace uso de trucos no documentados de[IZQUIERDA]
+AMSTRAD, a diferencia de las anteriores demos, por lo que con un emulador
+t¡pico, la podremos ver perfectamente.[NO]
+
+  Espero que os guste el CUT & PASTE que he hecho de esta demo.
+
+
+
+
+4Demos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Realmente este no es su nombre,sino que se trata de 4 demos que se encuentran
+en una misma imagen de disco. Sus nombres son:
+
+  MTV, PAT, REVENGE y TMD2.[XM VERDEFOSFORITO]
+
+  Tal y como se aprecia en la imagen adjunta, lo que menos[PCT BLANCO]
+atrae de  estas  minidemos, son  los  gr ficos  y  efectos
+visuales, de hecho, ser¡a lo primero que nos ahuyentar¡a.
+Sin embargo, lo que realmente queda bien,son las melod¡as.
+
+  De hecho, alguna que otra os sonar  de alg£n compositor.
+
+  Los creadores son:
+
+   Coder:[AMARILLO] Antitec del grupo Benedictino[BLANCO]
+   M£sico:[AMARILLO] DirtyMinds[BLANCO]
+   Grafista:[AMARILLO] Morhid of Dirty Minds[BLANCO]
+
+  Tal y como dicen sus creadores, la demo se encuentra hecha en ensamblador. El
+c¢digo ocupa 20 KB y el resto de datos 74 KB.
+
+  Por lo dem s, se puede decir que se trata de un SLIDESHOW.
+
+
+
+
+Ecolebui[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues para seguir, que mejor, que dar un buen chupinazo. Y esto lo conseguimos[IZQUIERDA]
+con esta maravillosa demo, cuyo nombre completo es: Ecole bu!sonniere.[NO]
+
+  La fecha de su salida, fue en Enero del 2000, y su autor es Madram del grupo[IZQUIERDA]
+Overlander. Se encuentra en franc‚s, as¡ como todos los comentarios de los
+efectos, as¡ que a tirar de traductor.[NO]
+
+  Los  gr ficos  son  incre¡bles , y  la
+m£sica muy pero que muy agradable, sobre
+todo la  canci¢n segunda, ya que posee 3
+melod¡as en toda la demo,y todo en menos
+de [BLANCO]200 KB[AMARILLO] (que pasada).[BLANCO]
+
+  Los  efectos  son  principalmente, las
+deformaciones  2D , pero  eso  s¡ ,  muy
+r pidas.  Se  ve  todo  en  una  peque¤a
+ventana , seguramente , para  paliar los
+defectos de memoria y velocidad.
+
+  Las im genes m s impactantes  son  las
+de la chica cl sica y la del osito en un cubo 3D, como textura. Por el medio[IZQUIERDA]
+tenemos plasmas, giros y una nave espacial haciendo un movimiento oscilatorio.
+
+  Como despedida sale un coraz¢n palpitando con efecto de ZOOM para simularlo.
+
+
+
+FaceHugg[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Y como traca final, esta maravillosa demo, cuyo nombre es: Face Hugger[IZQUIERDA]
+Ultimate Megademo, de [NO BLANCO]Julio de 1992[AMARILLO].[BLANCO]
+
+  Su autor es [BLANCO]Andreas Stroiczek[AMARILLO].[BLANCO]
+
+  Es realmente sorprendente para esa ‚poca,y
+se puede apreciar la enorme velocidad con la
+que  se  ejecutan  los  efectos  a  pantalla
+completa. Impresiona  ver los objetos 3D con
+balls y con mallas. Sin  embargo, no son muy
+atractivos los colores elegidos.
+
+  Tambi‚n es de destacar la foto de TURRICAN
+I  en  verde  en  [BLANCO]320 x 256 pixels[AMARILLO] (todo  un[BLANCO]
+logro).
+
+  Para poder  seguir viendo efectos, hay que
+pulsar la BARRA ESPACIADORA.
+
+  Y lo m s bonito visualmente hablando es la
+figura de hombre que gira en 3D mientras corre. Seguramente se trata de un[IZQUIERDA]
+formato de video comprimido, pero que para un CPC es una pasada.[NO]
+
+  Por el medio, hay un escena muy graciosa de los [BLANCO]LEMINGS[AMARILLO].[BLANCO]
+
+  Y en la despedida final, el autor explica sus comienzos en CPC y el trabajo[IZQUIERDA]
+de su obra, es decir, su demo, ya que una DEMO es ARTE, y si no lo veis, es
+que no llev is un artista dentro.[NO]
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues aqu¡ concluye la exposici¢n de demos de CPC, pero eso no quiere decir,[IZQUIERDA]
+que sean las £nicas que existan, o que van a ser la £nicas que pongamos en la
+diskmag, ya que en el pr¢ximo n£mero seguiremos comentando muchas m s, tanto
+cl sicas, como modernas.[NO]
