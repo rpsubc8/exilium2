@@ -1,0 +1,280 @@
+[FOTOS 0]
+Entrevista RadioPacket[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+1.- ¨Cual es tu nombre, que edad tienes y de donde eres?[BLANCO PC]
+
+      Fernando Fern ndez de Villegas, 43 a¤os, Barcelona.[GRISCLARO PCT]
+
+
+2.- ¨A que te dedicas actualmente?[BLANCO PC]
+
+      Trabajo de t‚cnico en una gran empresa de Telecomunicaciones.[GRISCLARO PCT]
+
+
+3.- ¨Cuando empezaste en el mundo de la inform tica, y cual fue tu primer[BLANCO PC IZQUIERDA]
+    ordenador?[NO]
+
+      Empezar, empezar... pues fue all  a finales de los 70's o principios de[PCT GRISCLARO IZQUIERDA]
+    los 80's. En el Radioclub en el que estaba apareci¢ un viejo PET de
+    Commodore, primer "trasto" que se pod¡a denominar ordenador personal que
+    ve¡a en mi vida (y una novedad pr cticamente para todos). Al poco adquir¡
+    de segunda mano una placa "Ohio Cientific", placa a la vista con BASIC y
+    4 Kb de RAM, y posteriomente, adquir¡ un Spectrun 48K plus.[NO]
+
+
+4.- ¨Y en el mundo de la radio?[PC BLANCO]
+
+      En ese mundo estoy desde 1976 aproximadamente, en la CB (27 Mhz)[GRISCLARO PCT]
+
+
+5.- ¨Y en el del radiopacket?[BLANCO PC]
+
+      Pues all  por [GRISCLARO PCT]1996[VERDE].[GRISCLARO]
+
+
+6.- ¨Que prefieres, la fonia o la comunicaci¢n digital via radio?[BLANCO PC]
+
+      En principio cualquiera de ellas, aunque la falta de tiempo me impide[GRISCLARO PCT IZQUIERDA]
+    dedicarme lo que quisiera a la radio.[NO]
+
+
+7.- ¨Que licencias de radioperador posees?[BLANCO PC]
+
+      S¢lo la [GRISCLARO PCT]EB[AMARILLO].[GRISCLARO]
+
+
+8.- ¨Estas de acuerdo con en reglamentazo del radiopacket por parte de[BLANCO PC IZQUIERDA]
+    Telecomunicaciones?[NO]
+
+      La verdad, me es un poco indiferente.[GRISCLARO PCT]
+
+
+9.- ¨Estas de acuerdo con la obligaci¢n del MORSE para la clase C y la A, en[BLANCO PC]
+    la radio?[NO]
+
+      Totalmente en contra. Actualmente lo considero un modo totalmente[GRISCLARO PCT IZQUIERDA]
+    desfasado (y eso reconociendo que es bueno para largas distancias), y la CW
+    no deja de ser un modo m s de comunicaci¢n en bandas de radioaficionado. Si
+    no me voy a dedicar al CW, ¨Para qu‚ aprender algo que luego no pienso
+    usar?[NO]
+
+
+10.- ¨Cual ha sido tu contacto a m s distancia?[BLANCO PC]
+
+       En 2 metros, con un port til de FM, poca cosa se puede hacer, 100 o[GRISCLARO PCT IZQUIERDA]
+     200 km a lo m ximo. Me suena haber entrado a alg£n repetidor bien a m s de
+     300 km de distancia por un golpe de propagaci¢n de esos raros en verano.[NO]
+
+       En 27 Mz, lo t¡pico: [GRISCLARO]Sudam‚rica[AMARILLO].[GRISCLARO]
+
+
+11.- ¨Y el mas agradable y emotivo?[BLANCO PC]
+
+       Tendr¡a que recordar. Ahora mismo no me llama ninguno la atenci¢n en[GRISCLARO PCT IZQUIERDA]
+     particular.[NO]
+
+
+12.- ¨Has probado las modalidades digitales de RTTY y PSK31?[BLANCO PC]
+
+       Pues no. RTTY quise probarlo en su d¡a con el Spectrum, pero en 27 Mhz[GRISCLARO PCT IZQUIERDA]
+     nadie se dedicaba a ello. Y el PSK es un modo muy reciente, y creo yo, es
+     para uso en bandas de HF.[NO]
+
+
+13.- ¨Y el NewQPSK (2400 baudios) con AX.25 en HF?[BLANCO PC]
+
+       He o¡do del modo este. ¨Se sustenta en tramas AX.25?[GRISCLARO PCT]
+
+
+14.- ¨Posees una BBS en radiopacket o te conectas a una?[BLANCO PC]
+
+       Me conecto a ellas, aunque mayormente por Telnet.[GRISCLARO PCT]
+
+
+15.- ¨Te gusta usar SSTV para realizar contactos en tiempo real?[BLANCO PC]
+
+       No lo he usado. S¢lo he probado el programa Chromapix para recibir[GRISCLARO PCT IZQUIERDA]
+     alguna transmisi¢n SSTV por 2 metros, o por la banda de FM comercial en
+     un programa que se dedica a todos estos temas.[NO]
+
+
+16.- ¨A que grupo de radioaficionados perteneces?[BLANCO PC]
+
+       A los de "sin club". No se si os refer¡s a si estoy en alg£n grupo de[GRISCLARO PCT IZQUIERDA]
+     radioaficionados.[NO]
+
+
+17.- Actualmente, el nivel de usuarios radioaficionados ha descendido, ¨a que[BLANCO PC IZQUIERDA]
+     crees que se debe?[NO]
+
+       A que los m¢viles e Internet han apartado de la radioafici¢n a los[GRISCLARO PCT IZQUIERDA]
+     usuarios que realmente no se sent¡an como tales, sino que buscaban alg£n
+     modo de comunicaci¢n m s o menos particular.[NO]
+
+
+18.- ¨Estas de acuerdo con las tasas de Telecomunicaciones para conseguir las[BLANCO PC]
+     letras de radioaficionado?[NO]
+
+       Hace a¤os que me saqu‚ las letras, no s‚ como est  la cosa actualmente.[GRISCLARO PCT]
+
+
+19.- ¨Que opinas de los que usan radiopacket en C.B. (27 mhz)?  (Entre ellos[BLANCO PC IZQUIERDA]
+     me encuentro yo).[NO]
+
+       Personalmente no me molesta. La CB ha sido mi campo de experimentaci¢n[GRISCLARO PCT IZQUIERDA]
+     en radio durante muchos a¤os.[NO]
+
+
+20.- ¨Crees que los PMR (UHF libre), sustituir  a la C.B. (Banda Ciudadana)?[BLANCO PC]
+
+       ¨Los PMR son los equipos de libre uso en la banda de 450 Mhz? . No creo[GRISCLARO PCT IZQUIERDA]
+     que sustituyan la C.B. No permiten largos alcances ni la posibilidad del
+     DX.[NO]
+
+
+21.- ¨Se puede hacer radiopacket de forma r pida con los PMR?[BLANCO PC]
+
+       Supongo que s¡, depende del ancho de banda asignado a cada canal de[GRISCLARO PCT IZQUIERDA]
+     estos equipos, pero me temo que si son los cl sicos 12.5 Khz, tampoco se
+     podr¡a trabajar a m s de 1200 o 2400 bps. Pero, ¨qu‚ sentido tiene el
+     packet radio con unos equipos que no est n destinados espec¡ficamente a
+     la CB o a la radioafici¢n, y que pueden ser usados por cualquiera?[NO]
+
+
+22.- ¨A que velocidad haces packet?[BLANCO PC]
+
+       1200 bps, lo que permite un sencillo equipo de 2 metros.[GRISCLARO PCT]
+
+
+23.- ¨Por qu‚ te gusta esta modalidad?[BLANCO PC]
+
+       Quiz s porque congenia bastante la inform tica con la radio, y quiz s[GRISCLARO PCT IZQUIERDA]
+     porque fueron las primeras comunicaciones digitales que realic‚ (incluso
+     antes de entrar en Internet o en el mundo de los BBS telef¢nicos).[NO]
+
+
+24.- Julian ha propuesto un proyecto (JNET) para mejorar la red de radiopacket,[BLANCO PC IZQUIERDA]
+     al menos en Espa¤a, ¨Que opinas de este proyecto?[NO]
+
+       Desconozco el proyecto, pero todo lo que sea mejorar la red de packet[GRISCLARO PCT IZQUIERDA]
+     me parece bueno.[NO]
+
+
+25.- ¨Y sobre el proyecto RAVEA (Red de Alta Velocidad de EA)?[BLANCO PC]
+
+       Lo mismo que en la pregunta anterior, desconozco el tema.[GRISCLARO PCT]
+
+
+26.- ¨Te gusta hacer packet en HF o en VHF y UHF?[BLANCO PC]
+
+       La respuesta es obvia si s¢lo dispongo de un equipillo de 2 metros. VHF.[GRISCLARO PCT]
+
+
+27.- Ya se han hecho proyectos de unir la red de INTERNET con la de radiopacket[BLANCO PC IZQUIERDA]
+     a trav‚s del protocolo TCP-IP. ¨Crees que esto es bueno o puede
+     desencadenar a la degradaci¢n de la pornograf¡a y la pirater¡a?[NO]
+
+       No creo que esto de paso a la pornograf¡a y la pirater¡a en la red de[GRISCLARO PCT IZQUIERDA]
+     radiopacket, ya que creo que si los que quedamos en las bandas de
+     radioaficionados estamos porque nos gusta esto (una consecuencia de lo
+     dicho en la pregunta 17). Adem s, si hay un m¡nimo control de los sysops
+     de las BBS y nodos de packet como se supone que hay actualmente, sobre
+     los contenidos de archivos y boletines que circulan por la red de packet,
+     esto no deber¡a de pasar.[NO]
+
+
+28.- ¨Eres partidario de seguir trabajando con el AX.25 o se deber¡a crear un[BLANCO PC IZQUIERDA]
+     nuevo protocolo de red mas eficiente y veloz, como pretende lograr JJ del
+     grupo SLIDERS?[NO]
+
+       El AX.25 funciona y se puede dejar perfectamente, pero si se consigue un[GRISCLARO PCT IZQUIERDA]
+     protocolo m s r pido y veloz y se estandariza, pues bienvenido. Pero el
+     problema es que con enlaces a 1200 bps que usamos muchos colegas, no s‚ que
+     m s r pido puede tener un nuevo protocolo sobre AX.25. Desconozco
+     exactamente lo que est  haciendo JJ y en general vosotros, pero puede ser
+     interesante que me inform rais por si tuviera algo interesante que
+     aportar.[NO]
+
+
+29.- ¨Eres de los que usan TNC con modem, o modem con ordenador?[BLANCO PC]
+
+       Pues hasta el momento, uso PC (obsoletillo) con modem Baycom.[GRISCLARO PCT]
+
+
+30.- ¨Que aparatos usas para el radiopacket?[BLANCO PC]
+
+       Pues lo dicho, PC 386 con modem Baycom, y el walky como TX-RX de 2[GRISCLARO PCT IZQUIERDA]
+     metros.[NO]
+
+
+31.- ¨Que opinas de usar tarjeta de sonido con chip DSP para hacer radiopacket?[BLANCO PC]
+
+       Pues muy bien, pues simplifica mucho las instalaciones, y sobre todo[GRISCLARO PCT IZQUIERDA]
+      ahora que el cl sico chip TCM3105 de los modems Baycom est  descatalogado
+      por su fabricante. Aparte del juego que pueden dar las tarjetas de sonido
+      como elementos con tecnolog¡a DSP en el procesado de se¤ales de todo
+      tipo.[NO]
+
+
+32.- Desde hace tiempo se dispone del programa FLEXNET y del AGWPACKET, ¨cual[BLANCO PC IZQUIERDA]
+     prefieres?
+
+       No he probado ni uno ni el otro, ya que con el TSTHost o con el arc ico[PCT GRISCLARO IZQUIERDA]
+     Baycom y un PC viejo me sobran para hacer packet cuando es por radio.
+     Normalmente realizo el packet mediante conexi¢n Telnet usando el cliente
+     CRT o el propio hyperterminal del Windows.[NO]
+
+
+33.- ¨Te gusta usar el WINPACK?[BLANCO PC]
+
+       Si es que no lo uso..... No puedo opinar.[GRISCLARO PCT]
+
+
+34.- ¨Crees que se podr  llegar a 9600 baudios en HF, como pretende lograr JJ[BLANCO PC IZQUIERDA]
+     con poco presupuesto?[NO]
+
+       No lo veo muy factible a causa del ruido de estas bandas y la cantidad[GRISCLARO PCT IZQUIERDA]
+     de errores que puede generar en transmisiones a altas velocidades. Pero
+     adem s, ¨ser¡a aceptada esta velocidad en bandas donde el ancho de banda
+     de las transmisiones es lo menor posible?. 9600 bps dar¡a lugar a un ancho
+     de banda comparativamente grande, y no creo que fuera muy aceptado en HF.[NO]
+
+
+35.- ¨Te gustaria disponer de un formato de p ginas web al estilo HTML, pero[BLANCO PC IZQUIERDA]
+     con formato de radioaficionado RML, mas r pido y m s optimizado para la
+     radio, como pretende lograr JJ?[NO]
+
+       Pues me interesar¡a guardar todo tipo de informaci¢n de formato HTML en[GRISCLARO PCT IZQUIERDA]
+     alg£n tipo de formato monoarchivo, desconozco qu‚ es el formato RML de JJ.[NO]
+
+       Lo que estaba mirando £ltimamente es el formato MHT, que permite meter[IZQUIERDA]
+     en un £nico archivo el archivo HTM y los archivos de imagen asociados, y
+     encima se puede enviar con formato ASCII directamente en boletines de
+     Packet Radio, pero tiene alg£n inconveniente para mi gusto. Lo reconoce
+     Internet Explorer 5.0 o 5.5 para arriba (Es lo que llama "Archivo web,
+     archivo unico"). MHT permitir¡a enviar informaci¢n HTML por la red
+     incluyendo las im genes asociadas.[NO]
+
+       De todas maneras me interesa ver de qu‚ va este formato que est is[IZQUIERDA]
+     desarrollando.[NO]
+
+
+36.- ¨Que S.O. usas para hacer packet?[BLANCO PC]
+
+       Tal como estoy operando actualmente, MS DOS 6.22.[GRISCLARO PCT]
+
+
+37.- ¨Sigues la demoscene?[BLANCO PC]
+
+             ¨la queee....?[GRISCLARO CHAR14B]
+
+
+38.- ¨Cual es tu opini¢n sobre el trabajo del grupo SLIDERS y su diskmag[BLANCO PC IZQUUIERDA]
+     EXILIUM?[NO]
+
+       No conozco lo que est is haciendo, no puedo opinar al respecto.[GRISCLARO PCT]

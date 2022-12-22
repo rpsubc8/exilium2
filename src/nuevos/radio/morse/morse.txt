@@ -1,0 +1,172 @@
+[FOTOS 0]
+El MORSE[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Como coment‚ en el n£mero anterior, poseo la licencia de radiooperador de[IZQUIERDA]
+clase B. Pero intento llegar al de clase A, as¡ que para ello, hay que sacar
+antes el de clase C, el cu l he conseguido en Octubre.[NO]
+
+
+  Si no os acord is, para ello, hay que pasar la prueba de recepci¢n y[IZQUIERDA]
+transmisi¢n del c¢digo morse. Tambi‚n hay que presentarse a un ex men te¢rico,
+que en funci¢n de si se tiene la licencia B, te tendr s que presentar a algunas
+pruebas. En concreto, s¢lo a la de manejo de emisora.[NO]
+
+
+  La verdad que se presentaron pocas personas, pero en el examen conoc¡ a un[IZQUIERDA]
+EB y EC, el cu l se presentaba a la clase A y muy buena persona. All¡ tambi‚n
+conoc¡ a unos futuros EB, que tambi‚n eran buenas personas. La verdad, que en
+el tema de la radio, aunque cada vez hay menos personas, comparten todos las
+ganas de aprender y de ense¤ar.[NO]
+
+
+  Y todo esto, lo hago porque quiero hacer PACKET y dem s modalidades dentro[IZQUIERDA]
+del  mbito legal, es decir, con licencia. Pero eso si, he de dar las gracias a
+EA1BDL, por ense¤arme a trabajar con el MORSE, ya que sin ‚l, no hubiese podido
+pasar las pruebas.[NO]
+
+
+
+
+
+El dichoso MORSE[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues Samuel F.B. Morse fue su creador, haya por el a¤o 1831. Pero no tuvo[IZQUIERDA]
+gran ‚xito hasta el a¤o 1844. Pero todo esto era a trav‚s de una conexi¢n con
+cable. Fue en el a¤o 1896, cuando Branly y Marconi crearon la comunicaci¢n sin
+hilos (v¡a radio).[NO]
+
+
+  La importancia de usar este modo, con respecto a la fon¡a, es m£ltiple:
+
+
+   þ Requiere mucha menos potencia que la fon¡a.[AMARILLO]
+   þ Requiere  de  equipamiento m s modesto, comprendiendo esto al transmisor y
+     al sistema irradiante.
+   þ No existen limitaciones idiom ticas [[en tanto se aprendan las abreviaturas
+     de aplicaci¢n internacionales].
+   þ La actividad de DX es mucho m s productiva que en otros modos.
+   þ La  anchura  de  banda que utiliza es muy reducida, ya que ocupa la d‚cima
+     parte  de  la  necesaria para la fon¡a. Dicho de otro modo , en  la  misma
+     anchura de banda que precisa la se¤al de fon¡a, caben 10 se¤ales de Morse.
+   þ Cuando se  realizan comunicaciones por Rebote  Lunar (Moon Bouncing) o por
+     reflexi¢n en las auroras que se forman en los polos, las se¤ales de  fon¡a
+     sufren tal distorsi¢n que se hacen ininteligibles, por lo  que  el  CW  se
+     convierte en un medio eficaz para  aprovechar  estas  facilidades  en  las
+     comunicaciones.
+   þ Mayor inmunidad a los ruidos, y posibilidad de mezcla de varias se¤ales.
+
+
+  Adem s, para transmisiones en tiempo real (estilo chat), no se necesita una[IZQUIERDA BLANCO]
+gran velocidad de transmisi¢n. Por tanto, con 12 palabras por minuto, es m s
+que suficiente. Pero para los ansiosos, hay que destacar, que los expertos
+pueden llegar a las 30, 50 e incluso 77 (el record) palabras por minuto.[NO]
+
+
+  Es cierto, que actualmente se puede usar el ordenador, con tarjeta de sonido[IZQUIERDA]
+y el software adecuado, para poder transmitir en c¢digo morse, pero a la hora
+de recepci¢n es mejor usar el o¡do humano, ya que es m s perfecto ante los
+ruidos (mejores filtros cerebrales). Por tanto, si pod‚is, usar vuestro o¡do,
+antes que el ordenador.[NO]
+
+
+
+
+
+
+El codigo[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues, el c¢digo MORSE b sico, ser¡a:
+
+
+  LETRAS[PC AMARILLO]
+
+  A  . -      di-DA           N  - .      DA-di[GRIS]
+  B  - . . .  DA-di-di-di     O  - - -    DA-DA-DA
+  C  - . - .  DA-di-DA-di     P  . - - .  di-DA-DA-di
+  D  - . .    DA-di-di        Q  - - . -  DA-DA-di-DA
+  E  .        di              R  . - .    di-DA-di
+  F  . . - .  di-di-DA-di     S  . . .    di-di-di
+  G  - - .    DA-DA-di        T  -        DA
+  H  . . . .  di-di-di-di     U  . . -    di-di-DA
+  I  . .      di-di           V  . . . -  di-di-di-DA
+  J  . - - -  di-DA-DA-DA     W  . - -    di-DA-DA
+  K  - . -    DA-di-DA        X  - . . -  DA-di-di-DA
+  L  . - . .  di-DA-di-di     Y  - . - -  DA-di-DA-DA
+  M  - -      DA-DA           Z  - - . .  DA-DA-di-di
+                                       
+
+  NUMEROS[AMARILLO]
+
+  1  . - - - -  di-DA-DA-DA-DA     6  - . . . .  DA-di-di-di-di[GRIS]
+  2  . . - - -  di-di-DA-DA-DA     7  - - . . .  DA-DA-di-di-di
+  3  . . . - -  di-di-di-DA-DA     8  - - - . .  DA-DA-DA-di-di
+  4  . . . . -  di-di-di-di-DA     9  - - - - .  DA-DA-DA-DA-di
+  5  . . . . .  di-di-di-di-di     0  - - - - -  DA-DA-DA-DA-DA
+
+
+  SIGNOS DE PUNTUACION[AMARILLO]
+
+  ?  . . - - . .  di-di-DA-DA-di-di[GRIS]
+  .  . - . - . -  di-DA-di-DA-di-DA
+  ,  - - . . - -  DA-DA-di-di-DA-DA
+  /  - . . - .    DA-di-di-DA-di
+  =  - . . . -    DA-di-di-di-DA
+
+
+  CARACTERES ESPECIALES (se transmite todo junto)[AMARILLO]
+
+  AR  di-DA-di-DA-di  Fin del mensaje o bloque[GRIS]
+  AS  di-DA-di-di-di  "Espere un momento"
+  KN  DA-di-DA-DA-di  Transmitido  a  continuaci¢n  de  la  caracter¡stica del
+                      corresponsal, desea respuesta SOLAMENTE de esa estaci¢n,
+                      pero no de otra.
+  VA (SK) di-di-di-DA-di-DA  FIN de la transmisi¢n
+
+
+
+
+  Cada DI (punto), se corresponde con un impulso.[PCT BLANCO]
+  cada DA (raya) se corresponde con tres DI.
+  Entre varios DI o DA de un mismo signo o letra, deber  dejarse un espacio[IZQUIERDA]
+equivalente a un punto o DI.[NO]
+  Entre las letras que componen una palabra, debe quedar el espacio de un DA o[IZQUIERDA]
+raya.[NO]
+  Entre palabras, debe quedar un espacio equivalente a dos DA o rayas.
+
+  As¡ que ha practicar. Eso si, el c¢digo MORSE es v lido usando un[IZQUIERDA]
+manipulador, paletas, o incluso usando banderas, espejos o luces. Es decir, no
+debemos s¢lo acostumbrarnos a el audio (oido).[NO]
+
+
+
+
+
+
+Frecuencias[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues las frecuencias t¡picas de transmisi¢n en morse, son:
+
+    1.818 Mhz.[PC AMARILLO]
+    3.581,5 Mhz.
+    7.047,5 Mhz.
+    14.047,5 Mhz.
+    18.097,5 Mhz.
+    21.067,5 Mhz.
+    28.067,5 Mhz.
+
+  Con una emisora como la SUPER JOPIX 2000, se puede escuchar MORSE, sobre todo[IZQUIERDA PCT BLANCO]
+en 28 Mhz, pero a veces, salen desplazados, ya que como se coment¢, en el ancho
+de banda de un canal de fon¡a, caben 10 de morse. As¡ que habr  que ajustar.[NO]
+
+  Si ten‚is una emisora SUPER JOPIX 3000, no s¢lo se puede recibir MORSE, sino[IZQUIERDA]
+que se puede transmitir, conectando el manipulador, por la parte trasera de la
+emisora.[NO]

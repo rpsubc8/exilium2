@@ -1,0 +1,202 @@
+[FOTOS 1]
+FOTO_RADIO_INTEK_1 PALETA_RADIO_INTEK_1 59 138
+Packet con la INTEK PLUS[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  En el cap¡tulo anterior os hab¡a ense¤ado a realizar el radio packet con una[IZQUIERDA]
+emisora gen‚rica y con una tarjeta de sonido gen‚rica. Pero claro, como no todo
+en este mundo es gen‚rico, m s de uno se habr  encontrado con el problema de
+que no pod¡an construir el interface para su emisora de radio.[NO]
+
+
+  En principio, el esquema es similar para todas las emisoras, es decir, cada[IZQUIERDA]
+conector de pastilla posee los siguientes pines:[NO]
+
+
+   - Entrada de audio[PC AMARILLO] (para modular)[BLANCO]
+   - Salida de audio[AMARILLO] (lo mismo que el altavoz exterior)[BLANCO]
+   - Interruptor de pastilla[AMARILLO]
+   - Masa
+
+
+  El resto de pines, aunque existen, sobran. Es m s, en principio, con los tres[BLANCO PCT]
+siguientes, ya bastar¡a:
+
+
+  - Entrada de audio[PC GRIS]
+  - Interruptor de pastilla
+  - Masa
+
+
+  Si por alg£n motivo poseemos un manos libres (conector VOX), ya ni siquiera[PCT BLANCO IZQUIERDA]
+necesitaremos de estos 3 conectores, ya que con s¢lo meter el audio, nos
+bastar .[NO]
+
+
+  Pero a lo mejor, vuestra emisora, no posee ninguna de las caracter¡sticas[IZQUIERDA]
+anteriores, es decir, que aunque posee un conector con los pines antes citados,
+no funciona, o que posee muchos m s pines y funciones que las citadas.[NO]
+
+
+  Sin embargo, s¢lo voy a tratar el caso de poseer una emisora de CB INTEK PLUS[IZQUIERDA]
+200. Esta emisora, posee un conector t¡pico de CB de 4 pines, pero si hacemos
+el conector de radio packet a la tarjeta de sonido, notaremos una cosa:[NO]
+
+   - No recibimos nada de nada de audio.[AMARILLO]
+
+  Por tanto, aunque podamos transmitir en packet y dem s modalidades, nunca[IZQUIERDA BLANCO]
+podremos recibir. Esto se debe a que estas emisoras deb¡an de tener conectada
+la pastilla para poder recibir. En el momento en que la desconect bamos, ya no
+recib¡amos nada. Pero claro, si observamos con un multitester la pastilla,
+podemos apreciar lo siguiente:[NO]
+
+   - Pastilla no apretada: Circuito cerrado (pines 2 y 3)[AMARILLO]
+   - Pastilla apretada: Circuito abierto (pines 2 y 3)
+
+  Por tanto, podemos hacer un peque¤o truco, que consiste en hacer un puente[IZQUIERDA BLANCO]
+con un trozo de conductor sobrante de una resistencia, o un simple cable
+uniendo estos dos pines en el lado del interface de la tarjeta de sonido que
+va a la emisora. Estos pines (2 y 3) son los dos de la parte de arriba del
+conector de la emisora.[NO]
+
+  Pero claro, no todo iba a ser un camino de rosas, ya que aparece lo[IZQUIERDA]
+siguiente:[NO]
+
+   - Modo FM:[PC AMARILLO] recibe y transmite perfetamente en radio-packet[BLANCO]
+   - Modo AM:[AMARILLO] recibe perfectamente, pero al transmitir lo hace por el altavoz[BLANCO]
+              externo de la emisora, y no emite a antena.
+
+  Por tanto, hab‚is descubierto una nueva forma de emitir por vuestra INTEK[PCT BLANCO IZQUIERDA]
+200 plus al altavoz externo, sin que viniese esa opci¢n en la emisora. Por
+cierto, el sonido que emite es horrible, ya que sale muy amplificado por la
+tarjeta de sonido.[NO]
+
+  Y claro, aunque el packet en FM es posible y recomendable para altas[IZQUIERDA]
+velocidades y cercan¡as, a m s de uno, le interesar  hacerlo en AM.[NO]
+  Para estos intr‚pidos, existe una soluci¢n, que es la de hacer unos a¤adidos[IZQUIERDA]
+en el circuito o interface de packet:[NO]
+
+  Poner un transistor NPN de las mismas caracter¡sticas que el PNP. Para los[IZQUIERDA]
+que no se acuerden, el NPN act£a igual que el PNP, salvo que para que el
+transistor se comporte como interruptor, hay que introducir una tensi¢n
+negativa por la base.[NO]
+
+  Como sabr‚is el puerto serie, env¡a las siguiente tensiones:
+
+   - 12 V en estado positivo o "1" l¢gico[AMARILLO]
+   - -12 V en estado de "0" l¢gico
+
+  Por tanto, cuando no transmitimos, no tenemos 0 Voltios, sino tensi¢n[IZQUIERDA BLANCO]
+negativa, por lo que debemos de poner este transistor. Si hubi‚semos optado por
+la opci¢n de un rel‚ (opt‚ por ella al principio), nos encontraremos dos cosas:[NO]
+
+   - El puerto serie no puede alimentarlo por falta de intensidad (aunque sea[GRIS]
+     peque¤o).
+   - El rel‚ act£a en modo corto y abierto, pero no entiende de tensiones
+     negativas y positivas, por lo que no nos sirve.[NO]
+
+  La base del transistor PNP debe ir conectado al cable que daba el pulso en[BLANCO IZQUIERDA]
+la base del transistor NPN del interface b sico. De esta forma, ahora tendremos
+dos circuitos, cuando se transmita un "1" l¢gico se enviar  12 Voltios a la
+base de los dos transistores, lo que equivale, que en el transistor NPN t¡pico,
+conduce y permite apretar pastilla, para transmitir. Pero a la vez, el
+transistor PNP no conduce, y se deja los conectores 2 y 3 abiertos. Por tanto,
+deb‚is de conectar los pines 2 y 3 al colector y al emisor del transistor PNP.[NO]
+
+  De esta forma al emitir en AM, se deja circuito cerrado el pin de apretar[IZQUIERDA]
+pastilla y se deja en abierto el de recepci¢n, por lo que no se emite el
+dichoso ruido al exterior. En FM todo esto es inmune.[NO]
+
+  Y en el caso de que no transmitamos, el puerto serie emitir  un "0" l¢gico,[IZQUIERDA]
+es decir, -12 Voltios, por lo que el transistor NPN quedar  abierto, y el PNP
+en circuito cerrado (pin 2 y 3), por lo que se podr¡a recibir audio.[NO]
+
+  Pero claro, esto tiene un problema, y es el siguiente:
+
+   - Ordenador encendido:[PC AMARILLO] Todo va bien.[BLANCO]
+   - Ordenador apagado:[AMARILLO] No se recibe en la emisora.[BLANCO]
+
+  Y claro, esto tiene explicaci¢n, y es que tal y como se coment¢, el puerto[PCT IZQUIERDA]
+serie emite tensiones negativas si no se env¡an datos, pero claro, si el
+ordenador esta apagado, poco va a emitir, por lo que el transistor, no furrula.[NO]
+
+
+  Pero claro, se supone que si se hace packet, es porque se tiene el ordenata[IZQUIERDA]
+encendido. Para todo lo dem s, usar la pastilla que viene con la emisora, o
+vosotros mismos, pod‚is construiros un circuito adicional.[NO]
+
+
+
+
+
+Circuito[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Por si no ha quedado claro, el circuito es el mismo que el del n£mero pasado[IZQUIERDA]
+de la diskmag EXILIUM, pero a¤adiendo un transistor PNP.[NO]
+
+  Hay que recordar , que este transistor debe de tener una
+resistencia en la base,al igual que el anterior, as¡ que a
+pillar una resistencia extra. Y despu‚s a unir  el pin 2 y
+el 3. El 3 es el de masa (emisor), por lo que va a la masa
+com£n que hab¡ais creado.Y el 2 es el colector,y por tanto
+el receptor.
+
+  Como no se is muy manitas,probablemente no quepa todo en
+la carcasa del puerto serie DB25 , y menos en un  DB9. Por
+tanto,para eso pod‚is optar por lo que he hecho yo, que es
+usar una caja de CD-ROM virgen (precio regalado para los piratas), y meter todo[IZQUIERDA]
+esto de forma curiosa. De hecho, me he tomado el gusto de meter diodos leds
+para indicar cuando transmito, e incluso usar el pin extra de transmisi¢n, para
+el caso de transmitir en modo PSK31. De esta forma, tengo 4 diodos leds, de la
+siguiente forma:[NO]
+
+   - Diodo led rojo siempre encendido.[AMARILLO]
+   - Diodo led rojo cuando transmito
+   - Diodo led verde cuando recibo
+   - Diodo red rojo extra para transmitir en PSK31
+
+  Por supuesto, he usado un conector hembra de audio interno mono, para meter[BLANCO IZQUIERDA]
+en la caja de CD-ROM, para as¡ poder conectar el canal derecho o el izquierdo
+con un cable de audio que pasa de est‚reo a 2 monos (de venta en cualquier
+tienda). Adem s a¤ad¡ un cable externo que termina en DB25 para el puerto serie
+y otro en conector de emisora de 4 conectores para la emisora.[NO]
+  Hubo que usar serrucho y calma para hacer esto (adem s de ayuda), as¡ como[IZQUIERDA]
+pegamento y cinta aislante, pero ha quedado muy est‚tico y barato, teniendo en
+cuenta el precio de un caja de CD-ROM, as¡ como que si sale mal, puedes buscar
+otra.[NO]
+
+  Por cierto, este circuito funciona, ya que yo mismo lo he dise¤ado, pero eso[IZQUIERDA]
+no quiere decir, que para todas las emisoras funcione. Por tanto, tened cuidado
+a la hora de realizar estos experimentos.[NO]
+
+
+
+
+Posibles fallos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  A la hora de realizar el circuito, quiz s llegu‚is a la conclusi¢n, de que[IZQUIERDA]
+se recibe el audio de peor forma. Esto es debido al transistor, que act£a de
+filtro.[NO]
+
+  Por tanto, esto es perjudicial para el radio-packet. Como soluci¢n, esta la[IZQUIERDA]
+posibilidad de unir el emisor al colector del transistor que hemos puesto nuevo
+,mediante un cable. De esta forma podremos escuchar correctamente el audio. Sin
+embargo, a la hora de transmitir al aire, se har  via altavoz interno de la
+emisora y via aire, en AM.[NO]
+
+  Aunque salga por el altavoz de la emisora en AM, ser  perfectamente audible[IZQUIERDA]
+y de bajo volumen, no afectando esto en FM. Si queremos suprimir el altavoz
+interno, s¢lo hay que conectar un cable de audio en el jack de audio externo
+y la tarjeta de entrada de sonido (t¡pico en radio-packet).[NO]
+
+  Si se ha activado el FULL-DUPLEX de la tarjeta de sonido, y el programa de[IZQUIERDA]
+packet lo tiene en cuenta, nos encontraremos con el problema de que lo que
+transmitimos es recibido. Pero dependiendo del programa, esto no tendr 
+repercusi¢n.[NO]
