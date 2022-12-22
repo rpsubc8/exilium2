@@ -1,0 +1,547 @@
+[FOTOS 0]
+Oldskool vs Newskool[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Pues mucho se ha hablado sobre este tema. Pero por fin, para bien o para mal,[IZQUIERDA]
+un coder (mi persona) va a intentar dar no s¢lo su punto de vista, sino que
+contarÇ algunas de las verdades y mentiras de la inform†tica y la scene. Por
+tanto, se da por comenzado un debate que muchos desear°an que nunca se hubiese
+iniciado.[NO]
+
+
+
+
+
+Aclaraciones[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Siempre se pretende asociar la palabra oldskool con la antigÅa Çpoca de la[IZQUIERDA]
+inform†tica y la scene, es decir, con los a§os 80, con plenas m†quinas de 8
+bits, como el Spectrum, C64, CPC, y de los 16 bits, como [NO]AMIGA, ATARI.[AZULCLARO]
+
+  Y cuando se habla de Newskool, se intenta asociar a los a§os 90, cuando los[IZQUIERDA BLANCO]
+PC's empezaron a ganarse su nombre. En concreto, se suele asociar m†s a los
+a§os 95 y 96, en pleno apogeo del [NO]Pentium.[VERDEFOSFORITO]
+
+  Pero claro, esto en si mismo, no tiene mucho sentido, ya que la newskool,[IZQUIERDA BLANCO]
+tarde o temprano terminar† por pasarse a oldskool, si sigue estas normas, ya
+que ahora nos encontramos en [NO]pleno 2003.[AZULCLARO]
+
+
+  Pero claro, una definici¢n m†s exacta, ser°a meter a la oldskool a toda[IZQUIERDA BLANCO]
+aquella persona que usa y exprime todo el poder de su ordenador, ya sea de
+bolsillo, o una estaci¢n de trabajo. Y esto es aplicable a m£sicos por
+ordenador, coders, pixeladores, etc...[NO]
+
+
+  Es decir, que si con una calculadora HP (Z80) puede sacar arte, es decir, una[IZQUIERDA]
+demo, que quede bonita (aunque sea en Blanco y Negro), esa persona es un
+scener.[NO]
+
+
+  Para poder hacer esto, hay que conocer mucho la m†quina, ya sea para pixelar[IZQUIERDA]
+(colores y pixels soportados), como para componer m£sica (canales, precisi¢n y
+notas permitidas) o para generar c¢digo (tipo de CPU, puertos, paralelizaci¢n,
+velocidad, ampliaciones).[NO]
+
+
+  Con todo esto, est† claro, que un simple usuario de ordenadores, no puede[IZQUIERDA]
+hacer esto. Es m†s, hay que ser muy macho o hembra para ello 8-D)). Y por
+supuesto, hay que tener un gran amor a la inform†tica.[NO]
+
+
+  Todos estos conceptos no tienen porque estar unidos a ordenadores antiguos,[IZQUIERDA]
+de 8, 16 o 32 bits, sino que pueden ser perfectamente v†lidos para los de hoy
+en d°a, ya sean consolas PSX One, PS2, Game Cube, DreamCast, PC Athlon XP,
+Workstation SUN, etc..[NO]
+
+  Es decir, si conocemos nuestra m†quina a fondo, podremos aplicar este[IZQUIERDA]
+concepto de la oldskool. Pero claro, ®realmente la oldskool est† presente en
+las m†quinas actuales?. Y a esto si que se puede responder claramente que NO.
+  Si por alg£n motivo creÇis que estoy equivocado, es que no os habÇis enterado
+de nada. As°, que me explicarÇ mejor.[NO]
+
+
+
+
+
+Mas aclaraciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Tal y como dije, existen dos vertientes:
+
+   - Oldskool (vieja escuela)[PC GRIS]
+   - Newskool (nueva escuela)
+
+  No cabe la posibilidad de hacer una mezcla, es decir, es un estado binario,[PCT BLANCO IZQUIERDA]
+o eres de uno o de otro (®Y t£ de quien eres? 8-D)))[NO]
+
+
+  Para pertenecer a la oldskool, debemos de conseguir hacer arte con lo m°nimo,[IZQUIERDA]
+ya que debemos de poder explotar nuestra m†quina. Es decir, que ya sea un Z80,
+como una estaci¢n[NO] CRAY[AZULCLARO], debemos de bordarlo.[BLANCO]
+
+
+  Por ejemplo, mover 10000 pol°gonos en tiempo real, con un Spectrum Z80, ser°a[IZQUIERDA]
+todo un logro de un scener.[NO]
+
+  De la misma forma, renderizar una escena 3D de una pel°cula en tiempo real en[IZQUIERDA]
+una estaci¢n CRAY, hoy en d°a, ser°a un autÇntico logro scener. Cuando me
+refiero a una pel°cula en tiempo real, me refiero, que si la pel°cula dura 90
+minutos, se renderizar† totalmente en 1 segundo.[NO]
+
+
+  Es decir, en los dos casos, se ha llevado la m†quina al borde de sus l°mites[IZQUIERDA]
+o extremos.[NO]
+
+
+  Pues esto mismo, se aplica a la m£sica o a la imagen. Como sabrÇis, la m£sica[IZQUIERDA]
+s¢lo es la sucesi¢n de notas musicales, que a su vez son arm¢nicos. Con 7 notas
+musicales y variando su velocidad, ya podemos hacer arte. Por tanto, no
+necesitamos ni Dolby Surround, ni THX envolvente, ni incluso estÇreo para poder
+entender una buena melod°a. Pero eso no quiere decir, que no podamos usarlo.[NO]
+
+
+  Por tanto, el m£sico que genere con lo m°nimo, una buena melod°a, es un[IZQUIERDA]
+autÇntico [NO]tracker scener.[VERDEFOSFORITO]
+
+
+  Y en el caso de la pixelaci¢n, estamos en lo mismo. Debemos recordar, que un[IZQUIERDA BLANCO]
+dibujante, con tan s¢lo un papel y un l†piz puede hacer obras de arte. Y con
+un carboncillo, lo mismo. Incluso un boli y una mesa son suficientes para
+plasmar una obra de arte. ®Entonces, por que se necesitan 16 millones de
+colores para hacer obras de arte en la [NO]newskool[AZULCLARO]?[BLANCO]
+  Es decir, que un scener pixelador, ser† aquel que puede hacer el dibujo desde[IZQUIERDA BLANCO]
+0, sin falta de aplicar filtros, y con la m°nima resoluci¢n y precisi¢n de
+color.[NO]
+
+
+
+
+
+Enfrentamiento[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Claro, tal y como se pone todo, queda la famosa frase:
+
+
+   Mucho hablar de oldskool y newskool, pero es que lo que ahora se llama[AMARILLO IZQUIERDA]
+   oldskool (a§os 80), en su entonces era newskool, por ser nuevo.[NO]
+
+
+  Y claro, esto es err¢neo. Tal y como dije, se debe tener control de la[BLANCO IZQUIERDA]
+m†quina, y en aquel entonces, es cierto, que esas m†quinas eran nuevas, pero
+se segu°a teniendo control sobre ellas.[NO]
+
+
+  Hoy en d°a, no se tiene control sobre la m†quina. Y claro ahora si que la he[IZQUIERDA]
+liado, ya que me dirÇis:[NO]
+
+
+   "®de que habla este?[AMARILLO]  Yo si tengo control sobre la m†quina".[GRIS]
+
+
+  Y claro, est†is totalmente equivocados, al menos hablando desde el mundo del[BLANCO IZQUIERDA]
+PC. Desde hace mucho tiempo, no se tiene control sobre mucho hardware, y cada
+vez m†s. De hecho llegar† el d°a, que incluso no se tendr† el control sobre el
+propio teclado. Y claro me seguirÇis diciendo:[NO]
+
+
+   "Pero si en Windows, todo est† soportado. ®De que narices habla este tio?".[AMARILLO]
+
+
+  Pues claro, todo el hardware Windows, com£nmente conocido como WIN-HARDWARE,[BLANCO IZQUIERDA]
+como el WIN-MODEM, WIN-IMPRESORA, WIN-ACELERADORA, etc..., est† soportado por
+WINDOWS, pero no por el resto. De hecho, los fabricantes, no s¢lo no dan
+librer°as para otros sistemas operativos, sino que no dan ni la forma de
+programarlas bajo el propio sistema en que ha salido la API, ni la forma de
+programarlas desde 0.[NO]
+
+
+  Esto pasa sobre todo con las aceleradoras, como la GEFORCE I, II, III y por[IZQUIERDA]
+supuesto la FX, cuando salga. Es decir, nunca se podr† programar para poder
+sacar el provecho. De hecho la gente s¢lo podr† usar las librer°as de DIRECTX
+en WINDOWS para poder usar esas funciones. Y los que programen las DIRECTX
+dir†n que est†n programando la GeFORCE. ®Pero que tonter°a es esta?. La GeFORCE
+s¢lo se puede programar si se accede a sus registros internamente, y no a
+travÇs de API's de [NO]WINDOWS[AZULCLARO]. Lo £nico que se hace es programar las API's.[BLANCO]
+
+
+  Y lo mismo le pasa a las OpenGL. OpenGL s¢lo es una API Cliente Servidor 3D,[IZQUIERDA]
+s¢lo eso, y que por casualidades de la vida, se puede traducir sus comandos a
+la API de WINDOWS o similares, que por debajo llaman al hardware de la
+aceleradora. Por tanto, esto, desde el punto de vista scener, no es muy serio,
+pero claro, es lo que hay, ya que las tarjetas gr†ficas ya no se fabrican (a
+m¢dico precio) y las aceleradoras que liberan su programaci¢n quiebran o se
+fusionan [NO](VOODOO).[AZULCLARO]
+
+
+
+
+
+Mas golpes[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Por tanto, si realmente queremos tener el control sobre nuestra m†quina, s¢lo[IZQUIERDA]
+nos queda la opci¢n de ir hacia m†quinas, las cuales han dejado de interesar a
+las compa§°as, es decir, ya no son rentables. Al dejar de ser rentables, se han
+liberado muchas cosas que eran secretas. Pero no todas las m†quinas antigÅas
+han sido liberadas. Por ejemplo, el Spectrum Z80, es una m†quina que ha sido
+liberada al 100%. Tal es el caso, que se han liberado incluso los esquemas para
+poder construirnos desde 0 esta m†quina. Pero claro, nos va a salir m†s caro,
+que coger una de [NO]segunda[AMARILLO] o [BLANCO]quinta mano.[AMARILLO]
+
+
+  Estas m†quinas, aunque las liberan, nos encontramos con el inconveniente, de[IZQUIERDA BLANCO]
+que poseen menos cosas atractivas que los ordenadores reinantes actuales, como
+los PC's o los MAC, pero claro, a cambio, tenemos el poder de hacer lo que
+queramos con ellas, ya que sabemos todo lo que tienen. Es decir, si tenemos un
+Spectrum con cinta, podremos ponerle un DISCO DURO, un CD-ROM, m†s memoria, e
+incluso m†s velocidad, con los conocimientos, ganas y dinero necesarios. Eso en
+un PC, es casi imposible, ya que somos consumidores (clientes) y no proveedores
+(servidores). Es decir, no tenemos el control, y dependemos de las
+multinacionales. Casos famosos, son el cambi¢ de SOCKET 7 a 1, volviendo de
+nuevo al SuperSocket 7. Y otro m†s sonado, es del bus AGP, cuando con el PCI
+se ten°a de sobra, ya que la posibilidad de acceder a memoria RAM directamente
+por parte de la aceleradora, todav°a ning£n programa lo ha aprovechado, ya que
+en si mismo, es ineficiente en velocidad, al estilo de usar juegos en sistemas
+operativos concurrentes y con [NO]memoria virtual.[AMARILLO]
+
+
+  La elecci¢n de la m†quina corre por nuestra cuenta. En concreto, hay m†quinas[IZQUIERDA BLANCO]
+antigÅas, como el Amiga 500 y 1200 que son muy potentes en el arte multimedia,
+mientras que un [NO]ATARI[AZULCLARO] o un [BLANCO]CPC[AZULCLARO] lo tienen m†s dif°cil, pero no imposible.[BLANCO]
+
+
+  Pero claro, nos puede gustar un C64, un SINCLAIR, o incluso una consola como[IZQUIERDA]
+una Game Boy, MegaDrive, SNES, etc...[NO]
+  Gracias a los avances y ganas de investigaci¢n, podemos disponer de estas[IZQUIERDA]
+m†quinas de forma emulada en nuestros ordenadores actuales. Pero no debemos
+olvidar, que aunque los emuladores son c¢modos, y nos permiten utilizar estas
+m†quinas de forma c¢moda, sobre todo para desarrollar, no hay nada como la
+propia m†quina real. Pero claro, esta £ltima opci¢n implicar† gastar un poco de
+dinero y tiempo.[NO]
+
+
+
+
+
+Eleccion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues claro, como dije antes, hay que elegir una m†quina.
+  Y claro, en el tema antigÅo tenemos las que dije antes, pero en el nuevo,[IZQUIERDA]
+tenemos el Sprinter, el Commodore One, SuperCPU, AMIGA POWERPC, y dem†s. En el
+tema de consolas, la GBA y la GC, est†n bastante liberadas. Pero en el caso de
+la PSX y la PS2, as° como la XBOX, todo cambia. Pero claro, como hay hackers
+en el asunto, pues claro, se va liberando poco a poco.[NO]
+
+
+  Y claro, yo personalmente, tal y como dije, considero que la oldskool, es la[IZQUIERDA]
+creaci¢n de arte con lo m°nimo. De hecho muchas veces comparo este caso con la
+realizaci¢n de castillos de arena en la playa. Si comparamos este tipo de
+construcciones con las de los pisos de hormig¢n, est† claro que son mucho m†s
+ineficientes, pero este no es su fin, sino el de crear obras de arte con lo
+m°nimo, que en este caso, son los granos de arena.[NO]
+
+
+  Por tanto, no necesitamos una estaci¢n de trabajo para poner unos sprites en[IZQUIERDA]
+pantalla, sino que con un simple[NO] Z80[AMARILLO], o incluso menos, ya podremos.[BLANCO]
+
+  De hecho, muchas veces me quedo mirando las pantallas grandes de luces rojas,[IZQUIERDA]
+que suelen usar algunas tiendas para poner publicidad en ellas. Tan s¢lo se
+limitan a poner scrolls de mensajes, que queda bastante bien. Pero muchas
+veces, me imagino program†ndolas para poner autÇnticos efectos.[NO]
+
+
+  As°, que yo prefiero elegir la m†quina m†s simple, por ejemplo un Spectrum,[IZQUIERDA]
+un C64 o incluso un CPC (por eso me pille el 464). Pero claro, eso no quiere
+decir, que sea un forofo de una m†quina en concreto, o que cualquier cosa la
+haga con ella. Todo depende de las ganas que tenga. Unas veces estoy contento,
+y hago algo en ensambla con un CPC, y otras veces, estoy cansado, y tiro de C
+con [NO]WIN32 en PC.[AZULCLARO]
+
+
+  Pero claro, si se hace una competici¢n, el que ha hecho arte con un CPC, est†[IZQUIERDA BLANCO]
+mejor que el que lo ha hecho con un PC u otra m†quina m†s perfecta.[NO]
+
+  Es decir, hay que saber apreciar las diferentes plataformas y demoscene en[IZQUIERDA]
+cada una de ellas.[NO]
+
+
+
+
+
+Plataformas[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Siempre que se habla de m†quinas antigÅas, se intenta aplicar el sin¢nimo de[IZQUIERDA]
+no valen para nada, ya que actualmente, los equipos las superan con creces.[NO]
+
+  Y esto no es del todo cierto, ya que por muy r†pido que funcione nuestro[IZQUIERDA]
+querido Pentium IV o Athlon XP, no va a superar el arranque de un CPC o un C64.[NO]
+
+  Y claro, muchos s¢lo recuerdan los fallos que ten°an, y las cosas que pod°an[IZQUIERDA]
+hacer con sus equipos tal y como los compraron. Pero claro, no es lo mismo un
+C64, tal y como ven°a de f†brica, a uno con muchos a§adidos, como disco duro,
+disquetera, etc..., y lo mismo, un [NO]CPC.[AMARILLO]
+
+
+  Para los usuarios normales y corrientes, esto no tiene sentido, pero para la[IZQUIERDA BLANCO]
+gente entendida, si, ya que es como un mec†nico con coches cl†sicos. Y en
+concreto, hay determinadas cosas de los ordenadores que los convierten en
+cl†sicos, ya que s¢lo lo inclu°an ellos, incluso 10 o 20 a§os antes que los
+modernos PC's.[NO]
+
+
+  Pero claro, a mi no me gusta el coleccionismo, ya que tarde o temprano, una[IZQUIERDA]
+pieza se rompe, y para ser pieza de coleccionista, nunca se debe de abrir el
+objeto en cuesti¢n. As°, que es dif°cil encontrarse a un inform†tico
+coleccionista, ya que siempre entra la tentaci¢n de arrancar el ordenador. Es
+decir, yo soy de los que les gusta hacer a§adidos, es decir, seguir probando
+a donde llega la m†quina.[NO]
+
+
+  Adem†s, a mi me gusta ver demos en cualquier sitio y en cualquier momento. Es[IZQUIERDA]
+decir, si voy en autob£s, pues me gustar°a ver una demo sentado en mi asiento.
+  Pero claro, para ello, a no ser que me compre un port†til, lo voy a tener
+dif°cil. Y claro, est†n muy caros, incluso los de segunda mano. Si me lo cojo
+de segunda mano, suele tratarse de un 286 en donde puedo meter un DOS, y la
+verdad, que hay muy poca scene en m†quinas PC 286, debido a eso, a la[NO] newskool.[AMARILLO]
+
+  Si me decido por un PDA, la verdad que el precio, no es excesivamente caro,[IZQUIERDA BLANCO]
+pero claro, el PDA es para cliente, ya que para la hora de meter datos, o lo
+hacemos sincroniz†ndolo con un PC, o lo tenemos muy dif°cil.[NO]
+
+
+  Pero, si en vez de querer ver demos en el autob£s o en el coche, las queremos[IZQUIERDA]
+ver por ejemplo, de vacaciones, ya tenemos que pensar en llevar el equipo a
+cuestas, y claro, un PC con el monitor y teclado ocupa mucho en el coche.[NO]
+
+
+  Sin embargo, hoy en d°a, casi cualquier casa, posee al menos una televisi¢n,[IZQUIERDA]
+sino son dos. As° que nos pod°amos llevar un equipo de 8 bits, y con un
+conversor a Euroconector o un modulador, conectarlo a la TV. Y claro, ya esta,
+ya tenemos un equipo semiport†til, ya que ocupa y pesa poco. Aunque no podamos
+conectarlo por la calle, si podremos conectarlo en cualquier casa con TV.[NO]
+
+
+  Para hacer documentos de texto, programar alg£n ejemplo en BASIC o[IZQUIERDA]
+ensamblador, o incluso para jugar (matar el rato), no necesitamos de un PC
+£ltimo modelo (que llega a 100 ß Cent°grados). Adem†s, si por alg£n motivo nos
+quema este equipo, podremos buscar otro, ya que suelen tener un precio
+regalado.[NO]
+
+  En concreto, el CPC 6128 con monitor en color, me sali¢ a 5 Euros, cuando un[IZQUIERDA]
+simple enchufe de corriente alterna, vale 5,48 Euros. Y claro, da m†s diversi¢n
+un CPC, que un enchufe.[NO]
+
+
+  Otro caso en concreto, ser°a para cuando queremos controlar a un dispositivo[IZQUIERDA]
+externo elÇctrico. Muchas veces se usa un puerto paralelo o serie de un PC,
+corriendo el riesgo, de poder quemar no s¢lo el puerto, sino el PC, sino se
+usa correctamente. Sin embargo, si usamos un ordenador de 8 o 16 bits, ya sea
+PC o consola, no creo que lloremos mucho si se quema.[NO]
+
+  Cualquier inform†tico que se precie, debe ser capaz de sacar provecho a la[IZQUIERDA]
+m†quina que tiene delante, al igual que un mec†nico lo hace con los coches, o
+un escultor con el m†rmol, sin importarnos de la m†quina que se trate. Pero
+claro, hay que entender, que unos d°as nos apetece rompernos los cuernos, y
+otros d°as no. Pero eso no quiere decir, que algo por muy antigÅo que sea, no
+tiene utilidad. Lo que no tiene utilidad, es algo que no funciona, ya sea nuevo
+o viejo. Es m†s, algo muy antigÅo, puede ser una radio de 125 Voltios. Y claro,
+hoy en d°a, casi todo funciona con corriente alterna de 220 Voltios. Muchos
+dir†n, que esa radio no vale para nada, y que no funciona. Pero claro, si
+ponemos un transformador de 220 Voltios en 125 Voltios, ya nos funciona la
+radio, que hoy en d°a no hace ning£n mal tenerla.[NO]
+  Pues en el tema de lo ordenadores, pasa exactamente lo mismo.
+
+  Adem†s, cada vez m†s, se empieza a dar peor valor a lo antigÅo, y tal es el[IZQUIERDA]
+caso, que en cuanto se hace software para un ordenador de hace tan s¢lo 4 a§os,
+se dice, que este software es compatible con ordenadores antigÅos. Hombre por
+favor!!, ni que 4 a§os fuese antigÅo, entonces una dÇcada es un siglo. Pero
+claro, ®quÇ se va a esperar, cuando los ordenadores actuales, ya es un record
+que lleguen a los 4 a§os?, porque claro, el overclocking industrial es bestial.[NO]
+
+
+
+
+
+
+Sliders[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  DespuÇs de todo esto, muchos os preguntarÇis:
+
+    ®entonces, vosotros sois sceners?[AMARILLO]
+
+  Y claro, esto es dif°cil de contestar, ya que la palabra scener, no se puede[IZQUIERDA BLANCO]
+imponer, sino que hay que gan†rsela. Nosotros intentamos ser sceners, pero
+actualmente, no pasamos de newskool, ya que todav°a no hemos hecho una
+producci¢n. Pero al menos contribuimos con esta diskmag.[NO]
+
+
+  La diskmag usa las librer°as ALLEGRO, pero eso no quiere decir, que toda la[IZQUIERDA]
+diskmag se base en ellas. Por tanto, no se puede decir que hallamos hecho la
+diskmag desde 0, o que se aproveche la m†quina al 100%. Pero claro, esta
+decisi¢n se tom¢ para poder portarla a varias plataformas. Sin embargo, se ha
+hecho lo posible para que funcione en una m†quina[NO] 80386 bajo DOS.[AZULCLARO]
+
+
+  Al igual que las librer°as ALLEGRO, existen otras, e incluso otros lenguajes,[IZQUIERDA BLANCO]
+que no son el C (el que hemos usado). Es decir, hay trabajos hechos en
+DARKBASIC, JAVA, o incluso lenguajes de scripting. Es m†s, incluso se ha
+liberado un motor de diskmag (WILDMAG), el cual se puede usar para crear
+diskmags. Esto realmente, es un trabajo y lleva tiempo, pero claro, no se puede
+comparar con el de una persona que lo ha hecho desde 0. Es m†s, nuestra diskmag
+no se puede comparar con las de AMIGA, ATARI o incluso C64, ya que nos superan.[NO]
+
+  Pero poco a poco, intentaremos mejorar, y quien sabe, quiz†s lleguemos al[IZQUIERDA]
+nivel oldskool.[NO]
+
+  En primer lugar, la revista se ha programado en C, y bajo DOS (una de las[IZQUIERDA]
+versiones), pero aunque se dice que pide un determinado n£mero de RAM,
+realmente no se sabe cuanto necesita, ya que hay quitar la que est† usando el
+propio DOS, que realmente, ser°a el primer MB. En el caso de WIN32, todav°a es
+peor, ya que el propio sistema es din†mico en cuanto a gesti¢n de RAM.[NO]
+
+  Por tanto, cada vez todo se vuelve m†s abstracto, y menos cosas se conocen.[IZQUIERDA]
+  Adem†s, el que haya programado las tarjetas de video, sabe lo dif°cil que es
+trabajar con todas. Por eso se creo el estandar VESA. Pero claro, las ALLEGRO
+no lo respetan al 100%, por tanto, a veces hay que intuir lo que hacen y
+adelantarse a las librer°as, para poder solucionar los fallos. Pero otras
+veces, sencillamente, no se puede hacer nada, para solventar el problema.[NO]
+
+
+
+
+
+Sistema Operativo[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues actualmente, se suele odiar al DOS en el PC, por ser considerado como[IZQUIERDA]
+antigÅedad, es decir, es viejo. Aunque a mi, personalmente, me encanta usar
+DOS.[NO]
+
+  Muy poca gente, sobre todo programadores, saben apreciar, la importancia del[IZQUIERDA]
+DOS, ya que s¢lo han conocido el MSDOS (Microsoft DOS). En realidad, yo empecÇ
+con el CPM DOS PLUS del PC, para luego andar con el DRDOS, y tarde o temprando
+acabar con el MSDOS. Pero claro, por el medio uso el OpenDOS, C-DOS, etc...[NO]
+
+  Siempre se intenta echar en contra del DOS, porque no permit°a concurrencia,[IZQUIERDA]
+cuando en realidad el C-DOS, OpenDOS y el DOS-PLUS siempre han permitido la
+reentrada, la cual nos da la concurrencia. Pero claro, Microsoft, es Microsoft,
+y al final, nos ha dado el MSDOS, es decir, ha[NO] prostituido al DOS.[AMARILLO]
+
+
+  Pero el poder del DOS, es de su propio nombre (Disk Operating System), es[IZQUIERDA BLANCO]
+decir, Sistema Operativo de Disco. Por tanto, nos permite arrancar desde un
+disquete (5 1/5 DD), y poder acceder a las propiedades de E/S, por tanto, al
+video en modo texto, disquete, consola, comunicaciones serie, trabajo con
+ficheros, disco duro, etc...[NO]
+
+
+  Pero como verÇis, no hay funciones del DOS que me permitan acceder a la[IZQUIERDA]
+aceleradora, a la grabadora, al joystick, etc..., ya que estos, no son
+dispositivos b†sicos, ni necesarios obligatoriamente. Es decir, son art°culos
+de lujo. Por tanto, el DOS , s¢lo nos permite lo b†sico, que muchas veces se
+agradece. Pero eso no impide que alguien realice drivers para tarjetas de
+sonido, grabadoras, e incluso aceleradora, como el caso del driver VESA.[NO]
+
+
+   ®Entonces, como la gente programa cosas raras bajo DOS?.[AMARILLO]
+
+  Pues aqu°, es donde entra, s¢lo la carga. La potencia del DOS, es que con lo[BLANCO IZQUIERDA]
+m°nimo, podemos hacer ejecutables, los cuales son lanzados, pero eso no impide
+que luego podamos tener acceso al 100% del hardware, cre†ndonos nosotros los
+algoritmos. Esto en WIN32 no se puede, aunque se use ensamblador, ya que
+cualquier acceso que no sea con permiso del S.O. y sus API's, pueden dejar en
+un estado no deseado al Sistema, al igual que en LINUX y otros sistemas.[NO]
+
+
+  Por tanto, muchas veces se dice que este juego funciona en DOS, cuando en[IZQUIERDA]
+realidad s¢lo se usa para cargarlo, entrando el resto en modo protegido y
+accediendo a cosas que el S.O. no provee. Actualmente, y por error t°pico de
+Microsoft, se suele decir que determinados programas funcionan bajo DOS, cuando
+en realidad funcionan en modo terminal de ventana de WIN32, que casualmente
+coincide con la ventana del DOS de Windows, pero esto no es DOS.[NO]
+
+
+   ®Y a que viene todo esto?.[AMARILLO]
+
+
+  Pues claro, los sceners cada vez rajan m†s del DOS, y tienden a olvidarlo,[BLANCO IZQUIERDA]
+cuando en realidad es el mejor S.O. para hacer demos y juegos, porque la verdad
+usar un S.O. concurrente con memoria virtual, es un poco patÇtico.[NO]
+
+   ®Os imagin†is la PS2 con memoria virtual?[AMARILLO]
+
+  S¢lo la idea de pensarlo es est£pida, si es que alguien sabe lo que es la[IZQUIERDA BLANCO]
+memoria virtual.[NO]
+
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues con todo esto, pretendo recalcar una cosa. Hoy en d°a, podemos irnos a[IZQUIERDA]
+una tienda de segunda mano o quinta, y pillarnos un ordenador Pentium a 133 Mhz
+(completo) por menos de 40 Euros, cuando hace 6 a§os, val°a m†s de 200000 ptas.[NO]
+
+  Hoy sigue pasando lo mismo, aunque los ordenadores dicen que son cada vez m†s[IZQUIERDA]
+econ¢micos, pero no bajan de los[NO] 601 Euros.[AMARILLO]
+
+  Pues de esta forma, nos podemos pillar este equipo, y hacer autÇnticas[IZQUIERDA BLANCO]
+maravillas, ya que un Pentium 133 Mhz es un gran equipo. Pero de cara
+comercial, poco se puede hacer con Çl. Por tanto, pretendo dar a entender, que
+no debemos de hacernos llevar tanto por el †mbito comercial, sino por lo que
+podemos realmente hacer, y esto es el alma de la scene.[NO]
+
+  Y de la misma forma que nos pillamos un P 133, podemos ir a pillar un[IZQUIERDA]
+Spectrum o un CPC por 5 Euros por ejemplo. Y con ese precio, ya podemos irnos a
+una party, y si se nos quema el equipo, o lo perdemos por el camino, no pasa
+nada, ya que por ese precio, podemos coger otro.[NO]
+
+
+  Es decir, debemos de ser capaces de coger un equipo, sin importarnos lo que[IZQUIERDA]
+es, y darle uso, en vez de tener el £ltimo y s¢lo permanecer usando las EXCELS,
+el WORD, y WINDOWS. Porque debemos ser los due§os de nuestras m†quinas y no los
+esclavos. Y hoy en d°a nos pasamos m†s tiempo aprendiendo a usar las EXCELS,
+cuando en realidad se podr°a usar una hoja de c†lculo a medida, o incluso una
+base de datos a medida.[NO]
+
+
+  Pero claro, esto es dif°cil, y requiere mucho tiempo y dedicaci¢n. Adem†s, en[IZQUIERDA]
+estos casos, el grupo de inform†ticos se reduce. Es m†s, en los a§os 80, hab°a
+pocos inform†ticos, porque si no sab°as programar, no sab°as inform†tica. Y
+para poder cargar un programa o juego, hab°a que saber BASIC, pero claro hoy en
+d°a, salen inform†ticos bajo las piedras, y cada vez m†s. Pero en realidad son
+personas que s¢lo saben usar el PC con WIN32, y como mucho editar un .CFG o un
+.INI. Es m†s, s¢lo saben conectar cables de red y grafismo[NO] (no pixelaci¢n).[AZULCLARO]
+
+  Pero de programar no saben nada, y siempre la cagan diciendo lo siguiente:[BLANCO]
+
+   "Si, soy programador, hago p†ginas web y se un poco de JAVA"[AMARILLO]
+
+  Y estas personas, son las que ense§an a los m†s j¢venes en las escuelas esta[IZQUIERDA BLANCO]
+mala inform†tica, diciendo que la inform†tica son los PC's con WINDOWS. Para
+quedar bien, dicen que odian a Microsoft (cuando en realidad lo aman, ya que
+dependen de Çl), pero no hacen nada para mejorarlo, ni siquiera usar[NO] LINUX.[AMARILLO]
+
+  Pero alg£n d°a, todo esto cambiar†, porque de la misma forma que hubo una[IZQUIERDA BLANCO]
+crisis inform†tica en los 90, en el 2010, puede llegar otra, y Microsoft no
+permanecer† eternamente en su puesto, porque las cosas cambian.[NO]

@@ -1,0 +1,1100 @@
+[FOTOS 6]
+FOTO_SCENE_ASSEMBLY_1 PALETA_SCENE_ASSEMBLY_1 46 789
+FOTO_SCENE_ASSEMBLY_2 PALETA_SCENE_ASSEMBLY_2 47 850
+FOTO_SCENE_ASSEMBLY_3 PALETA_SCENE_ASSEMBLY_3 47 885
+FOTO_SCENE_ASSEMBLY_4 PALETA_SCENE_ASSEMBLY_4 47 914
+FOTO_SCENE_ASSEMBLY_5 PALETA_SCENE_ASSEMBLY_5 47 968
+FOTO_SCENE_ASSEMBLY_6 PALETA_SCENE_ASSEMBLY_6 53 1038
+Assembly 2002[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Pues como todos los a¤os, se suele celebrar la Assembly Party en Helsinki,
+Finlandia, y este a¤o, es la Assembly Party 2002.
+
+
+
+
+Resultados[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  [[ Game Development Compo ][PC BLANCO]
+
+  1.  6048p   Porrasturvat by Stair Dismount Tarzan / tAAt[GRIS]
+  2.  4005p   Mr. Pixel by Jens Bache-Wiig
+  3.  3777p   Blockofighter by Miika Sell & Juha Kaarlas
+  4.   555p   Capture the Prize by CustardForBrains
+
+
+
+
+  [[ Fast Music Compo ][BLANCO]
+
+  1.  1919p   Jetkalenkka by Aikapallo [GRIS]
+  2.  1762p   Karjalan Haamu by Ari "DJArtz" Pulkkinen
+  3.  1545p   Electronic Obsession by Stuf
+  4.  1002p   Buubelin Paluu by #impulsetracker
+  5.   959p   Vaasi by BuG / PuavoHard
+  6.   837p   Homokala by Terminus / scene.ee
+  7.   815p   Hamburger Music (4 idiots) by KiWi
+  8.   789p   Way Back by Sir Henry / Hr Tuotanto
+  9.   775p   Bukkake! by gluterol
+  10.  773p   Autumn by pahamoka
+  11.  712p   under my pillow by lca
+  12.  695p   Midsummer Waltz by Puistola & Kaustinen United
+  13.  606p   slowly good becomes by deetsay
+  14.  551p   Goggledygook by Ilem
+  15.  434p   Scratch by humppamies / piAstro
+
+  n/a         MannePolkka Jokuhullusiellamainstreamil
+  n/a         the Crappy one Shinmai
+  n/a         minulla on kivaa Rlb
+  n/a         OMGWTFBBQ Friction
+  n/a         Telakan valot by Melfunktio funktio.org community
+  n/a         Jazz Digger ilp0 / piAstro
+  n/a         yoslacker Castor
+  n/a         hvvk okmo
+  n/a         Just se JJR
+  n/a         Simple trayrace
+  n/a         Nothing Special ->LUKE<- / Amazement
+  n/a         Nimeton Colon
+  n/a         Less Beatless Sel Pod Jonse /Kemikal Stratos
+  n/a         God ate all my 3 sleeves Kheldysh
+  n/a         A Homage Puti
+  n/a         oh my dog kiste / Team scene.ee
+
+
+
+
+  [[ Oldskool Music Compo ][BLANCO]
+
+  1.  3388p   Balls Of Steel (C64) by jammic[GRIS]
+  2.  1672p   Would You? (C64) by Britelite / Dekadence
+  3.  1449p   Child's Play Music (Game Boy) by Heatbeat/CNCD
+  4.  1189p   A Sad Fly In a Jar of Jam (PC) by KiWi
+  5.  1094p   Viides Simffonia (C64) by deetsay
+  6.   980p   Way up North (C64) by Player One / Dekadence
+  7.   915p   Das Hit (C64) by Agemixer or Scallop
+  8.   784p   Spiral (C64) by SounDemoN
+  9.   772p   Cape Horn (PC) by Reed / Fairlight
+  10.  740p   blackjack (C64) by tempest & abaddon / damage
+  11.  669p   funkkin robot (PC) by sauli
+  12.  649p   Bossa-ing Around (PC) by Rondo
+  13.  582p   Sokeritoukka (C64) by Thor/Extend
+  14.  533p   Lunch Hour Automat (PC) by Acumen
+  15.  462p   eezi (PC) by major
+
+  n/a         Fields of Mist (PC) humppamies / piAstro
+  n/a         Oldschool Medley (PC) Leopold
+  n/a         Run! (C64) Tabus
+  n/a         itaepasila (C64) ISOTISSI LESBOLIISA
+  n/a         Prunk! (PC) HEXAGON / Gender8 & SKR!
+  n/a         Bubbletrouble (C64) Ferrara / phObos team
+  n/a         Left hands (PC) PPessi
+  n/a         Time has gone (PC) Huizo
+  n/a         Chatterbox (PC) Kandy
+  n/a         Primality Gasman / Hooy-Program
+  n/a         Chippi 5 (PC) Rascal / Fascination
+  n/a         Timeless (PC) Marwin / Noice
+  n/a         ilekkitrap (PC) Juippi
+  n/a         ihana päivä (PC) JuhoAP
+  n/a         moonflower (PC) mathew/granma
+  n/a         motivaatiopurkaus (PC) gremino
+  n/a         Delion Princess (Amiga AHX) Oxide / Sonik
+  n/a         Attack in no time (PC) Ilem
+  n/a         Erazor Cat (PC) Flapjack & Pyromaniac of Madwizards
+
+
+
+
+  [[ Oldskool Graphics Compo ][BLANCO]
+
+  1.  4020p   The Last Battle (C64) by Phase1 & Mermaid[GRIS]
+  2.  2681p   Theodore Bear (C64) by Heatbeat/CNCD
+  3.  2497p   gawd bless america (C64) by tempest/damage
+  4.  2149p   Self-Portrait (C64) by Electric/Extend
+  5.  2059p   Sexi (C64) by Adam/DualCrew-Shining
+  6.  1391p   Numedia rage (C64) by voldoq/Doomsday
+  7.   834p   Naisen paeae (SVI-328) by Ravel / Sleber Eid
+  8.   730p   Word! (VIC-20) by Britelite / Dekadence
+  9.   451p   Kuplat (MSX) by Marq / Lieves!Tuore ^ Fit
+  10.  439p   Paradise shore (C64) Bregade11
+
+
+
+
+  [[ Oldskool Demo Compo ][BLANCO]
+
+  1.  4719p   Impossiblator 2 (VIC-20) by pwp[GRIS]
+  2.  3656p   My Kondom (C64) by Haujobb & Dekadence
+  3.  3528p   Software Developer's Air Display (VIC-20) by CNCD
+  4.  2562p   Vicious (VIC-20) by Dekadence
+  5.  2093p   Outsider (C64) by Spaceballs
+  6.   660p   Risperdal Dreams (C64) by Upstars
+
+  n/a         Dig It (VIC-20) Cosine
+  n/a         Software Developer's Air Display CNCD
+  n/a         Samantha Fox Ham Demo 4 Megahawks Inc.
+  n/a         Waiting for Godot (C64) Kuhbub & Godot of
+              Fresno Commodore User Group
+
+
+
+  [[ Analog Graphics Compo ][BLANCO]
+
+  1.  3834p   Snakes in oil by Partikle[GRIS]
+  2.  2673p   Blunt-smokin' AfroLinux by Pineapple
+  3.  1753p   lost in blue oyster by mazor
+  4.  1660p   Ink Magic by Visualice
+  5.  1310p   River Maid by Shivikai
+  6.   888p   Miss Tampere by Electric/Extend
+  7.   868p   sleepy by joa
+  8.   731p   Filipino Nature by Kingi
+  9.   631p   Untitled by MCK
+  10.  613p   Kafka's day off by Marq/Fit^Lieves!Tuore
+
+  n/a         Tear for adults Au-heppa
+  n/a         Illiteracy Kristoffer Lawson
+  n/a         Gunilla Merlin IIK
+
+
+
+
+  [[ Instrumental Music Compo ][BLANCO]
+
+  1.  2811p   The Goblin Returns by Skaven / Future Crew[GRIS]
+  2.  2173p   Conflict by Firestorm / Doomsday
+  3.  1372p   ethereal by solarkids
+  4.  1195p   Do You Remember how it Felt? by Bliss of Fairlight Music
+  5.  1079p   Motion by Nightbeat
+  6.  1066p   Too Far Beyond by Huezo
+  7.   954p   Trancefactor Overdosed by Laxical/Scoopex
+  8.   830p   The Killing Moon by Salomon
+  9.   738p   Johdanto by Reed / Fairlight & Andy / Banal Projects
+  10.  663p   Mortal Beauty by Maddista
+  11.  631p   Martial Love by 187/Phantasy a.k.a. DJ Brain
+  12.  580p   Cool Logic by Deck/Scoopex
+  13.  569p   Your time by Limbod
+  14.  566p   navcad by alex/tpolm
+  15.  451p   One word left by Genox/calodox
+
+  The points shown below are the average jury points for that entry.[BLANCO]
+
+  n/a   3.1   stoned - totally by Tunafish Crew[GRIS]
+  n/a   3.1   Mutant Killer Bunnies Must Die by KiWi
+  n/a   3.1   Last Conquest by Codec
+  n/a   3.0   Kerosene by Milan Kolarovic (a.k.a. Acumen)
+  n/a   3.0   Escape from Llamaspace by Phaser feat. Mik
+  n/a   2.9   wasted by Mc2
+  n/a   2.9   The Rescue by !Cube / Armada + SCS*TRC + Scallop
+  n/a   2.9   Serenity by -PK-
+  n/a   2.9   Dr. Alkenstein Goes Hilarius by Erodix
+  n/a   2.8   yukute no mienai kuukan by frown / t-rex
+  n/a   2.8   The Spaniards attack a baroque dinner party by Empty
+  n/a   2.8   Disqualified entry by Crud
+  n/a   2.8   Coolmint by Heatbeat/CNCD
+  n/a   2.7   Sodassa by Jugi
+  n/a   2.7   Paniken Flutes by Ari "Dj ArtZ" Pulkkinen
+  n/a   2.7   Kuu by Kurkku-purkki
+  n/a   2.7   Escape From Paradise by Midlite
+  n/a   2.7   DBEAT by Djrowbot
+  n/a   2.7   Aamu neljältä melkein unohdin by codehead
+  n/a   2.6   acidmilk by Tek
+  n/a   2.6   The Continuing by Nobody of Wild Light
+  n/a   2.6   Return of the ape by Arto Aaltonen, exape / orgazmo
+  n/a   2.6   Return of Kerppana by TLA
+  n/a   2.6   Point of No Return by Ilem
+  n/a   2.6   Gradience by zild / Caf‚ & Joonas Kasurinen
+  n/a   2.6   Dub Assembler by Clargoa
+  n/a   2.6   Deconstruction by Serotone
+  n/a   2.6   Crack Sinatra! by ilp0 / piAstro
+  n/a   2.5   The changing moments of life by yazu/kellari & jarkko
+  n/a   2.5   No time to Heal by Neutrium
+  n/a   2.5   Munchin Suicide by Signal
+  n/a   2.5   Gliding by Twilight Illusion
+  n/a   2.5   Aliens stole my hard drive by 4t Thieves / kahvi
+  n/a   2.5   Acid Blues by Veli-Pekka Tätilä
+  n/a   2.4   se8kioe by ele
+  n/a   2.4   other kids always beat me by sauli
+  n/a   2.4   orion bubble by ajj
+  n/a   2.4   Torchrunner by The Shallop Project
+  n/a   2.4   Tears Of Eternity by MetHill
+  n/a   2.4   Shining eyes by Effect
+  n/a   2.4   Jos Olisin Avaruusfolio by Olga P.
+  n/a   2.4   Aliens On Wheels by Dreamie / Korpilakko
+  n/a   2.3   poppis by gloom and trenedy of excess
+  n/a   2.3   Seven Sins of Life by PPessi
+  n/a   2.3   Hubbards Smile by Castor
+  n/a   2.3   Forgotten fruitcakes by JDruid
+  n/a   2.3   Dinosaurus by Squeek
+  n/a   2.3   Assorted dubs-puddle by Julius Fletch
+  n/a   2.2   soulscape by shS
+  n/a   2.2   Weather Front by Carebear Superhoe
+  n/a   2.2   Sä et ole Paimiosta by Aikapallo
+  n/a   2.2   Night run by pahamoka / nolifesupportsystem
+  n/a   2.2   Midnight Glamour by Frozenbyte OY
+  n/a   2.2   JungleLife by Birdie
+  n/a   2.2   Evangelion by Rocktech
+  n/a   2.2   Dismist by Terminus / scene.ee
+  n/a   2.2   3n0rgy by [[r]ed
+  n/a   2.1   Rubik by Orphan Process (Markus Koskinen / Mikael Nuotto)
+  n/a   2.1   Newskool Chipkraft by Q of kone creations
+  n/a   2.1   Just Like Steve by Teel
+  n/a   2.1   Femme Fatale by Tarpan_X
+  n/a   2.1   Drone by QBiC / Glacier
+  n/a   2.1   Dandruff in Headphones by tonic
+  n/a   2.1   Arboretum by ZaTTu
+  n/a   2.0   duskin la mente (intro) by lepra / piAstro
+  n/a   2.0   Waves of Symphony by Mark Vera
+  n/a   2.0   Mixed Emotions by ->LUKE<- / Amazement
+  n/a   2.0   MikroKosmos by Juha-Pekka 'JPQ' Kuusela
+  n/a   2.0   Iso paha susi by Lawb / Traction
+  n/a   2.0   Distance by Kari Siivonen
+  n/a   2.0   Aria in C by Puti
+  n/a   1.9   coffeebreaks by grazin
+  n/a   1.9   Folders-2 by Spacey
+  n/a   1.9   Feeling bass by Tspoon
+  n/a   1.9   Fatima and her General by kiste / Team scene.ee
+  n/a   1.9   Back Home by Colon
+  n/a   1.8   experimentaalinen anti-progejunkkamättöbittihiphop by
+              KasvIuuTejUomA/tAAt
+  n/a   1.8   Limmaa ja lekkaa by lca
+  n/a   1.8   Influence Of Snow by Arctic Flare
+  n/a   1.8   Crazy Strings by ThUmB/HeadcrasH
+  n/a   1.8   Aethra Fate by dUx0m
+  n/a   1.7   Ode to Foot by Kheldysh/extempore
+  n/a   1.7   Laksatiivi by smirk / unique
+  n/a   1.6   Winter Land by SPQR
+  n/a   1.6   Lock Yourself by Hanga Gallon
+  n/a   1.6   It's fall coming by AdZ8Qb
+  n/a   1.6   Heir to the throne by humppamies / piAstro
+  n/a   1.6   11cm by Devil Group
+  n/a   1.5   jamminundaground by jou!
+  n/a   1.5   Thrilling Away by SerialThrill
+  n/a   1.5   Mäempää, Kenmpele - koepala by Ernesto Aeroflot
+  n/a   1.5   Hot Pants by deetsay
+  n/a   1.5   Aldelaan by Mara
+  n/a   1.4   poikkeuksellista kokkausta. by pnmf!
+  n/a   1.4   Phunkie Summer Nights by Tommip
+  n/a   1.4   Minor duet by JJR
+  n/a   1.3   Kuun Suke by Zensei/Paavoharju
+  n/a   1.3   224_07072002 by ps / calodox
+  n/a   1.2   Banaalirapu by Jonse /Kemikal Stratos
+  n/a   1.1   Various White Boys by jlehto
+  n/a   1.1   Tender-Hearted by Meron
+  n/a   1.1   Get Up by huamn
+  n/a   1.1   Bassot poksahtaa by Perkele
+  n/a   1.1   Aeidin sydaen by Ravel / Sleber Eid
+  n/a   1.0   To home by Tohtorit
+  n/a   1.0   The flow by stam
+  n/a   1.0   Spurious Event by Die Rebels
+  n/a   1.0   Electric worm by sPiiKKi / Nalleperhe
+  n/a   1.0   Avaruuspöpö by Ad Absurdum
+  n/a   0.7   Flow by SounDemoN 1
+  n/a   N/A   kakka by apemon
+
+
+
+
+  [[ Raytraced Graphics Compo ][BLANCO]
+
+  1.  3210p   Butterfly by Antti Lehtinen[GRIS]
+  2.  2917p   Fatal Error by DeCoder / LTV
+  3.  2029p   You've got mail by Oozie
+  4.  1950p   Artificial Innocence by marzu
+  5.  1460p   Bellou by a2reason/aem
+  6.   704p   Orchid by Labero
+  7.   639p   Babe Baker by O:et
+  8.   628p   Plastic, it's fantastic! at 2000 m.p.h by isw of SoCS
+  9.   567p   Alienscape by sarod
+  10.  545p   The Tools by Huezo
+  11.  457p   Adam & Eve by Reko / Instant Ejakulation
+  12.  431p   Tinman by Hoaxi
+  13.  416p   My Pussy Cat by Sande / Episent Productions
+  14.  309p   Bad Guys From Medieval by iekc
+
+  n/a         Dagger & Hammer humppamies / piAstro
+  n/a         Suspended In Dusk Lassi Warsta
+  n/a         Elukka Pasi Lehtoranta
+  n/a         worksucks skyfox
+  n/a         Dziadek Ubik & Pyromaniac of Madwizards
+  n/a         Terassi supo
+  n/a         BigStaraLike SerialThrill
+  n/a         Mindworks Legba
+  n/a         Experiment D'Walker
+  n/a         Thug Ohjus
+  n/a         The Dark Side Of George Tommip
+  n/a         Auringon Palvoja SDg
+  n/a         Who needs dragons anyway Derelict
+  n/a         Flying in first class Scapula
+  n/a         Cape Filth ilp0 / piAstro
+  n/a         3... 2... 1... Ignition! st Rana
+  n/a         plant a scener kokki / grunstein
+  n/a         Juri Stotski su.render
+  n/a         Butterfly Vertex / Final Dimension
+  n/a         Perkele Mad Axel
+  n/a         Raimolla Korvatunturilta ei näkynyt Nelonen, joten... Howitzer
+  n/a         Kippo Pulzar
+  n/a         Bright Side of Life thti*
+  n/a         DoomTruck Juha-Pekka Jokela
+  n/a         Miner Edward Karvinen
+  n/a         Asetelma jou!
+  n/a         Home Sweet Home BioNiK
+  n/a         Hävisin kaiken Timo
+  n/a         fly by Merlin IIK
+  n/a         Miner Edward Karvinen
+  n/a         Enigma Diaboli Data
+  n/a         Storm is rising PeXi
+  n/a         Ragnarok Mesak&Hkelukka
+  n/a         Try_More dEGRYSIN/NAH_KOLOR+SCOOPEX+SUSPEND+FAKTORY
+  n/a         Deep Biter/Scoopex
+
+  disq        Ystävä by Cranz
+
+
+
+
+  [[ Flash Demo Compo ][BLANCO]
+
+  1.  3367p   Super mushroom sisters by RNO[GRIS]
+  2.  2755p   Kreivi Krapula by Rapture Seekers
+  3.  1887p   Evolve by Esko Ahonen & Milan Kolarovic
+  4.  1443p   Terrori by K-Statik/Outkazt
+  5.  1436p   linear motion by hannu_
+  6.  1223p   Recycled by Bombsquad
+  7.   905p   Multiplex by Redhill Drunks
+  8.   613p   Nendo by wain and codec
+  9.   401p   Grunge212 by Kone creations
+  10.  366p   Warbirds by Inapt
+  11.  261p   Paradigm by Kellari
+
+  n/a         ai. by Trekky
+  n/a         Mytocondrio by Yleisradio
+  n/a         mäRKä apInA by Simo Santivirta
+  n/a         The G.O.D by Exca
+  n/a         Legendaarista by Poro
+  n/a         Tran Van Quang by #attica
+  n/a         Shade by Rotta
+  n/a         Return of the Lamer by chosenone-
+  n/a         Invaders by piAstro
+  n/a         dokumenttiprojekti: velluorava by DoC / FD
+  n/a         Duck'n'Cover by piAstro
+
+
+
+
+  [[ Drawn Graphics Compo ][BLANCO]
+
+  1.  1810p   Blood Donation by Calvin/Halo[GRIS]
+  2.  1740p   Hitchhiker by maxon
+  3.  1692p   annukka by mazor aka kidlove
+  4.  1631p   Final Lap in Tir Na nOg by Splif/calodox
+  5.  1478p   Blowjob by Sh'ar / Forsaken
+  6.  1378p   Fish Bukkake by DoC / FD^DCS
+  7.  1213p   Aamu by Flegeton
+  8.  1011p   And Jane by Joil / matt current / ananasmurska
+  9.   891p   Slayer by Partikle
+  10.  838p   Can U see the KillerBEE by Critikill / Scenic
+  11.  520p   Burroughs by Electric/Extend
+  12.  417p   Power Armor by Petri Auvinen
+  13.  343p   Trauma by Reko / Instant Ejakulation
+  14.  325p   Hyvän_yön_huuto by asasel
+  15.  190p   Escape by Shivikai
+
+  n/a         Alien With Boobs apemon
+  n/a         Osuma Kingi
+  n/a         Fear Trilkk / FHI
+  n/a         My sister is my fathers cousin java
+  n/a         Grand Piano McK/ananasmurska/tAAt
+  n/a         frozen devil / scene.ee
+  n/a         Fear Trilkk FHI
+  n/a         Volga, Volga ! Pineapple
+  n/a         <Asm Devil> AeroSOL
+  n/a         Spring tug
+  n/a         Datagnome Tommip
+  n/a         Euphoria sec / kone creations
+  n/a         Smoking lady Scapula
+  n/a         Gentlemen from Tyrvaeae Marq of Fit
+  n/a         kids are the future kokki / grunstein
+  n/a         Fly Away toukka
+  n/a         Kalavale Grifa / Caf‚
+  n/a         Flare Girl Saim
+  n/a         player joa
+  n/a         Confused Problem
+  n/a         Kaveri Au-heppa
+  n/a         Caught Angel iekc
+  n/a         Voittaa/Ei voita SubMariner of SubEXiT
+  n/a         Dream Lee
+  n/a         Even fairy teenagers angst Trallallaa
+  n/a         Purrrty ltipl
+  n/a         September in Tshernobyl Charon
+  n/a         multiplayer progress/grin
+  n/a         Metaphysical ins0mnium
+  n/a         It wasn't me #korpi
+  n/a         Siluettikorret B. o. W.
+  n/a         Wount Kam Tu Papa Marvel / FC
+  n/a         Brainstorm Harlequin
+  n/a         The Reach Random/Armada
+  n/a         Boy and Flag Kristoffer Lawson
+  n/a         Essence Visualice
+  n/a         Laiska tyttö Data
+  n/a         Frog's nightmare Lance/Aggression
+  n/a         Saku Salinin omakuva Saku / Kemikal Stratos
+
+
+
+  [[ Vocal Music Compo ][BLANCO]
+
+  1.  2268p   Valley of the Past by Firestorm / Doomsday[GRIS]
+  2.  1281p   Rain Slows the Time by Bliss of Fairlight Music
+  3.  1227p   Tyttö tuli herättämään minut by Dizzy/CNCD
+  4.   991p   The Drunk Piano by stam & Sileoni hometeam
+  5.   843p   Four Lines by Aisth
+  6.   797p   Sano mua rehtoriks by MjN // Cow-productions
+  7.   761p   Tiibet by Der / United Narsists
+  8.   642p   Hatred (is a Memory Made of You) by Lefn Piaz
+  9.   545p   Off-Board Controller by Teddie
+  10.  492p   Boogie Boutique by Reed / Fairlight & Andy / Banal Projects
+  11.  398p   Play da funk by ierker / granma
+  12.  385p   A Nice Day by Captain / Maturefurk
+  13.  364p   Nasty Things by Virgill / Haujobb
+  14.  351p   Crash by 2XM 
+  15.  264p   Brillian White of a Distant Sun by Dixan of Spining Kids + MFX
+
+  The points shown below are the average jury points for that entry.[BLANCO]
+
+  n/a   2.7   Computer with own free will by Castor / Immersion[GRIS]
+  n/a   2.7   Black Velvet Sea by H4Z
+  n/a   2.6   Still Cold by Huezo
+  n/a   2.6   Peba by Dj Puli & Mc Sampo
+  n/a   2.5   Kerrostalo Diktaattori by Henrik Collin
+  n/a   2.5   Interstellar (MaaLaisKunta2002) by whk
+  n/a   2.5   Crowded Places by Neutrium
+  n/a   2.4   Supernova by Laxical/Scoopex
+  n/a   2.4   Fair to All by Aikapallo
+  n/a   2.3   Se hallitsee by crud
+  n/a   2.2   Maailma on paha by Marleyn kaimat
+  n/a   2.1   perceptual reboot by steffo / cryonics
+  n/a   2.1   Pang Like A Piñata by Onomatopoetic Justice
+  n/a   2.0   machines of messiah by iSO
+  n/a   2.0   We by Terminus / scene.ee
+  n/a   2.0   Viilen Dank (virtaus) by Inis Jorgé of Paavoharju feat. Sy
+  n/a   2.0   Stool Pliers Tractor by tArzAn
+  n/a   2.0   Playing with my balls by The Injuneers
+  n/a   1.9   viihteellä by Lactic acid
+  n/a   1.9   d0lce - Wilder by Jeejee
+  n/a   1.9   Silver by cout
+  n/a   1.9   Epänormaalien maihinnousu by Metanol Man
+  n/a   1.8   Pingviinilleni by Mixa^
+  n/a   1.8   My own way by steffo / cryonics
+  n/a   1.7   N00b by (c) Olli Vanhoja
+  n/a   1.7   232_21072002 by ps / calodox
+  n/a   1.5   isery-ry-ry by lepra / piAstro
+  n/a   1.5   Parties they are a changing by Mr unknown
+  n/a   1.5   Live Another Day by Olga P.
+  n/a   1.5   Elektrooninen Espoo by humppamies / piAstro
+  n/a   1.4   Onni by Zensei/Paavoharju feat. Joose Keskitalo
+  n/a   1.4   Mixdown 25 by Mara
+  n/a   1.2   Tonttuja Over the World by Jonse /Kemikal Stratos
+  n/a   1.1   Timo leikkaa ruohoa by Ad Absurdum (feat. Särki)
+  n/a   1.1   Scotty Singing by Systematik Dream Korp aka SDK
+  n/a   1.1   Leijailu by so_bored/osasto7
+  n/a   1.1   Have To End (asm remix) by Vapsi / Masters Using Dator
+  n/a   1.0   borderline personality by skeema
+  n/a   1.0   Aivopuuro naksuttaa by HULLU APINA
+  n/a   N/A   Psyko Manne by Da-
+  n/a   N/A   Kasakkapartio by KPM
+  n/a   N/A   "World War II memoirs" theme (Asm'02 mix) by
+               Milan Kolarovic (a.k.a. Acumen)
+
+
+
+  [[ Combined 4k Intro Compo ][BLANCO]
+
+  1.  4216p   humus3 by Exploder / PUSH Entertainment[GRIS]
+  2.  2646p   NAFTA by tonic
+  3.  2382p   Sotakyrpä by Spaceballs & Ephidrena
+  4.  1385p   224 by Shadow of Noice
+  5.  1109p   XBox by Juippi & Trilkk/FHI
+  6.  1000p   Promille by Rock
+  7.   517p   Kwak by calodox
+  8.   477p   Lets play chess by BuG / PuavoHard
+  9.   261p   Trees by Northern Dragons
+  10.  261p   Powerhug by Plastic
+  11.  190p   c.hello by HeadcrasH
+  12.  155p   lametus by lenin_ra
+  13.  154p   Sifiela by Itchi / Lonely Coders
+
+
+
+
+  [[ Combined 64k Intro Compo ][BLANCO]
+
+  1.  5863p   squish by AND[GRIS]
+  2.  3105p   Future visions by Potion
+  3.  2868p   Sketch by Noice
+  4.  2762p   Lord of the Dogs by Kaita
+  5.  1829p   Neuroosiverkko 43KB - Neurosis Network by tAAt 2002
+  6.  1578p   974 mites by kewlers
+  7.  1413p   We Took the Kebabmoduli by Grin
+  8.  1194p   Timeframe by Fairlight
+  9.  1152p   varhaiset signaalit by aikarele
+  10.  805p   kvinjara by details
+  11.  558p   return by karva
+  12.  508p   pOetry by 0x7a69.au
+  13.  274p   Toren by Phantom Lord / Critical Mass
+  14.  223p   One Day Miracle by Fit
+
+  n/a         Jahva by Leiponen
+  n/a         Lehmä se tietää elämästä by Lactic Acid
+  n/a         More Coffee by Caf‚
+  n/a         Ninja In The Shower by NinjaGefilus
+  n/a         Nokia Sucks by The Swedes
+  n/a         unssi kertoo vitsin by jumalauta
+  n/a         vittu vs perkele by Odd
+
+
+
+
+  [[ Mobile Demo Compo ][BLANCO]
+
+  1.  5616p   Limbo (Pocket PC) by Byterapers & Doomsday[GRIS]
+  2.  3806p   perkele plus (Siemens SL45i) by contraz + excess
+  3.  1529p   Vit 2 (GBA) by Unique
+  4.  1430p   Beyond the limits (GBA) by Vivid Design
+  5.  1395p   Kumiakku (Yopi Linux) by tAAt 2002
+  6.  1309p   Child's Play (GBC) by CNCD
+  7.  1197p   Aikaspektri (Nokia 7650) by Extend & Embassy
+  8.   917p   period of revolutionary transform (GBA) by Matt Current
+  9.   878p   Eevil Flower (TI-82) by DrVeriEevil
+  10.  710p   Anarchy (GBA) by Halo
+  11.  699p   KILKEN (GBA) by calodox
+  12.  538p   925 (Nokia 3410) by komakomplex
+  13.  514p   plutoniumia (Pocket PC) by aikarele
+
+  n/a         Anynomous (Casio FX10) by Twinsoft
+  n/a         Ono (Nokia 7650) by Forsaken
+  n/a         The Son of Grooveboy (GBA) by Sca9 Entertainment
+
+
+
+
+  [[ Wild Demo Compo ][BLANCO]
+
+  1.  6414p   The Way Out by Unreal Voodoo[GRIS]
+  2.  2467p   What's up (in da gangstahood) by Yodel Street Unit
+  3.  2356p   The Fellow Chip by Amazement
+  4.  2238p   Project Kazama Hunt by C.C.C.P. Productions
+  5.  1358p   Saberianist - Sapelittaja by Miesmacher
+  6.  1124p   Ratsia V by tAAt
+  7.  1041p   Pilt.tv by jadajada
+  8.   942p   Losing Victoria by Gasman / Hooy-Program
+  9.   857p   Furiae by Fragile
+  10.  560p   Naapuri by Episent Productions
+  11.  510p   Do whatever you want to me by Kahvila Multimedia Systems
+  12.  479p   The Jumping Duck Factory by Mendel/Citec
+  13.  333p   Action Unknown by Trash Video
+
+  n/a         Mendel by Citec
+  n/a         Tomp Radar - And The Lost Pieces of Neliö by K.E.-Pictures
+  n/a         Assembly likes newbies by Hazul
+  n/a         Milk by Systematik Dream Korp aka SDK
+  n/a         Balalaicka I by Kuollut Hanhi
+  n/a         SKYDIVE by Joonas/JWay, Teemu/Ettan
+  n/a         Unvollkommene Tiere by nosfe / mfx
+  n/a         Overclocked by Low Budget Movies
+  n/a         Kood by Mad Crew
+  n/a         Höpötti by Masasoft
+  n/a         Karamell by Plastic
+  n/a         Tuning tarina - The Movie by Tero K
+  n/a         Rythmic Organization of Brain and Mental Processes by Radio
+  n/a         Pertti the Motion Picture by Jere Liuha
+
+  disq        Die Fügung Lamerfest.org
+  disq        The End Of The World Golem
+  disq        Lez Go Wild Tyhjä Gruup
+
+
+
+
+  [[ Animation Compo ][BLANCO]
+
+  1.  2890p   Project Kerosene by Heikki Anttila & Milan Kolarovic[GRIS]
+  2.  2518p   Whisky & Martini by Tamperelaiset Insinöörit
+  3.  2076p   Blue by Visualice and Melwyn of Haujobb
+  4.  1414p   A Knightly Tale by Vortex Studios
+  5.  1111p   kepsumaa by fragment & cyrus
+  6.  1070p   Piece of cake by Mad Crew
+  7.   938p   Heroes are Eternal by SBI Allstars
+  8.   576p   Puppe The Alien by K.E.-Pictures
+  9.   466p   The Band by Cow - Productions
+  10.  396p   Sneiken by Zeliar
+
+  n/a         Aquarium by Entropia
+  n/a         Help! by Trance14 and Lapa
+  n/a         heikotus by nosfe/mfx
+
+
+
+
+  [[ Combined Demo Compo ]
+
+  1.  3141p   liquid... wen? by haujobb[GRIS]
+  2.  3074p   Halla by Moppi Productions
+  3.  2457p   Variform by kewlers
+  4.  1764p   Fable by Armada
+  5.  1443p   32 degrees in the shade by Yodel
+  6.  1306p   Clone by Critical Mass
+  7.  1169p   el Ksar el Kabir by Bandwagon & Armada
+  8.  1083p   Taesmaeraekae by tAAt 2002
+  9.   986p   Prospects by Unique
+  10.  889p   Hätä by dA JoRMaS
+  11.  745p   Metropol(unfinished party version) by neonray + throb
+  12.  396p   Warped by Bad Karma
+  13.  343p   Population Zero by Värkki Tuotanto
+  14.  223p   LICK_THE_EVERYTHING by Faktory
+  15.  192p   NET by Traction
+
+  n/a         Samantha Fox Ham Demo 4 by Megahawks Inc.
+  n/a         Kozmik by Jumalauta
+  n/a         DevaStation by Fingersoft
+  n/a         Limonite by Moonhazard
+  n/a         marutaka501 by Surface Grant
+  n/a         Laatukauraa by tAAt
+  n/a         mother mother, my ears bleed by mfx
+  n/a         The Hip Old Skool Demo by Täti Pensiö
+  n/a         KRAAH by R.R.E
+  n/a         Bananas Revenge by Dream Dust
+  n/a         mindless by mindless by notion
+  n/a         kesken by Fobia Design
+  n/a         Karamell (update) by Plastic
+  n/a         Haste by Immersion
+  n/A         Morjen by Boolean, Spikeheddd, Handle / Group
+  n/a         Wir sind raus by Anti Flash Konsortium
+  n/a         Spring by Ananasmurska
+  n/a         My Dreams byArt mafia collective
+
+
+
+
+  [[ Quake 3 Arena Compo ][BLANCO]
+
+  1.  Noble[GRIS]
+  2.  Quinsal
+  3.  Rat
+
+
+
+  [[ CounterStrike Team Compo ][BLANCO]
+
+  1.  Ri$k[GRIS]
+  2.  Cascades
+  3.  Ravage
+
+
+
+
+  [[ Return to Castle Wolfenstein Team Compo ][BLANCO]
+
+  1.  Broken[GRIS]
+  2.  Mirage
+  3.  Gunslingers
+
+
+
+
+  [[ Forum Nokia 24h Compo by Forum Nokia ][BLANCO]
+
+  1. funky starfighter (Symbian OS) by portal project[GRIS]
+  2. Shine (Java) by Komplex
+  3. Farmor (Symbian OS) by Granma/m0x
+
+  n/a  24h Shadedots by Jmagic/Komplex
+  n/a  Adventure in the Woods by Jugi of Komplex
+  n/a  crap by psikorp
+  n/a  Max payne cracktro by White and black phantom fanclub
+  n/a  Yksin by Jou
+
+
+
+
+  [[ Street Basketball ][BLANCO]
+
+  1.  K2-Zone[GRIS]
+  2.  Pelimiehet
+  3.  Team Rixu
+  3.  Jymyluola
+
+
+
+
+  [[ Socker ][BLANCO]
+
+  1.  #cc[GRIS]
+  2.  FFS
+  3.  Team Nurmentaus
+
+
+
+
+  [[ Disk Throwing ][BLANCO]
+
+  1.  Timo Moilanen           45m[GRIS]
+  2.  Miro Lahdenmäki         41m
+  2.  Charles Roos            41m
+
+
+
+
+  [[ Cd Throwing ][BLANCO]
+
+  1.  Yuki Hayashi            50m[GRIS]
+  2.  Visa Mäkelä             49m
+  3.  Charles Roos            44m
+
+
+  -[[eof]-[BLANCO]
+
+
+  -----------------------------------------------------------------------------
+  Party archive @ ftp.scene.org
+
+
+
+
+
+
+
+OLDSKOOL[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Hay reconocer, que una de las caracter¡sticas que hace que esta PARTY sea[IZQUIERDA]
+especial, con respecto a otras, es la gran secci¢n dedicada a la oldskool
+(vieja escuela). Aqu¡ no hay ninguna discriminaci¢n con respecto a las
+plataformas, ya sea de edad, como de arquitectura. Se da uni¢n a lo nuevo con
+lo viejo, siendo s¢lo el punto central el arte a trav‚s de la inform tica y la
+creatividad.[NO]
+
+
+  Esta secci¢n incluye Demos, Gr ficos pixelados y m£sica para plataformas como[IZQUIERDA]
+C64, AMIGA, ATARI, etc...[NO]
+
+
+
+
+
+GRFX C64[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues se han incluido en formato WMV (video
+en Windows), salvo alguno,como la imagen del
+Oso, que se ha incluido en formato para C64,
+el cual he probado en emulador.
+
+   En   realidad   ser¡a  m s  c¢modo  poder
+descargar todas las im genes en  formato D64
+para tirar en emulador, ya que as¡ ocupar¡an
+menos, y estar¡an menos difuminadas. Pero de
+esta  forma ,   cualquiera  con  un   equipo
+apropiado , podr¡a ver lo que se puede hacer
+con estas m quinas , sin falta de poseerlas,
+o tirar de emulador con complejos comandos.
+
+  En la foto adjunta os he dejado la mayor parte de las im genes que se pueden[IZQUIERDA]
+encontrar en el server FTP, que por cierto, son de una gran calidad scener de
+pixelado.[NO]
+
+
+
+
+
+
+Musica oldskool[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues en esta secci¢n entrar¡an los IT, MOD, XM, S3M a la antiga usanza, es[IZQUIERDA]
+decir, sin meter samples, y construyendo los instrumentos a medida, de tal
+forma, que con el m¡nimo tama¤o de archivo de sonido, se creen maravillas.[NO]
+
+
+
+  Hay que destacar, que alg£n archivo de sonido se ha entregado en formato WMA,[IZQUIERDA]
+como es el caso de Ballsofsteel, ya que seguro que se deb¡a de tratar de
+alguna canci¢n para ATARI u otra m quina, la cual no se podr¡a sacar el sonido.[NO]
+
+
+  Tambi‚n se ha entregado un archivo binario para Game Boy, el cual se hace[IZQUIERDA]
+llamar "Child_s_play", y tira en cualquier emulador de Game Boy.[NO]
+
+
+  La verdad que la £nica canci¢n que me ha gustado es:
+
+   Chippi 5  de Rascal Fascination.[AMARILLO]
+
+  Y la de la Game Boy.[BLANCO]
+
+
+  El resto no es que sea malo, es que sencillamente tiene poca marcha.
+
+
+
+
+
+
+
+Demos oldskool[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Las demos para esta secci¢n, cada vez m s,se
+empieza  a  tomar la iniciativa  de ponerla en
+formato de video, ya que suele ser raro que la
+mayor¡a de  la gente posea o bien  la  m quina
+real o un buen emulador.
+
+  De esta forma, la gente puede ver el trabajo
+de las demos  sin  mucha complicaci¢n , con el
+£nico problema,de que el v¡deo ocupa much¡simo
+m s que  la demo en  formato  binario  (suerte
+para los de tel‚fono) y que se suele difuminar
+bastante  la  imagen con respecto  a  la  demo
+original , ya que los formatos de video suelen
+usar compresi¢n HUFFMAN.
+
+  Esta secci¢n sigue el mismo esquema que la anterior, es decir, se suelen[IZQUIERDA]
+entregar las demos en formato video WMA. Pero algunas est n en formato binario
+para poder ser usado en m quinas reales o emuladores.[NO]
+
+  Personalmente la demo que m s me ha impresionado es:
+
+    MyCondom que funciona bajo C64.[GRIS]
+
+  La verdad que es como ver una demo de PC currada, pero en tiempo real y en[BLANCO IZQUIERDA]
+un C64. Todo un logro para los coders.[NO]
+
+  Aunque tambi‚n le hace la competencia la demo de SoftwareDevelopers.
+
+
+
+
+
+
+GRFX[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues todo lo que viene a partir de ahora, es
+para  lo  que  ser¡a  la  newskool. Y  aqu¡ se
+engloba los gr ficos 2D pixelados o no.
+
+  Esta  secci¢n  si  que  es  bastante dif¡cil
+elegir una imagen  mejor que otra, as¡ que tan
+s¢lo he expuesto alg£n que otro trabajo , pero
+recuerdo que son todos de gran calidad , sobre
+todo:
+
+
+  The reach  de Random Armada[AMARILLO]
+
+  My sister is my father cousin  de JAVA
+
+  Datagnome de tommip
+
+  Confused de Problem 1
+
+
+  Los que he puesto en la imagen no se corresponden con los que he escrito, ya[IZQUIERDA BLANCO]
+que son muchas im genes, y no he podido ponerlas todas.[NO]
+
+
+
+
+
+
+
+Analog GRFX[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues  esta  secci¢n  debe ser  para aquellos
+trabajos hechos a mano, y luego escaneados. La
+verdad ,  que  no  son  tan  buenos  como  los
+anteriores ,  pero  hay   alguno  que  es  una
+aut‚ntica obra de arte, como los siguientes:
+
+
+  Visualice-ink_maigc[GRIS]
+
+  Partikle-snakes_in_oil
+
+  Mazor-lost_in_blue_oyster
+
+  Marq-kafkas_day_off
+
+  Joa-sleepy
+
+
+
+
+
+
+
+Otras secciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Al igual que otras party's, en esta hay tambi‚n FAST MUSIC, as¡ como una[IZQUIERDA]
+nueva secci¢n de demos para M¢viles, la cual no he podido probar, ya que no he
+descargado el emulador para ello.[NO]
+
+
+  Pero quiz s, una de las secciones que m s me ha impresionado, es la de hacer[IZQUIERDA]
+demos en Macromedia FLASH.[NO]
+
+
+  Y tambi‚n se ha a¤adido una secci¢n de desarrollo de juegos, a diferencia de[IZQUIERDA]
+en otras PARTY's, donde lo que se hace es jugar a juegos:[NO]
+
+  Como se dec¡a en la diskmag PAIN:
+
+   FAQ Quake ==> FUCK ALL QUAKERS[GRIS]
+
+
+
+
+
+
+
+Demos en Flash[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues como dije anteriormente, en esta PARTY,
+se  han  realizado  demos con el  MARCROMEDIA
+FLASH.
+
+
+  Hay que reconocer , que comparando este tipo
+de demo con una realizada  en C o ensamblador,
+pierde bastante en calidad de c¢digo, pero eso
+no  quita , que hay  algunas  que  son de buen
+gusto, teniendo un gran sonido,as¡ como buenas
+im genes , pero a  la hora de realizar efectos
+visuales m s complejos,empieza a ir a tirones.
+
+
+La demo de este tipo,que m s me ha gustado es:
+
+  Evolve de esko_ahonen_milan_kolarovic[AMARILLO]
+
+  Posee una gran canci¢n de fondo, as¡ como muy buena imagen. Algunas demos[IZQUIERDA BLANCO]
+requieren del Macromedia Flash 5, pero otras, quiz s necesiten la versi¢n 6 e
+incluso la 8. As¡ que ser¡a bueno, que descarg seis el Shockwave 8 de INTERNET.
+Una vez instalado, desde el propio EXPLORER de Windows, podr‚is ver estas
+demos.[NO]
+
+
+
+
+
+
+Intros 4 K[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  En esta secci¢n no s¢lo hay intros para PC, sino que se han incluido alguna[IZQUIERDA]
+para AMIGA. As¡ que ya sab‚is, a tirar de emulador WINUAE.[NO]
+
+  Aqu¡, casi todas las intros de PC, se han pasado a usar Win32 con OpenGL. Ya[IZQUIERDA]
+casi nadie respeta el uso de la m quina, tirando de arranque DOS.[NO]
+
+  Algunos se atreven a usar LINUX con librer¡as SDL, pero nadie lo hace con[IZQUIERDA]
+BeOS o sistemas alternativos.[NO]
+
+  La intro 224 de shadow of noice, es bastante buena, para ser de 4 KB. Hace[IZQUIERDA]
+uso de OpenGL, y va bastante fluida (al menos con mi equipo), teniendo en
+cuenta que no pide un Athlon a 1,2 Ghz y GeFORCE II.[NO]
+
+  Otra intro que est  bastante bien es la Kwak de Calodox, as¡ como Lets play[IZQUIERDA]
+chess de Bug puavohard 4.[NO]
+
+
+
+
+
+
+Intros 64 K[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Al igual que las intros de 4 K, existen versiones para PC, LINUX y para[IZQUIERDA]
+AMIGA. Al igual que en el caso anterior, hay que agradecer que no todas las
+intros usen la potencia de GeFORCE II(que no es tanta).[NO]
+
+  Hay  que  destacar la intro "more coffee" de
+caf 2 (aparece en la foto), ya que no hace uso
+en absoluto de una aceleradora,aunque funcione
+en WIN32.  Hay  que  recordar , que  todos los
+efectos vistos en esta PARTY , no necesitan en
+absoluto una aceleradora , pero claro , eso no
+quiere decir, que no se haya programado as¡, o
+que no se pueda usar.
+
+  La intro "974 mites" de  kewlers, es tambi‚n
+muy vistosa , aunque  sea  en  Blanco y Negro.
+
+  Por supuesto , es  de agradecer que la gente
+programe bajo WIN32  y OpenGL , ya  que aunque
+supuestamente ,  deber¡a   ir  todo  muy  bien
+(abstracci¢n) ,  en  la  vida real , cuando no
+cumples con los requerimientos , o te revienta
+el  modo de video actual , o te da un KERNEL32
+FAIL que cuelga el Sistema Operativo.
+  Si al final ten¡an raz¢n con la frase:
+
+   "El DOS est  muerto, es dif¡cil programar, al no haber estandar"[GRIS]
+
+  Porque claro, con Windows:[BLANCO]
+
+   "Todo funciona bien, y hay muchos estandares, como GeFORCE II, OpenGL,[GRIS]
+   Microsoft GL, GeFORCE III, ATI, TBL, etc... 8-D)))) Ignorantes.
+
+
+
+
+
+
+
+Demos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues llegamos al plato fuerte, que son las demos.
+  Al igual que antes, existen demos para PC con WIN32, LINUX y AMIGA.
+
+  Hay que destacar que en este apartado, hay que disponer de un buen equipo,[IZQUIERDA]
+pero adem s con muy buena aceleradora, y las £ltimas librer¡as de OpenGL.[NO]
+  As¡ que a descargar el GLSetup, y a compraros una GeFORCE II o III.
+
+  La verdad es curioso que exista scene de PC, cuando en realidad, deber¡a[IZQUIERDA]
+llamarse:[NO]
+
+   GeFORCE scene[GRIS]
+   OpenGL scene (Nehe ya tiene curro 8-D)))
+
+  Adem s dicen que la oldskool ha muerto, y vaya si ha muerto, porque claro,[IZQUIERDA BLANCO]
+este a¤o toca GeFORCE II y III scene, y claro el pr¢ximo a¤o ser  GeFORCE MX,
+y el pr¢ximo lo que pinte. Por tanto, si cada a¤o sale algo nuevo que no se
+aprovecha, pues claro, lo viejo tiene que quedar viejo.[NO]
+
+  Menos mal, que algunos tienen los pies en la tierra y la cabeza sobre los[IZQUIERDA]
+hombros, y todav¡a est n intentando ver a donde llegan sus m quinas, en lugar
+de probar la £ltima API de OpenGL para decir que ya saben programar su GeFORCE
+(¨pero desde cuando han liberado GeFORCE para programarla 8-))?[NO]

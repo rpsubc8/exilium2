@@ -1,0 +1,629 @@
+[FOTOS 9]
+FOTO_SCENE_EUSKALX_1 PALETA_SCENE_EUSKALX_1 34 4
+FOTO_SCENE_EUSKALX_2 PALETA_SCENE_EUSKALX_2 55 328
+FOTO_SCENE_EUSKALX_3 PALETA_SCENE_EUSKALX_3 55 381
+FOTO_SCENE_EUSKALX_4 PALETA_SCENE_EUSKALX_4 46 400
+FOTO_SCENE_EUSKALX_5 PALETA_SCENE_EUSKALX_5 48 415
+FOTO_SCENE_EUSKALX_6 PALETA_SCENE_EUSKALX_6 50 433
+FOTO_SCENE_EUSKALX_7 PALETA_SCENE_EUSKALX_7 47 451
+FOTO_SCENE_EUSKALX_8 PALETA_SCENE_EUSKALX_8 54 525
+FOTO_SCENE_EUSKALX_9 PALETA_SCENE_EUSKALX_9 49 544 
+Euskal Party X[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+
+
+
+
+
+
+
+  Pues como todos los a¤os, se ha vuelto a celebrar una de las Party's[IZQUIERDA]
+espa¤olas con m s asistencia de personas, despu‚s de la Campus Party.[NO]
+
+  He de destacar, que no he estado en esta party, ya que tan s¢lo me he[IZQUIERDA]
+limitado a descargar lo que hab¡a en el servidor web, y ha probar demos.[NO]
+  Esta party, posee una presencia scener muy importante, y para aquellos que[IZQUIERDA]
+quieran saber m s datos, pueden visitar la p gina web:[NO]
+
+
+          http://www.euskal.org[CHAR14B VERDEFOSFORITO]
+
+
+  Pues este a¤o, se corresponde con la d‚cima party de la Euskal, es decir, la[IZQUIERDA PCT BLANCO]
+Euskal X, y se celebr¢ en San Sebasti n (Donostia), durante los d¡as 25 a 28
+de Julio.[NO]
+
+
+  Hay que destacar, que aunque en el servidor web, no he encontrado ninguna[IZQUIERDA]
+demo de AMIGA, y de otras plataformas, que no sea PC, eso no quiere decir, que
+no haya habido nadie de esas plataformas.[NO]
+
+
+
+
+
+Resultados[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues aqu¡ dejo los resultados de esta party, tal y como figuran en la[IZQUIERDA]
+p gina web:[NO]
+
+
+  2D Graphics[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 noname by Shock/Collapse                                   175[PCT BLANCO]
+    2 Vanessa by Zaac                                            135
+    3 Yonka by Newalpha                                           98
+    4 Swing by Pwyll                                              78
+    5 Jolie by Niani                                              65
+    6 Baptism by Vision                                           52
+    7 Trilogy by HESS                                             48
+    8 Caricatura by Angelss                                       35
+    9 Two Worlds by yero                                          26
+   10 Ayame_ki by Ayame                                           24
+   11 The other side by Burner                                     8
+   12 El Colmo by Telémaco                                         2
+
+
+  3D Animation[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Plus by S3D                                                135[PCT BLANCO]
+    2 Figaro by Animax 3D                                        125
+    3 Indiana by Ñaku                                             84
+    3 Drash by MenTaSm                                            84
+    5 -|EgYpT|- by -|GLoWnT|-                                     60
+      Arkatz zinikoa by Andres                                 Disq.
+
+
+  3D Graphics[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Rainy by Newalpha                                          152[PCT BLANCO]
+    2 Li 3 by Madgoblin                                          126
+    3 Q me come la pira¤a by Ñaku                                 97
+    4 Primer Aviso by Tel‚maco                                    87
+    5 Caracol by Pwyll                                            83
+    5 Acr¢polis de Atenas by Jiasaer                              83
+    7 Impreza Lan Party Car by FoxMcLeod                          46
+    8 Alquimista by Aero                                          42
+    9 Le Temple by [[DTP]Synepcice                                 26
+   10 Cociendo una demo by aTMsA/Necrostudios                      9
+   11 My Hand by Ximac                                             4
+
+
+  Chiptune[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Hmmm by yero & JosSs                                       183[PCT BLANCO]
+    2 rollo electro by sml / fuzzion                             170
+    3 Ula Bulula by Wonder                                       163
+    4 Simetr¡a de orden 8 by Ham / Software Failure              108
+    5 technochip by chip / software failure                      102
+    6 I love Sweden by Stephan^Ozone                              94
+
+
+  Fast 2D[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Ha mutado by Newalpha/RGBA                                 175[PCT BLANCO]
+    2 Fast by Interface                                          131
+    3 Fast by Shock                                              112
+    4 Expediente Windows by Ramon Redondo                         60
+    4 Abducido by Tel‚maco                                        60
+    6 Tostator by Ramson/Niako                                    56
+    7 fast by burner                                              54
+    8 Sentimenduak by Jober/RGBA                                  30
+    9 Xcener by Yamaneko                                          26
+   10 Fast 2D by Piedachu                                         18
+   11 el gran cambio by masca                                     16
+   12 Fast by Phelan                                               4
+   13 MyComputer by Jordanil el Loco                               2
+   14 Sin azul by Nakar                                            1
+   15 Fast by Karp                                                 0
+   15 Estandard universal by Napalm                                0
+   15 Ya ta updated! by Dreams                                     0
+   15 Intel by masputogay                                          0
+   15 A different upgrade by bfx/jazztyle                          0
+   15 Evolution by Inthenite                                       0
+      Inc¢gnita by Nekanen/Jazztyle                             Ret.
+
+
+  Fast 3D[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Fast foca by Telémaco                                      155[PCT BLANCO]
+    2 Fokita Monje by Smeagol                                    110
+    3 La foca nicanora by Ñaku                                    80
+    4 FastFoca by djshivan                                        74
+    5 Foca sin orejas by FoxMcLeod                                55
+    5 Foca by Newalpha                                            55
+    7 Foca by Amon-Amok                                           46
+    8 Foca by r3d                                                 42
+    9 la fokita de marras by MaDGoBliN                            30
+   10 Foca circense by Jober                                      24
+   11 Fast by xkywalker                                           20
+   12 Foca montxo by Masca                                        10
+   13 Foca VSPingu by TFE                                          9
+   14 Fast by Mamomo                                               6
+   14 Fast by Aero                                                 6
+   16 Foca euskal by Tracy & IceVAN                                4
+
+
+  Fast Coding[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Fasttracker-fastcode by iq                                  95[PCT BLANCO]
+    2 Fast GP32 by Aj0                                            66
+    3 Fast code by bp                                             60
+    4 Fast croack by DrPain                                       48
+    5 Fast code by shash                                          35
+    6 Kojotracker by David Moreno AKA sertrem                     28
+    7 Falta la mitad by ZMG                                       19
+    8 Fast trakatrak by Hard Null                                 16
+    9 Chapuza by The VaW                                          10
+   10 Mangurrino composition by Cymoril sin patas                  9
+   11 Fast by Una-i                                                8
+   12 Kensi by Kensi                                               6
+
+
+  Fast Music[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Pro-pizzer by Wonder                                       219[PCT BLANCO]
+    2 Esukal Praty Fast Mod by yero                              177
+    3 Lo que se puede by Eduardo pico gonzalez                   121
+    4 Euskal Fast by Wizard/Collapse                              95
+    5 Fast by IQ                                                  93
+    6 Fast robot syle by Sole                                     72
+    7 fastkat by katolik/jazztyle                                 67
+    8 Fast by Jober                                               52
+    9 Jarcor by Oskar                                             35
+   10 Fast robot by Ekon                                          32
+      Sample pack by Mantra (from Canada)                       Ret.
+
+
+  High Quality Music[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 La Leyenda de Langorth by FX!^Purple's Studios             166[PCT BLANCO]
+    2 i remember by nork/network                                 134
+    3 Malas compa¤ias by Vampinox                                112
+    4 Obu-soide by Wonder                                         89
+    5 el viaje by yeray y jon                                     69
+    6 The Only One by Pitch & Snatcher                            65
+    7 Kärlek till naturen by Stephan^Ozone                        64
+    8 Live an illusion by Wizard/Collapse                         40
+    9 Plus by S3D                                                 39
+   10 Fired From Heaven by Merluc¡n                               36
+   11 Yeahh by David Moreno AKA Sertrem                           27
+   12 Title by LouiS-V                                            24
+   13 Goodpeople by Jano                                          21
+   14 Keinuak 2 by Ipurbeltz                                      20
+   15 Just Jungle by chip / Pantuflas                             17
+   16 Alegria Drums by Delirium/MDMDA                             15
+   17 U Look Fine by Aki                                           8
+   18 Little Fragment by Rober/Serpix                              5
+   19 Metalic Strings by 3rras                                     2
+
+
+  Modules[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Unstoppable by Nork/Network                                197[PCT BLANCO]
+    2 O un completo jarl by Wonder                               194
+    3 Arcade machine by Wizard/Collapse                          163
+    4 Never Ending Music Remix by chip / Software Failure        120
+    5 A Dismal Music Box by Offset                                96
+
+
+  Multichannel[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Did you bring the packet? by Nork                          163[PCT BLANCO]
+    2 What she never was by Wonder                               157
+    3 Golden by yero                                             139
+    4 Emotional Voyage II by ROBER RODRIGUEZ                     117
+    5 Leah by Jewoll & Jober                                      83
+    6 A girl I used to know by Wizard/Collapse                    72
+    7 Last Night In Atlantis by Sole / NecroStudios               70
+    8 Sons of Waldheim by Vampinox                                64
+    9 Pr0gr3 by OffSet                                            33
+   10 Llamita Ovejosa by Ayame                                    19
+   10 So Sweet by Durkheim                                        19
+   12 Reaver by Reaver                                            14
+   13 Spiritual Experience by Katolik/Jazztyle                     8
+   14 Almost a mod by Alberto Romero                               5
+      Da Feelin` by JosSs & Aki                                 Ret.
+
+
+  Open 4Kb Compo[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 fuzzy dominoes : follow our game by fuzzion                200[PCT BLANCO]
+    2 Scene Words by Jazztyle                                    150
+    2 Serej‚ by yey0, yahve, rapid                               150
+
+
+  Open Demo Compo[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 This Way by Stravaganza                                    189[PCT BLANCO]
+    2 mdma by threepixels                                        180
+    3 Kaptah by RGBA                                             121
+    4 The Ibiza Experience by Anaconda                           119
+    5 Can you by TPM                                              61
+    6 Frontier by Concept                                         57
+    7 L337 H4X0R by MUG Team                                      48
+    8 dixieland by Spontz                                         44
+    9 Silch by Synth                                              27
+   10 Pantuflas2 by chip / Pantuflas                              18
+   11 Powerpoint by Too many people                               14
+   12 Obsessions by Jordanil el Loco                              11
+   13 Java Criatures by Yuyah & d2clon                             5
+
+
+  Open Intro Compo[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Brain Overdrive by Ham/Software Failure                    200[PCT BLANCO]
+
+
+  Pixeling[PC AMARILLO]
+
+  Pos Production                                              Points[GRIS]
+  --- ------------------------------------------------------- ------
+    1 Contra by Interface                                        175[PCT BLANCO]
+    2 Together by Leunam/Network                                 140
+    3 Jiji by Ayame                                              107
+    4 Shini by Saruqui                                            88
+    5 Dragon by Sabina Hernandez                                  74
+
+
+  Wild Compo[PC AMARILLO]
+
+  Pos Production                                                     Points[GRIS]
+  --- -------------------------------------------------------        ------
+    1 Engranaje Met lico 2: The Sons of party by Maska Team & Purple     25[PCT BLANCO]
+    2 Build your own Mp3/Mod/Sid Player for da Saxo by Stephan^Ozone     20
+    3 Bill Puertas no me jodas by Maria Barrakoian                       15
+    4 Teclaz by Zona Neutra                                              12
+    5 Evolution by Asnah + Hansa                                         10
+    6 ¨Quien eres? by Mamomo/SOGA                                         8
+
+
+
+
+
+Pruebas[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues en este apartado es donde se van a comentar alguna que otra demo, de[IZQUIERDA]
+hecho, empezar‚ comentando la invtro (intro de presentaci¢n). En concreto,
+hab¡a dos invtros:[NO]
+
+   - EuskalPartyX[VERDEFOSFORITO]
+   - CPTInvtroE10
+
+  La primera era una demo que ocupaba mucho, y ped¡a mucho hardware (GeFORCE),[BLANCO IZQUIERDA]
+as¡ como Windows, para poder ver a un PANDA muy gracioso en una isla.
+Lamentablemente, no dec¡a gran cosas de c¢mo asistir a la PARTY, ni las reglas
+de los concursos.[NO]
+
+  La segunda es mucho m s explicativa, y en ella se puede ver donde se[IZQUIERDA]
+encuentra la party, las secciones de la misma, precios, as¡ como unos cuantos
+efectos visuales, tal y como se aprecia en la foto adjunta.[NO]
+
+  Esta demo, dispone de:
+   
+   - 2.50 MB de im genes en formato TGA 
+   - 73 KB de ejecutable
+
+  Los datos sobre sus creadores, son:
+
+  mAV\___ /\___ /\___ /\___ /\___ /\___ /\___[PC GRIS]
+   /____ /____ /____ /____ /____ /____ /__  /_
+    /  /__/  /  /  /  /  /__/  /__/ _/  /  __/
+   /  /__/  /  /  /  /  /__   _/_/  \__/  /__
+  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /.
+  ¯\__ /¯\__ /__/_ /¯\__ /¯\__ /_ /1oo¯\__ / |
+  ·­­\/­­­­\/­­­­\/­­­­\/­­­­\/­\/­­­­­­­\/­­·
+
+  Euskal 10 Invtro by Concept
+
+  WIN, oGL, TNT, pentium+
+
+  cod: LightMan, ago
+  gfx: leunaM/network, SPiTe
+  mzk: yERo
+
+    .-.-.-.-.-.-.-.-.-.
+
+  thanks to Maverick / 100percent
+  for the ascii :)
+
+  we are: ago, lightman, maestruu, spite, yero
+
+  reach us at
+  http://www.wearevastlysuperior.com
+
+    .-.-.-.-.-.-.-.-.-.
+
+    .-.-.-.-.-.-.-.-.-.
+
+  'We are vastly superior'
+
+
+  Pero en cualquier caso, desde mucho antes de la celebraci¢n de la party, se[PCT BLANCO IZQUIERDA]
+dispone de un minilibro en formato PDF, donde se expone todo lo referente a la
+Euskal X, al igual que sucedi¢ en su versi¢n 9. En ‚l, se explica lo que es la
+scene, cuanto tiempo lleva existiendo la Euskal Party, y dem s secciones, como
+comentarios acerca de sistemas alternativos a Windows, como BeOS y LINUX.[NO]
+
+
+
+
+
+Fast 2D[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues en esta secci¢n, quiz s las im genes m s
+destacadas, son las siguientes:
+
+   - Ha mutado de Newalpha/RGBA[PC GRIS]
+   - Fast de Interface
+
+  La verdad que tiene gracia, puesto que los que he elegido para mi gusto,[PCT BLANCO IZQUIERDA]
+realmente corresponden con los que son el n£mero 1 y el 2, en las puntuaciones
+del jurado de la EUSKAL.[NO]
+
+
+
+
+
+Fast 3D[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+   Pues en esta secci¢n, parece ser que el
+principal personaje es una foca:
+
+    - Fast foca de Tel‚maco
+    - Fokita Monje de Smeagol
+
+    Al igual que en  el caso anterior, los
+primeros  trabajos  clasificados , son los
+que m s me gustan.
+
+
+
+
+
+GFX 2D[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  En este apartado si  que  ha  estado  dif¡cil
+elegir cual es la mejor , ya  que realmente son
+todas un trabajo de gran calidad.
+
+  As¡ que he decidido poner un preview de fotos
+de los 6 primeros trabajos realizados.
+
+
+
+
+
+GFX 3D[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  En esta secci¢n , las  que  m s me han
+gustado, han sido:
+
+   - Rainy by Newalpha[GRIS]
+   - Acr¢polis de Atenas by Jiasaer
+
+  Que casualmente, han sido votadas como[BLANCO]
+el primero y el Quinto.
+
+
+
+
+
+
+Pixeling[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Quiz s una de las secciones m s interesantes
+en  la  demoscene , es el pixelado , junto las
+demos.
+
+  Y este a¤o, no iba a ser menos, por lo que
+aqu¡ os dejo, alg£n preview de pixelaci¢n.
+
+  Aunque los trabajos expuestos en esta party,
+son  realmente incre¡bles , sobre todo  si los
+comparamos con el FAST GFX 2D,o el GFX 2D,s¢lo
+he dejado los dos primeros que han sido m s votados, ya que sencillamente, son[IZQUIERDA]
+incre¡bles.[NO]
+
+  Es m s, estos trabajos, son de los que te encanta ponerlos como BACKGROUND[IZQUIERDA]
+(Fondo de pantalla) en tu Sistema Operativo preferido. Y en el mejor de los
+casos, imprimirlos en tu carpeta, o en la carcasa de tu equipo.[NO]
+
+
+
+
+
+Chiptunes[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues como nuestra diskmag, no posee todav¡a la posibilidad de poner archivos[IZQUIERDA]
+de sonido, pues tan s¢lo podr‚ exponer lo bien que he escuchado por mi cuenta
+los CHIPTUNES de esta Party.[NO]
+
+  En concreto, da gusto lo poco que ocupan, y aunque no son muy ca¤eros (salvo[IZQUIERDA]
+el n£mero 5), no desentonan en ning£n momento.[NO]
+
+  Quiz s uno de los que m s me ha gustado, ha sido el que ha quedado en el[IZQUIERDA]
+puesto n£mero 4 --> Simetr¡a de orden 8, que se trata de un MOD de tan s¢lo 8
+KB, que recuerda algo a la vieja escuela.[NO]
+
+  Aunque, tambi‚n agrada mucho el n£mero 5 --> TECHNOCHIP de tan s¢lo 5 KB y[IZQUIERDA]
+4 canales, que como imaginar‚is es TECHNO del bueno (me encanta el techno). Es
+incre¡ble lo que se puede hacer con s¢lo 5 KB (menos que un MIDI). La verdad
+que los que hacen trackers, a veces, son incre¡bles.[NO]
+
+
+
+
+Fast Music[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Al igual que el anterior apartado, no puedo poner previews de m£sica, pero[IZQUIERDA]
+comentar‚, que el que m s me han gustado son, los que han quedado en el puesto
+n£mero 2, 3 y 7. Pero claro, hay que destacar, que en esta secci¢n los m¢dulos
+ocupan mucho m s ( > 500 KB), pero lo bonito est  en que se hace dentro de la
+propia party, en el periodo que dura la misma.[NO]
+
+
+
+
+MOD[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues el puesto n£mero 1 est  bien y el n£mero 5 es bastante psicod‚lico.
+
+
+
+
+
+Intros de 4 KB[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  La intro 4Ksereje es una buena intro de 4 KB para WIN32. Va bastante fluida[IZQUIERDA]
+(al menos en mi equipo),y aunque no posea m£sica,tiene[NO]
+una gran variedad de  efectos visuales, sobre todo 3D,
+aunque  tambi‚n   hay  juegos  de  luces ,  fractales,
+bumpmapping, y dem s.
+
+  En cuanto a la demo scenewords,aunque es m s simple,
+hay que destacar  que est  hecha 100% ensamblador 8086
+para DOS , aunque funciona en WIN32. Por lo que es una
+demo mucha m s currada  en  el tema de la programaci¢n
+que la anterior.
+
+  Y en cuanto a la demo fuzzy dominoes, es muy bonita y art¡stica , as¡ como[IZQUIERDA]
+original. Se  encuentra hecha bajo WIN32 , y  he  tenido algunos problemillas
+a la hora de ejecutarla, ya que a veces se colgaba el equipo.[NO]
+
+
+
+
+Fast Code[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  En esta secci¢n, entramos en el famoso mundo
+de crear una demo, pero en el tiempo y  en  el
+lugar en donde transcurre la party.
+
+  Los que tienen el puerto número 2, 4 y 5, lo
+han hecho muy bien,y aqu¡ he dejado un preview
+de su  trabajo. De  hecho , el m s bonito , se
+podr¡a decir, que es el supuesto tracker visual que ha hecho el que ha quedado[IZQUIERDA]
+en el n£mero 5, ya que imita muy bien al FASTTRACKER.[NO]
+
+
+
+
+3D ANIMATION[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues en esta secci¢n est n unas cuantas animaciones 3D, que hay que destacar,[IZQUIERDA]
+que ocupan mucho, ya que en el servidor est n en formato AVI, y no ocupan menos
+de 4 MB. As¡ que para aquellos que no dispongan de una gran conexi¢n a
+INTERNET,  nimo.[NO]
+
+
+
+
+Demos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues en esta secci¢n, desgraciadamente, muy pocas demos me han tirado en mi[IZQUIERDA]
+equipo, salvo una que pedia MSDOS, y otras pocas que aunque ped¡an WIN32, no
+necesitaban aceleradora.[NO]
+
+  En concreto, las demos de PC, podr¡an pasar a llamarse GeFORCE Scene, en[IZQUIERDA]
+concreto GeFORCE II o III Scene. Y luego dicen que el PC no respeta la vieja
+escuela. Pero si ahora se vuelve a poner de moda la frase:[NO]
+
+   "NO GUS, NO PLAY"[PC GRIS]
+
+  Pero para video[PCT BLANCO]
+
+   "NO GeFORCE, NO PLAY"[PC GRIS]
+
+  Yo poseo una aceleradora, pero claro no es GeFORCE II, as¡ que he tenido que[PCT BLANCO IZQUIERDA]
+irme al ordenata de my sister, para poder ver estas demos, pensando que con los
+requerimientos de RAM (128 MB), de equipo (Athlon a 1 Ghz) y aceleradora
+(GeFORCE II y III) que ped¡an estas demos, iban a ser impresionantes y tirar
+de muerte en su ordenador (que superaba con creces los requerimientos m¡nimos).[NO]
+
+  Pero no todo lo que reluce es oro, y no es por desanimar, pero es que tirando[IZQUIERDA]
+de EMULADOR, y emulando a un AMIGA 1200, he visto cosas much¡simo m s fuertes
+y fluidas, que estas demos. Que conste, que esto es una cr¡tica constructiva.[NO]
+
+
+
+
+CONCLUSION[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues esta party, es una de la m s conocidas, en Espa¤a, pero no una de las
+m s impresionantes en cuanto a calidad SCENER.
+  Sin embargo, este a¤o, se puede decir, que la scene sigue viva.
+  Aunque como dije, en el tema de demos PC, creo que lleva muerta desde que
+los programadores nos hemos puesto a realizar cosas para aceleradora y WIN32.
+Pero como no todo es para siempre:
+
+  NVIDIA morir  y Microsoft tambi‚n.[PC GRIS]
+
+  Fusi¢n es posible.
+  Microsoft comienza a endeudar
+  Microsoft es comprado por APPLE
+  APPLE es comprado por PALM
+  PALM es metida en un manicomio por dedicarse a comprar BASURA 8-D)))

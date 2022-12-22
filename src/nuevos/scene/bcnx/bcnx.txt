@@ -1,0 +1,352 @@
+[FOTOS 5]
+FOTO_SCENE_BCNX_1 PALETA_SCENE_BCNX_1 47 159
+FOTO_SCENE_BCNX_2 PALETA_SCENE_BCNX_2 47 179
+FOTO_SCENE_BCNX_3 PALETA_SCENE_BCNX_3 47 203
+FOTO_SCENE_BCNX_4 PALETA_SCENE_BCNX_4 47 289
+FOTO_SCENE_BCNX_5 PALETA_SCENE_BCNX_5 47 315
+BCN PARTY 10[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Pues otro a¤o m s, se ha reunido en Barcelona a la demoscene, con gran[IZQUIERDA]
+asistencia scener.[NO]
+
+  Aqu¡ se da uni¢n a la vieja escuela con la nueva, ya que se permite la[IZQUIERDA]
+competici¢n de los m¢dulos de sonido SID de C64, as¡ como demos para PC.[NO]
+
+  Gracias a la INTERNES, en concreto al servicio FTP del TCP-IP, he podido[IZQUIERDA]
+descargarme una gran cantidad de material scener de esta party, a trav‚s del
+siguiente sitio:[NO]
+
+           bcnparty.org[CHAR14B VERDEFOSFORITO]
+
+  Para entrar, v¡a FTP, ya sab‚is:[PCT BLANCO]
+
+           ftp bcnparty.org[CHAR14B VERDEFOSFORITO]
+
+  Y como usuario probad como[PCT BLANCO] "anonimous"[AMARILLO]
+
+  He de destacar, que no he estado en dicha PARTY, es decir, me he limitado a[BLANCO IZQUIERDA]
+descargar estas demos y a probarlas.[NO]
+
+
+
+
+
+Resultados[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Los resultados de dicha party, son:
+
+  ///////////////////////////////////[PC GRIS]
+  bcnparty'10 results| 1 2 3 november
+  ///////////////////////////////////
+
+
+  / fast code ///////////////////////[BLANCO]
+
+  1.Isaac2                          3[GRIS]
+  2.Napalm                          1
+
+  / fast gfx ////////////////////////[BLANCO]
+
+  1.shock                          10[GRIS]
+  2.newalpha                        2
+  3.bulbain                         1
+  3.madgoblin                       1
+  3.dardevil                        1
+  3.doup                            1
+
+  / fast music //////////////////////[BLANCO]
+
+  1.dj ramon & dj david             8[GRIS]
+  2.tolemac                         2
+  3.wizard                          1
+  3.Yero                            1
+  3.Acidbeat                        1
+
+  / gfx 2d //////////////////////////[BLANCO]
+
+  1.inmaculada concepcion _ shock  74[GRIS]
+  2.japan _ yero                   52
+  3.skale, the dog _ yakare        45
+  4.sexy ice & the punox _ jull    42
+  5.bruja _ bulbain                29
+  6.la moza de la pila _ piedachu  11
+  7.sweet girl _ ayame             10
+  8.puerta _ gilka                  8
+  9.trying _ dardebil               7
+
+  / gfx 3d //////////////////////////[BLANCO]
+
+  1.ardilla _ onesk8man            32[GRIS]
+  2.sorböse _ jull                 30
+  3.marta _ harold                 26
+  4.h.l.c _ madgoblin              23
+  5.fabrica _ octal                14
+
+  / sid /////////////////////////////[BLANCO]
+
+  1.n340 blues _ finnr              1[GRIS]
+
+  / chiptune ////////////////////////[BLANCO]
+
+  1.yepppa _ josss & wizard        38[GRIS]
+  2.sticki _ yero                  35
+  3.tututu chimpum _ sole          20
+  4.fastsine _ finnr               18
+
+  / multichannel ////////////////////[BLANCO]
+
+  1.soul abductor _ smash          34[GRIS]
+  2.Close to you _ wizard          32
+  3.chupabubba _ finnr             25
+  4.massa feina _ sole             20
+  5.lililo _ lililo                14
+
+  / high quality ////////////////////[BLANCO]
+
+  1.moobdeema _ armidas            63[GRIS]
+  2.legion of death _ smash!       52
+  3.ozone friendly _ nork          35
+  4.progressions _ dextrose        26
+  5.el futuro _ yero               22
+  5.deadlines _ amb                22
+  6.rol _ ps                       18
+  7.world of joy _ dr.pitch        17
+  8.The legend of darkness _ xika  15
+  8.you don't know how.. _ sole    15
+  9.zero _ luissk8                  5
+
+  / wild ////////////////////////////[BLANCO]
+
+  Rarezas01 _ asnah                24[GRIS]
+  Spinup studios                   20
+  Sodom _ fuzzion                  18
+
+  / intro4k /////////////////////////[BLANCO]
+
+  blursux _ fuzzion                 1[GRIS]
+
+  / intro64k ////////////////////////[BLANCO]
+
+  1.paradise is coming _ rgba      42[GRIS]
+  2.here 2 stay _ collapse         26
+  3.ghoulstyle _ tlotb             26
+  4.a.b.r.i.l _ necrostudios       17
+  5.cod'hor'ror _ zonan            14
+
+  / demos ///////////////////////////[BLANCO]
+
+  1.petroleo _ boah                73[GRIS]
+  2.the flowjob _ hansa            52
+  3.inferno _ spontz               33
+  4.groove it _ concept            31
+  5.plastic _ tlotb                23
+  6.duetone _ dxm                  23
+  7.uno _ amb                      16
+  8.mg/r _ tpolm                    5
+  9.be::q _ necrostudios            4
+
+  ///////////////////////////////////
+  www.bcnparty.org  info@bcnparty.org
+  ///////////////////////////////////
+
+
+
+
+FAST GFX[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues hay que destacar, que en esta secci¢n, hay unos grandes trabajos, pero[IZQUIERDA]
+realmente, s¢lo me han llamado mucho la atenci¢n, dos de ellos:[NO]
+
+  - ender_fast2d_shock[PC GRIS]
+  - newalpha_fast2d
+
+  El resto,es tambi‚n bueno,pero quiz s no sea[PCT BLANCO]
+tan impactante, como el de estas dos personas.
+De hecho, el  primero  de  ellos , ha  quedado
+clasificado como el Primero en el jurado de la
+PARTY.
+
+  Hay que puntualizar, que esta secci¢n, es la
+de FAST GFX, es decir, que los concursantes tienen que hacer el dibujo dentro[IZQUIERDA]
+del periodo de la PARTY, y el tema era de un beb‚.[NO]
+
+
+
+
+GFX 2D[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  La  verdad  que  aqu¡  si  que  debi¢ de ser
+dif¡cil    realizar   la   elecci¢n   de   los
+clasificados , ya  que los trabajos entregados
+han  sido  todos ellos de una gran calidad , y
+muy originales.
+
+  Por eso,he decidido poner un preview de casi
+todos ellos.
+
+  Hay que destacar el trabajo de YAKARE,que es
+un perro con guitarra el‚ctrica.Esta foto est 
+puesta  en el  inicio  del  programa de m£sica
+(TRACKER) de SKALE. Para aquellos que no sepan
+que es, se podr¡a decir que es la continuaci¢n
+del FASTTRACKER II, pero totalmente en WIN32, y sin ser el mismo creador.
+
+  Si quer‚is conseguir esta maravilla, pod‚is descargarla desde el mismo FTP de[IZQUIERDA]
+la BCN PARTY. Me parece que estaba en alg£n directorio PUB o PUBLIC.[NO]
+
+
+
+
+
+
+GFX 3D[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Aqu¡ pasa algo similar a la secci¢n anterior
+, ya  que  los  trabajos  son  muy  bonitos  y
+originales, sobre todo el de la ardilla.
+
+
+  As¡  que  he  decidido  poner casi todos los
+trabajos , para que as¡ se is  participes  del
+gran trabajo que han hecho los grafistas 3D en
+esta PARTY.
+
+
+
+
+
+
+Musica[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues en esta secci¢n entrar¡an:
+
+   MODS y CHIPTUNES.[PC GRIS]
+
+  Pero recientemente, se han incorporado los MP3's. Y tambi‚n tenemos los SID's[PCT BLANCO IZQUIERDA]
+de C64. Si queremos escuchar estos m¢dulos de C64, podremos tirar de una
+herramienta llamada SIDPLAY2W, la cual funciona bajo WIN32, y nos permite
+reproducir los archivos de sonido SID del C64, en nuestro querido PC. Ya se que
+no es lo mismo, pero "a falta de pan, vino".[NO]
+
+  El SID que se present¢, fue realizado por el grupo LEVEL64, y hay que[IZQUIERDA]
+destacar que es muy divertido escucharlo.[NO]
+
+  En cuanto a los CHIPTUNES, a parte de lo poco que ocupan, hay que destacar[IZQUIERDA]
+su gran acabado, ya que parecen perfectos para poner en un DISKMAG, como puede
+ser en la HUGI o el PAIN.[NO]
+
+  Tambi‚n se ha realizado una FASTMUSIC, y hay que destacar que est n muy bien,[IZQUIERDA]
+ya que casi todas son techno y marchosas, pero quiz s la m s mel¢dica sea la
+ab_shit_ok.it.[NO]
+
+  En cuanto a los MP3's, hay que destacar que tienen una mayor calidad que los
+MOD's simples, pero ocupan much¡simo m s que un MOD. Pero personalmente no he
+encontrado ninguno que me haya gustado mucho.[NO]
+
+
+
+
+FASTCODE[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  En esta secci¢n entran las demos que hay que hacer dentro de la propia[IZQUIERDA]
+PARTY. Por tanto, requieren una mayor complejidad, ya que est n limitadas en
+el tiempo, pero no en las herramientas a utilizar.[NO]
+
+  Hay que destacar que no son demos de gran calidad, ya que realmente, s¢lo[IZQUIERDA]
+muestran un bitmap como mucho, excepto la BCNPARTYFAST, que ya es una especie
+de demo grande (3 MB).[NO]
+
+
+
+
+
+Intros 4K[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Hay que reconocer, que aunque han sido pocas las presentadas, son de gran[IZQUIERDA]
+calidad. De hecho la FZN_BLURSUX es una pura INTRO de 64 KB metida en una de
+4 KB,con m£sica y todo, pero eso si en WIN32.[NO]
+
+
+
+
+
+
+Intros 64 K[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  En esta secci¢n se han presentado muchas m s
+intros que en la de 4 KB.
+
+
+  Quiz s  una  bastante  graciosa ,  es  la de
+cod'ho'ror, ya que es de lo m s simple posible
+, ya que se ha hecho con BASIC , tirando de un
+compilador.
+
+
+  Pero para intro bonita,la de H2S, que aunque
+es para WINDOWS, est  muy bien acabada,y posee
+mucho color, as¡ como que va bastante fluida (al menos para mi equipo).
+
+  Todas las dem s demos, piden muchos m s recursos, y se me cuelgan, ya que[IZQUIERDA]
+est n realizadas en OPENGL, por lo que se vuelve a poner de moda la frase:[NO]
+
+   "NO GeFORCE no PLAY".[AMARILLO]
+
+
+
+
+
+
+
+Demos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues  aqu¡  llega la secci¢n m s  dif¡cil de
+probar , ya  que casi todas las demos , aunque
+usan OpenGL , al final  por debajo se llama al
+GeFORCE Power , por  lo que he tenido que ir a
+probar algunas de ellas , en el ordenata de my
+sister.
+
+
+  La demo de Anaconda_notitle, es muy graciosa
+,sobre todo el baile de Macarena.
+
+
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues hasta aqu¡ ha llegado la peque¤a exposici¢n de lo que he encontrado en[IZQUIERDA]
+el servidor FTP de la BCNPARTY 10. Hay que reconocer que se ha trabajado mucho,
+y los trabajos finales son de gran calidad. Sin embargo, se hecha de menos, que
+no haya m s secciones de demos para descargar de la vieja escuela, como:[NO]
+
+   ATARI, AMIGA, CPC, GB, etc...[AMARILLO]
+
+  Pero al menos, hay m¢dulos SID de C64.[BLANCO]
