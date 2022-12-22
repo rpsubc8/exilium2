@@ -1,0 +1,124 @@
+[FOTOS 2]
+FOTO_ATARI_DEMOS_1 PALETA_ATARI_DEMOS_1 47 34
+FOTO_ATARI_DEMOS_2 PALETA_ATARI_DEMOS_2 47 76
+Demos en ATARI ST[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+  Pues, ahora mismo vamos a ver alguna que otra demo para este ordenador, del[IZQUIERDA]
+cual existe un gran ambiente scener.[NO]
+
+
+  Por cierto, se me olvid¢ decir, que mi primer ordenador, lo tuve en 1985, y[IZQUIERDA]
+se trataba de una consola, la ATARI TV 2000 (mucho antes de que apareciese
+NINTENDO). Luego vino un ordenata SINCLAIR, y m s tarde en el 1987, mi
+maravilloso AMSTRAD 1512-DD (8086-2). Y la verdad, no comprend¡a como si los
+PC's de 16 bits eran tan poderosos, no eran capaces de ser tan r pidos como la
+ATARI de 8 bits, ni pod¡a mostrar la pantalla a color como la ATARI. Pero
+claro, en aquel entonces, yo ten¡a 6 ¢ 7 a¤itos.[NO]
+
+
+  He de destacar, para aquellos que sean sceners radicalistas moderados de[IZQUIERDA]
+ATARI, que no poseo este equipo (por ahora), por lo que he tenido que tirar de
+emulata, en concreto del Steem.[NO]
+
+
+
+
+
+Fading Twilight[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Se trata de una Intro de Atari, cuyos requerimientos hardware, son los[IZQUIERDA]
+siguientes:[NO]
+
+     Ordenador ATARI (STF/E/FALCON/1MB de RAM)[CHAR14B VERDEFOSFOSFORITO]
+
+  Sus creadores, son:[PCT BLANCO]
+
+   coder -->[PC AMARILLO] Ray / tSCc[BLANCO]
+             Llama / tSCc
+             Dynacore / tSCc
+   T¡tulos de pantalla -->[AMARILLO] Graf / Luzak Team[BLANCO]
+   Gr ficos -->[AMARILLO] Moondog / tSCc[BLANCO]
+   M£sica -->[AMARILLO] MC Laser / tSCc[BLANCO]
+
+
+  Esta intro se distribuye como un archivo FT-INTRO.PRG, el cual ocupa 96 KB.[PCT]
+
+  Contiene una serie de im genes muy bonitas y de gran calidad, as¡ como[IZQUIERDA]
+numerosos efectos visuales, como efecto WAVE, giros y transformaciones 2D de
+im genes, as¡ como un efecto TUNEL sobre la imagen de una chica, que al poner
+en escala de azules, gana mucha calidad, evitando los defectos de usar paletas
+no adecuadas de color.[NO]
+
+
+  Tambi‚n hay un cubo 3D con rellenado y luz, as¡ como un suelo 3D.
+
+  Y por supuesto, la m£sica esta muy bien con respecto al movimiento de la[IZQUIERDA]
+intro (es pegadiza). Es una pena que no podamos meter la melod¡a en esta
+revista para que as¡ la escuchaseis, aunque ya inventar‚ algo. No obstante, en
+los BONUS de esta diskmag intentaremos meter esta INTRO.[NO]
+
+  En definitiva, una gran intro de peque¤o tama¤o y de gran calidad, as¡ como[IZQUIERDA]
+pocos requerimientos y gran fluidez. Espero que los PC'ros (entre los que me
+incluyo) cojamos nota de esta demo.[NO]
+
+
+
+
+
+Apocalipsis Now[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Esta demo, vio la luz el 21 de Agosto del a¤o 2000.
+
+  Sus requerimientos hardware son:
+
+       ATARI ST(E), 1 MB de RAM (no compatible con ATARI FALCON).[CHAR14B VERDEFOSFORITO]
+
+  Sus creadores son:[PCT BLANCO]
+
+   Gfa coder e ideas:[PC AMARILLO] Thyrex / LOud![BLANCO]
+   Gfx y designer:[AMARILLO] STsurvivor / LOud![BLANCO]
+   Msx:[AMARILLO] Mc Laser / tSCc[BLANCO]
+   Fuentes de gratificaci¢n:[AMARILLO] TiNKer / Teenage[BLANCO]
+   Convertidor de sonido:[AMARILLO] Evil / DHS[BLANCO]
+
+  Consta de 470 KB, m s 28 KB de BONUS.[PCT]
+
+
+  Es una gran demo, que al principio muestra una serie de logos e im genes muy[IZQUIERDA]
+bien pixeladas, que a su vez contiene una serie de poemas.[NO]
+
+
+  Despu‚s comienza a realizar una serie de TUNELES con figuras triangulares,[IZQUIERDA]
+mostrando otra serie de im genes de gran calidad ATARI. Tambi‚n hay un
+movimiento LISSAJOUS de SPRITE, as¡ como numerosas im genes de claro contenido
+SATANICO o vamp¡rico (8-D))), y mostrando varios cubos en 3D con textura del
+logotipo de ATARI.[NO]
+
+  La m£sica est  bien, ya que no desentona en absoluto con la demo.
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues hasta aqu¡ ha llegado la exposici¢n de demos de ATARI. Ya se que no son[IZQUIERDA]
+las demos m s impresionantes, pero tampoco son las peores. Esto s¢lo es un
+preview de algunas maravillas que se pueden hacer con un ordenador ATARI.[NO]
+
+
+  Poseo muchas m s demos, pero las iremos viendo a lo largo de los pr¢ximos[IZQUIERDA]
+n£meros de nuestra diskmag EXILIUM.[NO]
+
+
+  As¡ que hasta el pr¢ximo n£mero.
