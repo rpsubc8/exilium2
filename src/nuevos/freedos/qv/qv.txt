@@ -1,0 +1,393 @@
+[FOTOS 1]
+FOTO_QVDOS_1 PALETA_QVDOS_1 48 2
+                  Quick View Pro[AZULCLARO GRANDE NO]
+[PCT BLANCO]
+
+
+
+  Pues de la mano de un alem n,tenemos el visor
+QV, cuyo nombre de programa  completo es  Quick
+View Pro.
+
+
+  Su  creador , Wolfgang  Hesseler ha trabajado
+mucho en  este proyecto , que comenz¢ siendo un
+visor de im genes  y videos simples bajo DOS en
+modo real para [BLANCO]8086[AMARILLO],para terminar pasando desde[BLANCO]
+hace tiempo a un visor de 32 bits bajo DOS, que
+permite incluso ver pel¡culas [BLANCO]DIVX[AMARILLO].[BLANCO]
+
+
+  Su £ltima versi¢n es la 2.50, y entre las mejoras m s destacables, se[IZQUIERDA]
+encuentran la posibilidad de ver pel¡culas en formato DIVX con optimizaci¢n MMX
+y con decodificaci¢n m s r pida, as¡ como la posibilidad de coger subt¡tulos.[NO]
+
+
+  Este programa se distribuye bajo licencia SHAREWARE, as¡ que si no nos[IZQUIERDA]
+registramos, nos saldr  de vez en cuando el mensaje de Quick View, o al salir
+del propio programa, nos pedir  que esperemos un momento. Sin embargo, desde
+hace tiempo existen unos cuantos cracks por INTERNET, que para bien o para mal
+nos permiten solucionar esto.[NO]
+
+
+  þ Esta utilidad nos permite reproducir los siguientes formatos de video:[AMARILLO]
+
+    - .AVI, Sonido con formato PCM, Microsoft ADPCM, IMA ADPCM, A-law, u-law[PC GRIS]
+    - .DIV: GSM 6.10 y Audio MPEG incl. MP3.
+    - .MOV: Sonido con formato "raw", "twos", A-law, u-law, IMA ADPCM o GSM 6.10.
+
+    Codecs soportados para video AVI y MOV:
+     - Angel Potion 4 versi¢n definitiva 1 [[AP41] (24 bit)
+     - Cinepak [[cvid] (8 y 24 bit)
+     - CLJR [[cljr] (24 bit)
+     - Creative Video Blaster [[cyuv] (16 bit)
+     - DIB (4, 8, 16, 24 y32 bit)
+     - DivX ;-) Low Motion [[div3] (24 bit)
+     - DivX ;-) Fast Motion [[div4] (24 bit)
+     - DivX 4 [[divx] (24 bit)
+     - DivX 5 [[dx50] (24 bit)
+     - H.263 [[H263] (24 bit)
+     - I420 (24 bit)
+     - Indeo(tm) 3.1, 3.2 y 5 [[IV31, IV32 y IV50] (24 bit)
+     - Intel I263 H.263 [[I263] (24 bit)
+     - IYUV (24 bit)
+     - Microsoft H.263 [[M263] (24 bit)
+     - Microsoft MPEG-4 Version 1 [[MPG4] (24 bit)
+     - Microsoft MPEG-4 Version 2 [[MP42] (24 bit)
+     - Microsoft MPEG 4 Version 3 [[MP43] (24 bit)
+     - Motion JPEG [[MJPG] (24 bit)
+     - MS Video 1 [[msvc] (8 y 16 bit)
+     - QPEG [[QPEG] (V1.0 y 1.1, 8 bit)
+     - Rainbow Runner [[dmb1] (24 bit)
+     - RLE (8 bit)
+     - Ultimotion (OS/2 AVIs) [[ULTI] (16 bit)
+     - V422 (24 bit)
+     - VYUY (24 bit)
+     - Xirlink H.263 Video Codec [[X263] (24 bit)
+     - Y41P (24 bit)
+     - YV12 (24 bit)
+     - YUY2 (24 bit)
+     - YVU9 (24 bit)
+     - QuickTime codecs:
+       - Animation [[rle] (1, 4, 8, 16 y 24 bit)
+       - BMP [[WRLE] (4, 8 y 24 bit)
+       - Component [[YUV2] (24 bit)
+       - Graphics [[smc] (8 bit)
+       - JPEG [[jpeg] (24 bit)
+       - Motion JPEG A [[MJPA] (24 bit)
+       - None [[raw] (4, 8, 24 y 32 bit)
+       - Planar RGB [[8BPS] (grayscale, 8, 24 y 32 bit)
+       - Sorenson v1 [[SVQ1] (24 bit)
+       - Video [[rpza] (16 bit, s¢lo HiColor Playback)
+
+     - .DL: Versiones 1,2 y parcialmente la 3
+
+     - .CEL (Ficheros de animaci¢n origianels CEL)
+       .FLC
+       .FLI
+
+     - .GIF animaciones
+
+     - .MPG, .M1V, .MPE, .MPV y .DAT: MPEG 1
+        DAT Son ficheros de video VideoCD, que son normalmente llamados
+        AVSEQ01.DAT.
+
+     - VideoCDs y CD-i (parcialmente) son soportados usando el comando -VCD.
+
+
+
+  þ Para los formatos gr ficos:[PCT AMARILLO]
+
+    - .BMP: descomprimido: 1, 4, 8, 16 y 24 bits de color[PC GRIS]
+            RLE comprimido: 4 y 8 bits de color
+            incluyendo bitmaps OS/2
+            furthermore all kindred formats:
+            .RLE, .DIB, .BGA, .VGA, .RLE, .RL4, .RL8
+
+    - .GIF: 1-8 bits de color
+            GIF 87a y GIF 89a
+
+    - .JPG, Baseline y Progressive JPEG, con escala de grises, YCrCb o RGB
+            color
+      .JIF, space
+      .JPE:
+
+    - .PCX: 1-4, 8 y 24 bits de color
+
+    - .TGA: descomprimido: 8, 15, 16 y 24 bits de color, blanco y negro
+            RLE comprimido: 8, 15, 16 y 24 bits de color, blanco y negro
+
+
+
+  þ Para los de sonido:[PCT BLANCO]
+
+    - .MP1, Audio MPEG 1.0/2.0/2.5, Layer 1,2 y 3[PC GRIS]
+      .MP2
+      .MP3
+
+    - .VOC
+
+    - .WAV: Codecs de audio soportados:
+            - PCM
+            - Microsoft ADPCM
+            - IMA ADPCM
+            - Creative Labs ADPCM
+            - A-law
+            - u-law
+            - GSM 6.10
+            - MPEG Audio
+            
+
+
+
+
+Requerimientos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues los requisitos de cara al mundo PC, no son muy elevados:
+
+
+   CPU -->[PC AMARILLO] 80386[BLANCO]
+   S.O. -->[AMARILLO] DOS 3.0[BLANCO]
+   Memoria -->[AMARILLO] Lo desconozco, pero con 8 MB funciona.[BLANCO]
+   Tarjeta de Sonido -->[AMARILLO] SB, GUS[BLANCO]
+
+
+  Funciona tambi‚n en ventana DOS de Windows. Pero eso s¡, hay que tener en[PCT BLANCO IZQUIERDA]
+cuenta, que si disponemos del driver gr fico VESA 2.0 (o superior) bajo DOS,
+nos har  un uso m s eficaz de los recursos hardware gr ficos, lo que se
+traduce, en una mayor fluidez a la hora de ver los videos.[NO]
+
+
+  Si por alg£n motivo nos hemos descargado la versi¢n del QV de 16 bits,[IZQUIERDA]
+veremos que se pueden reproducir los videos y los archivos de sonido por el
+altavoz interno del PC, que aunque no es muy agradable, si es £til, sino
+poseemos una tarjeta de sonido.[NO]
+
+
+
+
+Interface[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues el interface es muy agradabla y sencillo, aunque se trate de un modo[IZQUIERDA]
+texto, como dir¡a alguno que me se yo.[NO]
+
+
+  Para cargar alg£n archivo de sonido, imagen o video, tan s¢lo hemos de[IZQUIERDA]
+movernos con los cursores del teclado y dar a la opci¢n ENTER de aceptar. Si
+queremos cambiar de unidad, debemos de pulsar las teclas ALT + D, y a
+continuaci¢n la letra de la unidad a navegar.[NO]
+
+
+  Para cambiar alguna opci¢n b sica de video y sonido, podemos pulsar la tecla[IZQUIERDA]
+ALT + O (opciones), que nos sacar  un men£ en el que podemos usar:[NO]
+
+
+   - Modo texto de inicio del QV en 50 l¡neas.[PC GRIS]
+   - Uso de driver gr fico VESA al inicio del QV.
+   - Soporte del modo de video 1280 x 1024 pixels.
+   - Uso del modo de video 320 x 240 o 320 x 200 pixels, de forma instant nea.
+   - Mostrar las im genes en pantalla completa.
+   - Profundidad de color a 8, 16 o 24 bits, as¡ como escala de grises. 
+   - Escalar imagen por software, hardware.
+   - Usar buffer de prelectura del sonido
+
+
+  A su vez, si queremos cambiar la resoluci¢n de la pantalla, cuando mostremos[PCT BLANCO IZQUIERDA]
+una imagen o un video, podemos pulsar las teclas + y - para cambiar la
+resoluci¢n.[NO]
+
+
+
+
+Opciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Si por alg£n motivo, no queremos usar el men£ interactivo, sino que somos de[IZQUIERDA]
+los que nos gusta usar la l¡nea de comandos para lanzar el archivo de m£sica o
+el de sonido, pues os dir‚ las opciones m s b sicas:[NO]
+
+   -Rx Selecciona la resoluci¢n de video:[PC GRIS]
+       x=1: 320x200
+       x=2: 640x480
+       x=3: 800x600
+       x=4: 1024x768
+
+   -Wa,b,c,d,e Par metros de la tarjeta de sonido
+               a: tipo de tarjeta:
+                  a=0: no hay tarjeta de sonido
+                  a=1: Sound Blaster o compatible y ESS
+                  a=2: Gravis UltraSound Classic o Max
+                  a=3: Sistema de sonido Windows
+                  a=4: enforce Sound Blaster Pro use 
+                  a=5: encorce Sound Blaster 2.0 use
+               b: direcci¢n hexadecimal del puerto
+               c: IRQ
+               d: DMA (Sound Blaster 16 o superior: Low DMA channel)
+               e: high DMA channel (Sound Blaster 16 o superior)
+     
+   -Ox Pone el volumen de audio (x entre 0 y 15).
+
+   -A  No reproduce el sonido con videos.
+
+   -P  Prelectura y descompresi¢n del sonido de los videos AVI o MOV.
+
+   -Qx calidad de video:
+       x=0: TrueColor
+       x=1: HiColor
+       x=2: 256 colores
+       x=3: Grayscale
+
+   -Kx Tipo de escalado de video:
+       x=0: no esscalado
+       x=1: 2x
+       x=2: 2x con scanline
+       x=3: Pantalla completa con escalado
+       x=4: Escalado por hardware
+
+   -MMX  no usa las MMX para reproducir video.
+
+    -UCx   Selecciona los caracteres de los subt¡tulos:
+           x=0: Western
+           x=1: Eastern
+
+    -SUBx  Selecciona subt¡tulos del fichero AVI.
+
+
+  Y muchas m s opciones, que para ello deber‚is de mirar el archivo QV.TXT del[PCT BLANCO IZQUIERDA]
+autor.[NO]
+
+
+
+ Por ejemplo:
+
+   Qv -W1,220,5,1 musica.mp3[AMARILLO]
+
+
+ Reproducir¡a el archivo musica.mp3 con tarjeta de sonido Sound Blaster con el[BLANCO IZQUIERDA]
+puerto 220h, IRQ 5, DMA 1[NO]
+
+
+
+
+Consejos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  No tener la casilla de prelectura de sonido activa, a la hora de reproducir[IZQUIERDA]
+videos, ya que se pondr  a meter en RAM todo el video, y como sea muy grande,
+y teng is poca RAM, probablemente se quede casi colgado. As¡ que s¢lo tened
+esta opci¢n activa para videos de poco tama¤o con respecto a vuestra RAM, o
+para el audio.[NO]
+
+
+  Aunque se pueden ver videos DIVX en un 80386 o un 80486, la velocidad es muy[IZQUIERDA]
+pero que muy baja, si se trata de un equipo sin ning£n a¤adido, as¡ que si
+quer‚is ver videos DIVX en color en tiempo real, deber‚is probar con lo
+siguiente:[NO]
+
+
+  DIVX FAST 4.0 352 x 240 pixels (calidad video)[PC GRIS]
+  ----------------------------------------------
+
+   CPU:[AMARILLO] Pentium 90 Mhz[GRIS]
+   Video:[AMARILLO] VESA 2.0, con tarjeta PCI[GRIS]
+   RAM:[AMARILLO] 24 MB[GRIS]
+   Unidad:[AMARILLO] Pel¡cula copiada a disco duro[GRIS]
+   Sonido:[AMARILLO] Tarjeta SB con DMA[GRIS]
+
+
+  DIVX 5.0 PRO resoluci¢n DVD (calidad DVD)
+  ------------------------------------------
+
+   CPU:[AMARILLO] Pentium 250 MMX[GRIS]
+   RAM:[AMARILLO] 32 MB[GRIS]
+   Video:[AMARILLO] VESA 3.0, S3 VIRGE DX (2 MB) PCI.[GRIS]
+   Unidad:[AMARILLO] Pelicula copiada a disco duro[GRIS]
+   Sonido:[AMARILLO] Tarjeta SB 16 con DMA[GRIS]
+
+
+  Si por alg£n motivo, alguna pel¡cula os da tirones, siempre pod‚is probar a[PCT BLANCO IZQUIERDA]
+quitarle el audio, o a bajarle la precisi¢n del color, dej ndolo en 16 bits o
+8 bits. En escala de grises, seguro que os ir  bien.[NO]
+
+  Pero hay que destacar, que no todos los formatos de video, permiten cambiar[IZQUIERDA]
+estos par metros, ya que trabajan a una profundidad de color fija.[NO]
+
+
+  Y si quer‚is sonido, deber‚is probar con la opci¢n, para ahorrar CPU:
+
+   -w4 o -w5, que activa la Sound Blaster Pro (8 bit estereo con frecuencia de[PC GRIS IZQUIERDA]
+    muestreo a 22050 Hz) o Sound Blaster 2.0 (8 bit mono con 22050 Hz)
+    compatible.[NO]
+
+
+  Y por supuesto, a ser posible, tended el driver VESA 2.0 o 3.0 activo. El[PCT BLANCO IZQUIERDA]
+driver 1.2, no servir  de gran cosa, ya que la ventaja del 2.0 es que permite
+poseer un descriptor en modo protegido para luego usar un selector que nos
+permite acceder a la memoria RAM de nuestra tarjeta de forma lineal (FRAME
+BUFFER LINEAL), sin falta de pasar bloques de 64 KB en modo real, o usar
+bancos. Y el driver 3.0 nos permite alg¡n que otro volcado de video con
+aceleraci¢n hardware.[NO]
+
+
+  En el caso de pel¡culas MPEG con calidad video (352 x 240), la cosa cambia,[IZQUIERDA]
+ya que con un 80486 y una tarjeta de video S3 LOCAL BUS, ya podr‚is ver la
+pel¡cula perfectamente en tiempo real. La £nica pega, es que necesitar‚is de
+al menos 2 CD's.[NO]
+
+
+  Y siempre que pod is, no seleccion‚is el Escalado, ya que consume m s CPU,[IZQUIERDA]
+sobre todo si ten‚is Escalado en pantalla completa por software.[NO]
+
+  Para el caso de las im genes, los requisitos son mucho m s inferiores, aunque[IZQUIERDA]
+se trate de archivos JPG, y para el sonido, si se trata de MP3, deberemos
+disponer de al menos un 80486 a 60 Mhz con 8 MB de RAM.[NO]
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues aqu¡ acaba esta especie de explicaci¢n (traducci¢n al espa¤ol) y[IZQUIERDA]
+recorrido por este gran programa, que nos puede permitir no s¢lo ver im genes
+(porno 8-D)) de forma r pida, sino que podemos reproducir archivos de sonido,
+MP3, WAV, y por supuesto, ver pel¡culas video CD, MOV, y tan recientemente
+extendidas (pirater¡a 8-D)) DIVX.[NO]
+
+
+  As¡ que si ten‚is ganas, haced una DOSBOX, en la que pod‚is dejarla s¢lo[IZQUIERDA]
+para reproducir videos, o canciones.[NO]
+
+  Imaginaos por un momento, que hab‚is conseguido una pel¡cula DIVX, y ten‚is[IZQUIERDA]
+pensado verla esa misma noche. Pues seguid imaginando, que ya hab‚is preparado
+vuestro equipo para verla, e incluso las palomitas, bebida, los aperitivos e
+incluso el sofa para llevar a la churri. Y de repente, CRASHHH!! Pantallazo
+AZUL y Registro del sistema que desaparece para siempre, que impide arrancar
+el sistema. Y claro, ya se ha armado, porque ya ten‚is las palomitas
+preparadas, y claro no hay marcha atr s. Y mir is el reloj, y veis que son las
+12:00 de la noche. Y claro el Sistema hay que volver a instalarlo, y eso lleva
+al menos 30 minutos, m s meter los codecs DIVX, y si todo sale bien. En ese
+momento seguro que era mejor tener un reproductor de DVD dom‚stico y haber
+pillado el dichoso DVD.[NO]
+
+
+  Pero claro, ¨qu‚ suceder¡a si tenemos un disco de arranque del FreeDOS,[IZQUIERDA]
+OpenDOS, DrDOS o el MSDOS) con el driver VESA, las caches de disco activas y
+por si acaso el driver de sonido, junto al QV y la peli en CD. Pues claro,
+copi is la pel¡cula al disco duro (para que no de tirones) y terminado, a ver
+la pel¡cula, y todo en s¢lo 25 segundos (lo que tarda en arrancar el S.O. desde
+disco de 3 1/2) o en 5 segundos (desde disco duro).[NO]
+
+
+  Pero bueno, si sois de los que ador is al GAFOTAS, pues os quedareis sin[IZQUIERDA]
+palomitas. A por cierto, a los de LINUX, FreeBSD, OpenBSD, QNX, o incluso a
+los de BeOS, este problema tan bien les afecta, porque nos guste o no, son
+sistemas FATWARE.[NO]

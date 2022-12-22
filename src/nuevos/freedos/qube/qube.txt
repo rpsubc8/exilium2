@@ -1,0 +1,76 @@
+[FOTOS 2]
+FOTO_QUBEDOS_1 PALETA_QUBEDOS_1 59 4
+FOTO_QUBEDOS_2 PALETA_QUBEDOS_2 59 39
+QUBE[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Tal y como se  coment¢  en  el  anterior  n£mero  de  la
+revista EXILIUM , se encuentra disponible el GUI QUBE , el
+cual no s¢lo existe para Windows y LINUX, sino que tambi‚n
+se dispone de  una  versi¢n  para  DOS , la  cual funciona
+perfectamente en FreeDOS.
+
+
+  Esta utilidad se basa en  el  SEAL , pero  es  mucho m s
+estable, al haber trabajado sobre versiones del  SEAL  m s
+estables y haber solucionado alg£n que otro problema.
+
+
+  Por tanto, sigue usando las librer¡as ALLEGRO, de ah¡ que exista una versi¢n[IZQUIERDA]
+para DOS, as¡ como Win y Linux, y quiz s dentro de poco, para otros sistemas
+operativos.[NO]
+
+
+  Por tanto QUBE es el primer entorno de escritorio multiplataforma del mundo.
+Fue creado por Michael Stencl (creador del SEAL), y se distribuye parcialmente
+como OpenSource. Soporta Multitarea y es portable a m£ltiples sistemas.[NO]
+
+
+  La aplicaci¢n b sica est  orientada para la conexi¢n a INTERNET, bien v¡a[IZQUIERDA]
+DIAL NET o bien una red LAN, todo ello con protocolo TCP-IP. Al estar
+orientado a INTERNET, nos permitir  mirar el correo electr¢nico, as¡ como
+navegar por p ginas WEB.[NO]
+
+
+  Pero esta aplicaci¢n, permite tambi‚n la posibilidad de usar m¢dulos como el[IZQUIERDA]
+SEAL, de tal forma que podamos ampliar el n£mero de aplicaciones de este GUI.[NO]
+Tal es el caso del programa CALCULATOR (calculadora). No obstante, estas[IZQUIERDA]
+aplicaciones usan un formato parecido al SEAL, pero distinto, as¡ que
+tendremos que recompilar el c¢digo y adaptarlo al QUBE, el cual basa su GUI en
+la librer¡a MATRIX, mientras que el SEAL, lo hace SEALAPP.[NO]
+
+
+  Tambi‚n se puede apreciar una foto adjunta, en la que se
+ve las propiedades del QUBE, entre ellas la posibilidad de
+tener varias ventanas abiertas , corriendo aplicaciones de
+forma concurrente,como es el caso de las propiedades de la
+pantalla,configuraci¢n de red del modem,y las preferencias
+del correo electr¢nico.
+
+
+  De  la  misma  forma podiamos tener en funcionamiento el
+manejador de envio  de  correo , as¡ como el  navegador de
+archivos, al estilo EXPLORER.
+
+
+
+
+
+Desarrollo[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Si queremos desarrollar algo para el QUBE, debemos de bajarnos la[IZQUIERDA]
+documentaci¢n de las SDK, las cuales son m s de 1 MB, y mirar la licencia de
+desarrollo. Si las miramos con detenimiento, se podr  observar que son muy
+parecidas a las del SEAL.[NO]
+
+  Y si queremos compilar ejemplos, habr  que bajarse las SDK para DOS y[IZQUIERDA]
+Windows, el cual se dispara a 11 MB (no apto para tel‚fono).[NO]
+
+  As¡ que si quer‚is contribuir, ya sab‚is, poneros en ello, ya que este GUI[IZQUIERDA]
+no s¢lo permite dar mayor color y facilidad al usuario b sico del DOS, sino
+que permitir  a desarrolladores poder portar aplicaciones b sicas a m£ltiples
+sistemas de forma c¢moda y r pida.[NO]

@@ -1,0 +1,174 @@
+[FOTOS 0]
+COVOX SOUND bajo DOS[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  En el anterior n£mero os hab°a ense§ado un poco por encima, como construir[IZQUIERDA]
+una tarjeta COVOX SOUND para vuestro PC. Pero claro, a la hora de programarla,
+tir†bamos de ordenadores potentes (386 o superior), de tal forma, que nos era
+bastante f†cil realizar esa tarea, al menos en cuanto a gesti¢n de memoria.[NO]
+
+
+
+
+  Pero claro, una de las opciones por las que se pone una tarjeta COVOX SOUND,[IZQUIERDA]
+es porque el ordenador no es muy potente, es decir, que incluso nos podemos
+encontrar con un Spectrum, CPC o un PC 8086. Esto no quiere decir, que haya que
+dejar a estos equipos sin la posibilidad de reproducir sonidos de un poco mejor
+calidad que el altavoz interno.[NO]
+
+
+
+
+  Por tanto, para aquellos que posean un 8086 o un 286, va dedicado este[IZQUIERDA]
+art°culo.[NO]
+
+
+
+
+
+
+
+Reproducir MODS[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues, ®cuantas demos se han construido para PC, antes de la llegada del 386?
+Y que decir, de los m¢dulos de sonido (MODS). Para escuchar estos archivos de
+sonido (muchos de gran calidad), seguro que m†s de uno intentar† conseguir una
+tarjeta de sonido de 16 bits ISA, pero claro, le saldr† bastante dif°cil.[NO]
+
+
+  Sin embargo, si hemos construido una COVOX SOUND, podremos llevarnos nuestro[IZQUIERDA]
+querido 8086, 80286 o incluso uno superior, como un Pentium, a nuestra casa de
+campo preferida (de vacaciones) y seguir empap†ndonos del arte scener, sin
+miedo de que el equipo reviente, ya que el precio de un PC 8086 completo hoy en
+d°a es de 0 ptas. (es m†s nos lo regalan para quitar basura).[NO]
+
+
+  Pero claro, ®c¢mo escuchar un MOD sin un programa?. Pues aqu° es donde entra[IZQUIERDA]
+la maravillosa utilidad llamada Mod_play de Mark J COX.[NO]
+
+
+  Esta maravilla, no s¢lo nos permite reproducir archivos MOD para un 8086[IZQUIERDA]
+(8088), sino que nos permite elegir entre tarjeta de sonido, altavoz interno,
+puerto paralelo (covox sound) y Disney Sound. Y por si fuera poco, el autor,
+nos ha dejado el c¢digo fuente disponible, para poder ser usado en Turbo Pascal
+7, y usarlo para nuestro gusto.[NO]
+
+
+  Si por alg£n motivo lo queremos descargar de INTENET, s¢lo tendremos que[IZQUIERDA]
+poner las siguientes frases en el GOOGLE: "mod play mark j cox"[NO]
+
+
+  Una vez que lo encontremos y lo hayamos descargado, podremos probarlo. Para[IZQUIERDA]
+ello, desde el DOS (FreeDOS, DrDOS, OpenDOS, MSDOS, etc...) ejecutaremos el
+archivo MP, y le diremos los par†metros, ya sea tarjeta de sonido, DAC paralelo
+(COVOX), o lo citado anteriormente.[NO]
+
+
+  En la misma p†gina web del autor, se puede uno descargar las dem†s utilidades[IZQUIERDA]
+que ha liberado, como el caso del Editor y reproductor de MODS (gr†fico y
+texto).[NO]
+
+
+  Pero una de las m†s interesantes, es la de la librer°a en formato OBJ del[IZQUIERDA]
+reproductor de MOD, la cual puede ser linkada con PASCAL o C. De esta forma
+podremos nosotros mismos programar para el COVOX SOUND, pero enviando archivos
+MOD, sin falta de complicarnos mucho la vida, con s¢lo incluir esto en el
+c¢digo fuente en PASCAL:[NO]
+
+
+  {$M $4000,0,0}[AMARILLO]
+  {$L MOD-OBJ.OBJ}                {Se enlaza con la librer°a de Mark}
+  {$F+}
+  procedure modvolume(v1,v2,v3,v4:integer); external ;
+  procedure moddevice(var device:integer); external ;
+  procedure modsetup(var status:integer;device,mixspeed,pro,loop:integer;
+                     var str:string); external ;
+  procedure modstop; external ;
+  procedure modinit; external;
+  {$F-}
+
+
+  Ahora si queremos usar alguna funci¢n de la librer°a de MARK, debemos de[BLANCO IZQUIERDA]
+hacer lo siguiente:[NO]
+
+  VAR[AMARILLO]
+    c, stat, dev, pro, mix, bucle: integer;
+    nombre: string;
+
+  BEGIN
+    modinit;
+    moddevice (dev);
+    if (dev = 255) then halt(1);
+    nombre:='photo.mod';
+    mix := 10000;
+    pro := 0;
+    bucle :=4;
+    modvolume (255,255,255,255);
+    modsetup (stat,dev,mix,pro,bucle,nombre);
+    case stat of
+     1: writeln('Error: No es un fichero Mod v†lido.');
+     2: writeln('Error: Ya est† sonando.');
+     4: writeln('Error: No hay memoria suficiente');
+    else
+     begin
+      writeln('El MOD est† sonando. Pulse una tecla para finalizar.');
+      c := readkey;
+      modstop;
+     end;
+    end;
+  end.
+
+
+  El c¢digo fuente lo he sacado de la revista digital CPV, la cual ya ha dejado[BLANCO IZQUIERDA]
+hace tiempo de emitir n£meros, ya que la han finalizado.[NO]
+
+  No obstante, el c¢digo es bastante f†cil de entender, y s¢lo lo he cambiado[IZQUIERDA]
+un poco.[NO]
+
+
+  Para que entend†is, la funci¢n que carga el m¢dulo de sonido es la modsetup,[IZQUIERDA]
+y se le pasa, el nombre del mod, el dispositivo (COVOX, Sound Blaster, Disney,
+altavoz interno, nada), y si se quiere que se repita infinitamente.[NO]
+
+
+  Como podÇis apreciar, hasta que no mande modstop, no parar† la canci¢n, ya[IZQUIERDA]
+que queda residente. Por tanto, debe ejecutarse todo en puro DOS, que era lo
+que quer°amos, ya que un 8086 o un 80286 va a ser imposible que se le pueda
+instalar Windows 95.[NO]
+
+  Para poder compilar todo esto, hay que usar el Turbo Pascal 7, y compilar en[IZQUIERDA]
+modo 8086 o 286, seg£n queramos.[NO]
+
+
+  Recordad, que el MOD no debe ser de gran calidad, ya que no hay memoria para[IZQUIERDA]
+todos los samples (en modo 8086 real, s¢lo hay 640 KB RAM), de hecho, s¢lo se
+admite 64 Kbytes por instrumento. Por tanto, bajaros los famosos CHIPTUNES y
+similares de la oldskool de los viejos tiempos y de los nuevos, y a pasarlo en
+grande.[NO]
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues en mi caso, he probado la COVOX SOUND y el PLAY_MOD en un ordenador[IZQUIERDA]
+Philips 80286, el cual ten°a algunas piezas estropeadas. Sin embargo, con un
+poco de paciencia, pegamento y soldador, se pudo volver a dar vida a este
+viejo y entra§able ordenador, que en pleno 2002 me sigue siendo muy £til.[NO]
+
+  Sin embargo, despuÇs de casi cumplir 1 a§o, se estrope¢ la pista 0, sector 0[IZQUIERDA]
+del disco duro de 40 MB que tra°a de f†brica. Pero eso no impidi¢ que le
+metiera uno de 60 MB, formateado a 40 MB.[NO]
+
+  Eso si, este ordenador, tiene salida en Blanco y negro, aunque se le ponga[IZQUIERDA]
+un monitor de color. La verdad que es increible, que un Spectrum o un CPC que
+era m†s antigÅo que este PC, fuera de color, mientras que este sea en Blanco
+y Negro. Por tanto, no hay ideas antigÅas ni modernas, sino buenas y malas.[NO]

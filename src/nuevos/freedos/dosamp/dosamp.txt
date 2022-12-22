@@ -1,0 +1,187 @@
+[FOTOS 1]
+FOTO_DAMPDOS_1 PALETA_DAMPDOS_1 48 1 
+               Reproductor DosAMP[AZULCLARO GRANDE NO]
+[PCT BLANCO]
+
+
+
+  Como coment‚ en el anterior n£mero de Exilium
+, existen varios  reproductores de  archivos de
+sonido MP3s,y el sistema operativo D.O.S. no va
+a quedarse fuera de  ¢rbita, as¡ que aqu¡ va el
+nombre del programa, que os permite  reproducir
+estos archivos:
+
+
+  DAMP[AMARILLO] (Dos AMP), pero no debe  confundirse con[BLANCO]
+el DosAMP  (port del FreeAMP  para  el  sistema
+operativo DOS).
+
+
+  Las ventajas principales que tiene este reproductor, es m s que nada, la[IZQUIERDA]
+plataforma sobre la que corre, que al tratarse del DOS, nos queda toda la RAM
+libre para nuestro programa, a diferencia de otros, como Win32.[NO]
+
+
+  En esta revista, se ha dedicado un art¡culo al QV (quick View Pro), que[IZQUIERDA]
+permite reproducir estos archivos, pero quiz s a alguno le guste m s este otro
+reproductor, ya que permite a¤adir m s opciones para equipos m s lentos, y por
+supuesto la posibilidad de a¤adir efectos visuales.[NO]
+
+
+
+
+Requerimientos[AMARILLO GRANDE]
+[PC BLANCO NO]
+
+
+  M¡nimos:
+
+   o Un PC con S.O. DOS[GRIS]
+   o Una tarjeta de sonido
+   o Alg£n MP3.
+
+
+  Recomendado:[BLANCO]
+
+   o Un PC r pido (Pentium o mejor)[GRIS]
+   o Una tarjeta de sonido de 16 bits
+   o Buenos MP3s
+
+
+
+
+
+Caracteristicas[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  o Reproducci¢n de ficheros MP3s
+  o Puede reproducir listas de archivos MP3 con el formato del WinAMP (.M3U)
+  o Lo mismo, pero en formato Sonique (.PLS)
+  o Ignora los ficheros que no son MP3 de las listas
+  o Puede reproducir una selecci¢n de canciones de la lista
+  o Reproducci¢n aleatoria.
+  o "Sonido Surround"
+  o Unas bonitas visualizaciones que pueden ser sincronizadas con la m£sica
+  o Soporte de archivos con nombres largos (bajo Windows y bajo DOS si posees
+    el lfndos.zip)
+  o Keypad control (para jukeboxes/estereos)
+  o Joystick control (se puede definir en el archivo DAMP.ini)
+  o M£ltiples listas de MP3s permitidas.
+  o ID3 tag soportado
+  o LCD soportado (Pantalla de cristal l¡quido externa). Hay que consultar[IZQUIERDA]
+    el README.TXT del autor para m s informaci¢n.[NO]
+  o Un GUI opcional
+  o Input driver soportado
+
+
+
+
+Manejo[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Ejemplo:
+[PC]
+   DAMP filename.mp3 {opciones}  -->[AMARILLO] Reproduce un archivo mp3[BLANCO]
+   DAMP filename.m3u {opciones}  -->[AMARILLO] Reproduce una lista Winamp[BLANCO]
+   DAMP filename.pls {opciones}  -->[AMARILLO] Lo mismo, pero Sonique[BLANCO]
+
+
+   DAMP c:\mp3_files\*.mp3  -->[AMARILLO] reproduce todos los archivos MP3s de ese[BLANCO]
+                                directorio[NO]
+
+   DAMP c:\mp3_files\first.mp3 c:\mp3_files\cool_tune.mp3 -->[AMARILLO] Reproduce      el[BLANCO]
+                                                              archivo first.mp3
+                                                              y     luego    el
+                                                              cool_tune.mp3
+
+
+  Para crear una lista en el WinAMP, s¢lo deb‚is de cargarlo (Windows), y[PCT BLANCO IZQUIERDA]
+arrastrar o cargar MP3 en el di logo de archivos. Cuando teng is una serie de
+ellos en el WinAMP PlayList, deb‚is de ir al bot¢n List Options, y elegir
+Save List, donde nos dir  donde queremos guardar la lista, as¡ como si
+queremos el formato m3u o pls.[NO]
+
+
+
+
+Opciones[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+   Algunas opciones de la l¡nea de comandos, son:
+[PC]
+    -r       :[AMARILLO] Activa el modo aleatorio de canciones.[BLANCO]
+    -g       :[AMARILLO] Activa el modo de visualizaci¢n gr fico.[BLANCO]
+    -p <n>   :[AMARILLO] S¢lo reproduce <n> tracks de la lista de canciones.[BLANCO]
+    -n <n>   :[AMARILLO] Muestra el nombre de la canci¢n en modo gr fico (Hace un[BLANCO]
+               scroll). El valor <n> es el n£mero de veces que lo hace.
+    -m       :[AMARILLO] Muestra el men£.[BLANCO]
+    -surround:[AMARILLO] Activa el sonido Surround al principio.[BLANCO]
+    -LCD     :[AMARILLO] Activa a un display LCD.[BLANCO]
+    -gui     :[AMARILLO] Usa el GUI del DAMP.[BLANCO]
+
+
+  Y el resto de opciones las pod‚is mirar vosotros mismos en cuanto[PCT BLANCO IZQUIERDA]
+descargu‚is esta maravilla.[NO]
+
+
+
+
+GUI[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues como se coment¢, esta maravilla posee un Interface, que se ejecuta de[IZQUIERDA]
+la siguiente manera:[NO]
+
+        damp  -gui *.mp3[CHAR14B AZULCLARO]
+
+  Y si queremos ver los efectos visuales al estilo de los plugins del WinAMP,[PCT BLANCO IZQUIERDA]
+debemos de poner lo siguiente:[NO]
+
+        damp  -g *.mp3[CHAR14B AZULCLARO]
+
+  Y nos sacar  un efecto aleatorio muy agradable a la vista. En la foto de al[PCT BLANCO IZQUIERDA]
+principio de la revista, se pueden ver algunos de los efectos de dichos
+plugins.[NO]
+
+  De esta manera se ejecutar¡a el GUI, y nos pondr¡a una lista de todos los[IZQUIERDA]
+MP3 que tengamos en el directorio actual (debemos poseer alguno). Si no
+ponemos ninguna lista o archivo, el DAMP saldr  sin hacer nada. Si todo va
+bien, la primera vez que lo ejecutemos, nos har  una calibraci¢n de joystick
+si poseemos (en mi caso si), para luego podeer ir danzando con las canciones,
+al pulsar el bot¢n Izquierdo o Derecho.[NO]
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Este reproductor es de gran ayuda, sobre todo si queremos hacer un DOSBOX[IZQUIERDA]
+para reproducir MP3, al estilo de los reproductores comerciales, poniendo s¢lo
+este programilla en el arranque del AUTOEXEC.BAT de nuestro DOS m s preferido
+(FreeDOS, DRDOS, OpenDOS, CDOS, MSDOS, ...), y luego eligiendo la lista de
+nuestro CD de m£sica, que deber  de poseer una lista.[NO]
+
+  Si somos de los que nos gusta experimentar, se podr¡a hacer una propia[IZQUIERDA]
+m quina reproductora de MP3 (habr¡a que programarla), en la que podr¡amos usar
+botones, o el propio PAD (el DAMP lo soporta), para poder cambiar el CD y meter
+otro, y dem s cosas. Daros cuenta, que para esto s¢lo hace falta una CPU
+(80486) con 8 MB de RAM , y con S.O. (DOS en ROM por ejemplo), junto con su
+fuente de alimentaci¢n y una unidad de CD-ROM para leer MP3s, y por tanto con
+menos de 100 Euros, ya podemos constru¡rnoslo, y si somos manitas, lo ponemos
+dentro del coche, para descansar.[NO]
+
+  Para descargar el DAMP, pod‚is visitar, esta p gina web:
+
+           http://www.damp-mp3.co.uk/[CHAR14B VERDEFOSFORITO]
+
+
+  La direcci¢n para conseguir el soporte de nombres largos en DOS, es:[PCT BLANCO]
+
+           http://members.xoom.com/dosuser[CHAR14B VERDEFOSFORITO]
