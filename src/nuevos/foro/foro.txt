@@ -1,0 +1,80 @@
+[FOTOS 0]
+Foro[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Queda abierta la secci¢n de foros en nuestra revista. Los temas que va a[IZQUIERDA]
+tratar este foro, seran los siguientes:[NO]
+
+   Sistemas Operativos:[PC]
+
+    - DOS (FreeDOS, DRDOS, OpenDOS, CDOS, MSDOS, etc...)[GRIS]
+    - LINUX (Slackware, Esware, Mandrake, RedHat, SUSE, DEBIAN, TURBOLINUX,
+             etc...)
+    - BEOS
+    - QNX
+    - Menuet
+   
+   Ordenadores:[BLANCO]
+
+    - CPC (CPC original, CPCNG, etc...)[GRIS]
+    - C64 (C64, C128, SuperCPU, COMODOREONE, etc...)
+    - AMIGA (500, 1200, 3000, 4000, PPC, AMIGAONE, etc...)
+    - ATARI (ST, Phenix, etc...)
+    - Z80 (Spectrum, Sprint, etc...)
+
+   Consolas:[BLANCO]
+
+    - Game Boy (GB, GBC, GBA, etc...)[GRIS]
+    - Game Cube
+    - PSX, PSOne, PS2
+    - Game Gear
+
+   Radio:[BLANCO]
+
+    - Banda Ciudadana y radioaficionados clase A, B y C.[GRIS]
+    - Radiopacket
+    - Morse
+    - PMR
+
+   Programaci¢n:[BLANCO]
+
+    - C--[GRIS]
+    - Pascal, C, ensamblador, BASIC
+    - DARKBASIC
+    - SDL, ALLEGRO, GTK
+
+
+  Pod‚is contribuir, mandando informaci¢n o sugerencias sobre dichos temas, as¡[PCT BLANCO]
+como otros que teng is en cuenta, y no figuren aqu¡.
+
+
+  Un ejemplo, podr¡a ser enviar una foto de vuestro Sistemas Operativo[IZQUIERDA]
+preferido, corriendo en pleno funcionamiento, o historias pasadas o presentes
+que os hubieran pasado con vuestro ordenador, como puede ser, el haber ido a
+una party.[NO]
+
+
+  Desde aqu¡, se prentende crear una comunidad abierta para una sociedad de[IZQUIERDA]
+inform ticos no regida ni por las grandes compa¤¡as monopolistas, ni por
+sociedades corruptas, sino dar a conocer que la inform tica como ciencia y
+arte, debe estar abierta a cualquier sociedad, ya que "El conocimiento debe ser
+libre (Comunidad Hacker)".[NO]
+
+  En nuestra p gina web, existe un foro, en el cual, todo lo que salga en ‚l,[IZQUIERDA]
+se pondr  en esta revista:[NO]
+
+         http://www.lanzadera.com/ensamblador[CHAR14B VERDEFOSFORITO]
+
+  Si no quer‚is ir al foro, pod‚is enviar un correo electr¢nico a la direcci¢n:[PCT BLANCO]
+
+         Sliders2002@mixmail.com[CHAR14B VERDEFOSFORITO]
+
+  En donde como comentario, se especificar  la palabra "FORO" y la secci¢n.As¡,[PCT BLANCO]
+si por ejemplo, quisierais mandar algo sobre BeOS, se pondr¡a de comentario:
+
+         FORO BeOS[CHAR14B GRIS]
+
+  Esperamos que esto sirva para favorecer a la inform tica y para futuras[PCT BLANCO IZQUIERDA]
+generaciones.[NO]
