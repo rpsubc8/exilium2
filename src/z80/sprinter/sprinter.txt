@@ -1,0 +1,371 @@
+[FOTOS 6]
+FOTO_SPRINTERZ80_1 PALETA_SPRINTERZ80_1 60 0
+FOTO_SPRINTERZ80_4 PALETA_SPRINTERZ80_4 57 22
+FOTO_SPRINTERZ80_2 PALETA_SPRINTERZ80_2 57 38
+FOTO_SPRINTERZ80_3 PALETA_SPRINTERZ80_3 57 54
+FOTO_SPRINTERZ80_5 PALETA_SPRINTERZ80_5 59 110
+FOTO_SPRINTERZ80_6 PALETA_SPRINTERZ80_6 20 301
+Ordenador Sprinter[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+  En el 1997 apareci¢ un ordenador, al cual se  le  di¢  el
+nombre de Sprinter. Para  aquellos que no sepan nada de ‚l,
+aqu¡ dejo alguna de sus caracter¡sticas:
+
+  CPU de 8 bits Z80 de la compa¤ia Zilog.[PC GRISCLARO]
+  Circuito PLD (Dispositivo L¢gico Programable) integrado.
+  Compatibilidad con el ZX Spectrum cl sico.
+  Soporte de impresora, CD-ROM y disco duro.
+
+
+
+Software[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Se dispone de poco software, pero muy bueno. En la p gina web se puede ver[IZQUIERDA]
+algunos capturas de pantalla del software corriendo. Entre algunas de estas
+capturas se encuentra el Flex Navigator, el cual es una[NO]
+especie de NORTON  COMANDER, es decir, una navegador de
+archivos, con  posibilidad  de  copiar, borrar y  dem s
+opciones sobre los archivos.
+
+  Eso si, todo  este  navegador, se  encuentra en  modo
+gr fico, lo  que  le da un  gran carisma  al  ordenador
+SPRINTER.
+
+  Tambi‚n se encuentra disponible un  DOS  Comander, en
+modo texto, aunque no he puesto ninguna foto, ya que es
+exacto a cualquiera de PC, y el modo texto no realza la
+potencia del ordenador SPRINTER.
+
+
+
+  Otro software de gran calidad es el 2D Studio, el cual, es un programa de[IZQUIERDA]
+dibujo  en  modo  raster. Soporta el  formato BMP, pero[NO]
+supongo  que  con  el  paso  del  tiempo,  soporte  m s
+formatos.
+
+
+  Permite editar las im genes al puro estilo del PAINT.
+Se puede copiar y pegar fragmentos o im genes completas
+as¡ como dibujar  primitivas  gr ficas  2D, como  es el
+caso de lineas, circulos y  rect ngulos. A su  vez,  se
+permite la posibilidad de  relleno  de figuras y areas,
+as¡ como la opci¢n de hacer ZOOM.
+
+
+  Siguiendo con la lista de softare, nos encontramos con el CD-PLAYER, que como[IZQUIERDA]
+su nombre indica, muchos ya sabran que hace exactamente este programa. Pues
+es un reproductor de CD's de audio. Por lo que se puede[NO]
+ver en la foto, parece muy completo, y  algunas de  las
+opciones b sicas de este programa, son la de  poder ver
+una lista de dispositivos compatibles CDROM ATAPI  para
+poder elegir  CD. Adem s se  premite reproducir y parar
+una pista de audio, as¡ como cambiar de CD-ROM.
+
+  Y  como  suele  ser   habitual   en  casi   cualquier
+reproductor de  CD's de audio, se muestra el  tiempo de
+reproducci¢n de la pista de audio.
+
+
+  Hay tambi‚n un IDE (Interface de Desarrollo) para poder programar, pero eso[IZQUIERDA]
+si, muy atractivo, aunque sea en modo texto. Es similar al que viene con el
+ensamblador NASM, y de hecho, nos sirve para programar en ensamblador para el
+ordenador SPRINTER. Permite m£ltiples ventanas para poder editar y compilar
+nuestros programas.[NO]
+
+  Ya tambi‚n hay un software para modems, ¨o que creias, que s¢lo se puede[IZQUIERDA]
+comunicar uno con el PC?. Permite modem compatible con HAYES, y soporta los protocolos
+X MODEM, Y MODEM y Z MODEM.[NO]
+
+  Y se dispone del [BLANCO]DooM[AMARILLO].
+
+
+
+
+Historia[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Si miramos hacia atr s, vemos que el PC permite compatibilidad con el[IZQUIERDA]
+hardware anterior, es decir, con el 8088 y 8086, de ahi que se diga, que un
+micro para PC sea arquitectura x86. Esto nos permite ejecutar software, el cual
+fue creado o que se crea para este tipo de arquitectura, es decir, de 16 bits.[NO]
+  Pero hay que tener en cuenta, que lo rec¡proco no es cierto, ya que el[IZQUIERDA]
+software para Pentium IV de 32 bits no funcionar  para el 8086.[NO]
+
+  Esto mismo, le sucece a un ordenador APPLE o a un AMIGA con sus procesadores[IZQUIERDA]
+MOTOROLA, e incluso esto mismo sucede con las consolas, que en el caso de la
+GAME BOY COLOR, permite la ejecuci¢n de los modos de trabajo de la GAME BOY
+cl sica. En el caso de la GAME BOY ADVANCED sucede lo mismo.[NO]
+
+  A lo largo de la historia de la inform tica, se cae en el error (sobre todo[IZQUIERDA]
+los supuestos profesores de Inform tica) que el PC fue una evoluci¢n de las
+m quinas de 8 bits (Z80). Es decir, primero vinieron los Spectrum, y luego,
+cuando se quedaron desfasados, vino el PC.[NO]
+  Pero la verdadera historia, es que el Z80 fue una arquitectura de la compa¤¡a[IZQUIERDA]
+Zilog, al igual que el 8086 lo es de INTEL. Con el paso del tiempo, el Z80 no
+pudo ganar el mercado dom‚stico de la inform tica, y tubo que dejar paso a los
+PC's. Pero el Zilog nunca a quebrado, y se ha dedicado a crear PLD's y
+controladores de E/S, que muchas veces vienen en nuestro propio PC.[NO]
+  Por tanto, se han creado nuevos micros de 8 bits, pero con m s velocidad y[IZQUIERDA]
+con m s caracter¡sticas. Y por supuesto, permiten la compatibilidad con el
+Z80 cl sico, que es lo que necesitan los usuarios del Spectrum para poder
+seguir con este tipo de arquitectura.[NO]
+
+
+
+Modo Spectrum[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues como se coment¢ vagamente, el Modo Spectrum se cre¢
+para usar el software que se cre¢ en los a¤os 80 y 90.Pero
+OJO, todab¡a se sigue creando.
+
+  Adem s el Modo Spectrum permite compatibilidad con los cl¢nicos de Z80 que[IZQUIERDA]
+habian aparecido en esa ‚poca: [NO]Pentagon 128[AMARILLO],[BLANCO] Pentagon 512[AMARILLO] y [BLANCO]Scorpion 256[AMARILLO].[BLANCO]
+
+  Tal y como se comenta en la p gina web, no existe mucha diferencia entre usar[IZQUIERDA]
+el [NO]Modo Spectrum[AMARILLO] y el [BLANCO]Spectrum real[AMARILLO].[BLANCO]
+
+  Sin embargo, el Modo Spectrum contiene varias mejoras, como:
+
+   1.- Cambio r pido de los ordenadores cl¢nicos de Spectrum.[GRISCLARO]
+   2.- Uso de discos virtuales de RAM.
+   3.- FAT 16 MSDOS compatible para discos duros y disquettes.
+   4.- Posibilidad de cambiar la frecuencia de CPU (3.5 Mhz / 21 Mhz).
+
+ El ordenador Sprinter tiene dos variantes de entrada en modo Spectrum:[BLANCO]
+
+   1.- Comenzar desde una imagen de archivo TRD desde el Sprinter DOS. Donde[GRISCLARO]
+       luego se autocrea un disco virtual  de RAM  en el  que se  copia  ese
+       archivo, y donde se puede posteriormente trabajar.
+
+   2.- Ejecutar el archivo [GRISCLARO]SPECTRUM.EXE[BLANCO].[GRISCLARO]
+
+
+  Cuando se entra en Modo Spectrum, sale un menu para elegir:[BLANCO]
+
+    1.- TR-DOS     (Entrar en el Sprinter DOS)[GRISCLARO]
+    2.- Hardware   (Cambiar el Z80 cl¢nico)
+    3.- BASIC 128  (Entrada en el BASIC con 128 KB de RAM)
+    4.- Calculator (Una calculadora)
+    5.- BASIC 48   (Entrada en el BASIC con 48 KB de RAM)
+    6.- Options    (M s opciones)
+
+  Si se entra en el men£ de HARDWARE, nos saldr :[BLANCO]
+
+    1.- Sprinter ZX (Modo especial de trabajo)[GRIS]
+
+        þ Scorpion-256 ion-256     (Activa el compatible Scorpion 256)
+        þ Enable Spectrum screen   (Activa Pantalla Spectrum).
+        þ COVOX ( port 4Fh )       (Tarjeta de sonido COVOX SOUND)
+        þ extended graphic screen  (Gr ficos extendidos)
+        þ ports of extended memory (Puertos de extensi¢n de memoria)
+        þ ACCELERATOR              (No acceder)
+
+    2.- Pentagon 128 (Spectrum cl¢nico ruso con 128Kb RAM)
+
+        þ puerto 1FFDh
+        þ Sincronizaci¢n con pantalla Pentagon
+
+    3.- Scorpion 256 (Spectrum cl¢nico ruso con 256Kb RAM)
+
+        þ puerto 1FFDh
+        þ Sincronizaci¢n con pantalla Scorpion
+
+    4.- Pentagon 512 (Spectrum cl¢nico ruso con 512Kb RAM)
+
+        þ puerto 1FFDh
+        þ Sincronizaci¢n con pantalla Pentagon
+
+    5.- Restart (Restaura el computador Sprinter. tu no perder s los discos de
+                 RAM)
+
+    6.- RETURN (Va al menu anterior)
+
+
+
+  El Menu de Opciones, dice algo as¡:[BLANCO]
+
+    1.- Run disk.trd (Carga y ejecuta el fichero "disk.trd"  desde el[GRIS]
+                     dispositivo por defecto)
+    2.- 128 TR-DOS (Comienza el fichero BOOT.B desde el dispositivo actual
+                   con 128 KB de RAM
+    3.- 48 TR-DOS (Comienza el fichero BOOT.B desde el dispositivo actual
+                  con 48KB de RAM)
+    4.- TURBO ON (Pone la CPU a 21MHz)
+    5.- TURBO OFF (Pone la CPU a 3,5MHz)
+    6.- Clear RAM (Limpia la RAM y elimina los discos de RAM)
+    7.- RETURN (Va al menu anterior).
+
+
+
+
+Aquitectura[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Como se coment¢, su CPU principal es de 8 bits. Pero como el ordenador[IZQUIERDA]
+Sprinter se vende como una PLACA MADRE, nos quedarr¡a algo as¡:[NO]
+
+ CPU Z84C15 (21MHz/3.5MHz)[PC GRISCLARO]
+ RAM 4Mb (ampliable a 64Mb)
+ Fast RAM (64KB)
+ ROM (256KB)
+ Video RAM 256KB (512KB)
+ Controlador de Disquetes:   WD1793
+ Soporte de disquetes:  3,5" (1.44Mb/720Kb)
+                        5,25" disk (720Kb)
+ Reloj de Tiempo Real, CMOS DALLAS
+ Controlador de disco duro IDE/AT
+ Controlador de teclado 101key/AT
+ Controlador de Rat¢n MS-Mouse
+ 2 Slots ISA-8 bits
+ Salida de audio AY-3-8910 (in PLD), Stereo 8 bit (16 bit)
+ Salida de video TV, CGA monitor anal¢gico, RGB
+ Modos gr ficos 320x256x256, 640x256x16, Pantalla estandar Spectrum
+ Modo texto 80x32x16
+
+  La memoria f¡sica RAM trabaja en unidades de 16 KB, al igual que la l¢gica.La[PCT BLANCO IZQUIERDA]
+memoria f¡sicamente admite m¢dulos SIMM de 72 contactos. Y en cuanto a
+perif‚ricos externos, tenemos joysticks, ratones, y tarjetas de 8 bits
+conectadas al SLOT de 8 bits.[NO]
+
+
+
+Caracteristicas extras[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  El ordenador Sprinter se fabrica en Rusia, y para poder compralo, debemos[IZQUIERDA]
+enviar un correo a [BLANCO NO]sprinter@petersplus.ru[VERDEFOSFORITO].[BLANCO]
+
+  El paquete del ordenador Sprinter viene con lo giguiente:
+
+    þ Placa madre Sp2000[GRISCLARO]
+    þ 4 MB de RAM (SIMM 72 pines)
+    þ 256 KB de RAM de video
+    þ Todos los chips
+    þ Conector cable IDE ribbon
+    þ Conector cable de controladora de disquetes
+    þ Conector de cable de audio
+    þ Conector de cable de Cinta/joystick
+    þ Conector externo libre de cable para Cinta/joystick
+    þ Conector de cable de impresora ribbon
+    þ Conector de cable de rat¢n
+    þ Conector de cable de Video.
+    þ Conector de cable de Video Scart (Euroconector)
+    þ Conector externo libre de cable de video
+    þ Disquete de arranque de 3.5 "
+    þ CD con sfotware
+    þ Guia de ensamblaje (Ingl‚s)
+    þ Manual de usuario (Ingl‚s)
+    þ Manual de Modo Spectrum (Ingl‚s)
+
+  El ordenador Sprinter no tiene limite para el soporte de discos duros, es[BLANCO IZQUIERDA]
+decir, podriamos meter un disco duro de 80 GBytes, y funcionar¡a perfectamente.
+El £nico inconveniente, es a nivel de software, ya que al usar un sistemas de
+archivos de FAT16, el m ximo tama¤o soportado para la partici¢n, ser¡a de
+2 GBytes. Sin embargo, podemos hacer tantas particionas como queramos (hasta
+cierto punto) de 2 GB en 2 GB.[NO]
+
+  El tipo de monitor que soporta este ordenador es el de CGA anal¢gico o TV con[IZQUIERDA]
+Euroconector, o una TV con 15 KHz de frecuencia horizontal y 50 Hz de vertical.
+Tambi‚n soporta entrada anal¢gica RGB (Commodore 1084).[NO]
+
+  La placa da tensiones de +5V, -5V, +12V, -12V y su fuente de alimentaci¢n es[IZQUIERDA]
+de tipo PC AT. Adem s posee 2 puertos serie, uno paralelo, el de teclado y
+rat¢n.[NO]
+
+  Y como tranquilidad, la compa¤¡a da hasta [BLANCO]1 a¤o de garant¡a[AMARILLO].[BLANCO]
+
+
+
+Versiones[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Se permite varios tipos de ordenador Sprinter:
+
+  þ El que se fabric¢ en 1997, llamado Sprinter 97.[PC GRIS]
+  þ El que se fabric¢ en el 2000, llamdado Sprinter 2000 y el 2000 Light.
+
+  Adem s, existen dos formas de comprar el Sprinter 2000:[PCT BLANCO]
+
+  þ La versi¢n Computador Sprinter.[PC GRIS]
+  þ La versi¢n estandar.
+
+  La primera vale 170$ y la segunda 115$. En la primera se vende el ordenador[IZQUIERDA]
+Sprinter 2000 completo con placa Sprinter 2000, TORRE, rat¢n, teclado,
+disquetera de 3 1/2" y la tarjeta de sonido de 16 bits, y en el segundo caso,
+s¢lo se vende la placa con los 4 MB de RAM.[NO]
+
+  Se puede ver en las [BLANCO]fotos adjuntas[AMARILLO] los dos tipos de compra:[BLANCO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Informacion[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  A parte de la que se puede obtener en la p gina web, cabe destacar varias[IZQUIERDA]
+revistas electr¢nicas y f¡sicas que han hecho alusi¢n y publicidad de este
+ordenador, como es el caso de:[NO]
+
+  RETROREVIEW[AMARILLO] y [BLANCO]ZXF[AMARILLO] en su n£mero 2.[BLANCO]
+
+  Hay que destacar, que este ordenador no es que sea la continuaci¢n del Z80,[IZQUIERDA]
+sino que posee 100% compatibilidad con ‚l, tal y como lo declara su creador.[NO]
+Sin embargo, esto no impide que podamos usarlo como una continuaci¢n del mismo.
+  Adem s, si miramos el precio de un Spectrum de Segunda ... Infinita mano,[IZQUIERDA]
+veremos que nos sale casi tan caro, como comprarnos la PLACA Sprinter 2000, y
+por tanto, podriamos llebarlo a una PARTY y ense¤ar las maravillas y
+posibilidades del mismo, como sucedi¢ en la MEKKA & SYMPOSIUM con el
+CommodoreOne.[NO]
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues hasta aqui la explicaci¢n de este equipo que intenta hacer que el Z80[IZQUIERDA]
+siga teniendo futuro y novedades. Yo por mi parte, he votado en la p gina web
+para decir si me comprar¡a o no el equipo, pero esperar‚ a que tenga m s dinero
+para ello. Mientras tanto, me entretengo con el emulador de este equipo.[NO]
+
+
+  Hay que destacar, que la informaci¢n de este art¡culo, la he sacado de la[IZQUIERDA]
+p gina oficial del ordenador, por lo que principalmente, lo he traducido.[NO]
+
+
+  La p gina web donde podeis conseguir este equipo es:
+
+
+   http://www.petersplus.com[VERDEFOSFORITO]
+   http://www.petersplus.com/sprinter.htm
+   http://www.petersplus.com/sprinter/
+
+
+  Y la compa¤¡a de este ordenador es PETERS PLUS LTD.[BLANCO]

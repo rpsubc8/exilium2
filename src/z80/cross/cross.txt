@@ -1,0 +1,262 @@
+[FOTOS 1]
+FOTO_Z80_CROSS_1 PALETA_Z80_CROSS_1 47 34
+Programar Sprinter[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Pues en este art¡culo vamos a aprender a programar el ordenador Sprinter.
+Lamentablemente no poseo este ordenador, por tanto, me dedicar‚ s¢lo a la parte[IZQUIERDA]
+del emulador, es decir, voy a ense¤aros (lo poco que se) como hacer programas
+para el ordenador Sprinter, de tal forma que se van a ejecutar en el emulata.[NO]
+  Por tanto, os ense¤ar‚ a usar un compilador cruzado, que en este caso, se[IZQUIERDA]
+trata de puro ensamblador (abstenerse programadores novatos de C).[NO]
+
+
+
+
+Materiales[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues en principio, necesitaremos lo siguiente:
+
+   - Ordenador PC con Windows 9x[PC GRIS]
+   - TASM31 con opcodes de Z80.
+   - Utilidad Lst2exe (disponible en la p gina del Spritner)
+   - Emulador Sprinter o m quina real
+   - Ganas de programar para m quinas raras (abstenerse los programadores de
+     gesti¢n y los matem ticos).
+
+  Si pose‚is todo este material, podemos ponernos en marcha.[PCT BLANCO]
+Para aquellos que no lo sepan, el Spectrum posee una gran scene, sobre todo el[IZQUIERDA]
++3 128K y los siguientes. Tal es el caso, que se poseen juegos como el MORTAL
+KOMBAT y el DOOM 3D hechos para estos equipos, cuando como todos sabr‚is, estos
+juegos requieren de un PC o de una consola. As¡ que imaginaos lo que se puede
+hacer con un C64 o un CPC.[NO]
+
+  Debido a  esta enorme scene , al  llegar el
+Sprinter, los coders se han puesto a realizar
+el MORTAL KOMBAT y el DOOM 3D , pero esta vez
+de  forma bestial , es decir , a todo color y
+aprovechando  las  caracter¡sticas  avanzadas
+hardware de este computador, tal y como se ve
+en las fotos adjuntas.
+
+  Por tanto, tarde o temprano , alguno tendr 
+ganas de ponerse a programar para este ordenador o consola (seg£n se mire), sin
+falta de tener que venderse a las grandes compa¤¡as (MICROSOFT) y trabajar[IZQUIERDA]
+sobre unos cimientos poco s¢lidos (PC + WIN).[NO]
+
+  Pues para todos aquellos, que quer is desarrollar para SPRINTER, va dirigido[IZQUIERDA]
+este art¡culo, pero advierto, que por ahora el emulador, s¢lo soporta 4 cosas,
+como es el caso de funciones b sicas de la BIOS y las instrucciones de
+aceleraci¢n hardware (sin uso de CPU).[NO]
+
+
+
+
+
+Primer programa[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues como he tenido poco tiempo para trabajar con este emulador, aqu¡ va lo[IZQUIERDA]
+poco que he conseguido realizar, a prueba y error.[NO]
+
+          .ORG $8000[AMARILLO]
+  Start    ;LD A,0
+           ;OUT (07Ch),A    ;Carga ROM del sistema
+    
+           LD A,03h
+           LD B,0
+           LD C,50h
+           RST 10h         ;Modo de video 80x32x16 colores
+
+           LD HL,STRING    ;Muestra el texto
+           LD C,5Ch
+           RST 10h
+
+           LD D,1
+           LD E,1
+           LD A,'H'
+           LD B,0F0h
+           LD C,58h
+           RST 10h
+
+           IN A,(0E2h)  ;Para poner un punto
+           LD C,A
+           LD A,50h
+           OUT (0E2h),A
+           LD A,E
+           OUT (89h),A
+           LD DE,0C000h
+           ADD HL,DE
+           LD A,255
+           LD (HL),A
+           LD A,C
+           OUT (0E2h),A
+
+           LD C,30h        ;Espera por pulsar tecla
+           RST 10h
+
+           ;LD A,0
+           ;OUT (03Ch),A    ;Quita ROM del sistema
+
+           LD BC, $0041    ;B is RetCode, C is function EXIT
+           RST 10          ;Call DOS to return.
+         .END
+
+
+   STRING .DB "Mi primer programa"
+          .DB 13,10
+          .DB 0
+
+
+
+  Para aquellos que est n acostumbrados a programar para Z80, les ser  muy[BLANCO IZQUIERDA]
+f cil entender este c¢digo. Pero para los otros, les recomiendo que busquen
+informaci¢n por INTERNET. Que conste, que si se sabe programar en ensambla de
+16 o 32 bits, es casi traducir, ya que s¢lo es usar menos registros y cuatro
+cambios en los indireccionamientos a memoria.[NO]
+
+
+  Cualquier programa de Sprinter, debe empezar en la posici¢n 0x8000, por[IZQUIERDA]
+tanto, debemos de poner:[NO]
+
+        .ORG $8000[AMARILLO]
+
+  Si queremos cargar el modo de video 80x32 con 16 colores, se proceder  de la[BLANCO IZQUIERDA]
+siguiente forma:[NO]
+
+        LD A,03h[AMARILLO]
+        LD B,0
+        LD C,50h
+        RST 10h         ;Modo de video 80x32x16 colores
+
+  Esto es parecido a las interrupciones software del PC. De tal forma que[BLANCO IZQUIERDA]
+elegimos el servicio SETVMOD (poner modo de video) en modo 3 de la ROM en donde
+ponemos los siguiente valores:[NO]
+
+    Registro A = 3 (modo 80x32x16)[AMARILLO]
+    Registro B = 0 (n£mero de p gina activo)
+    Registro C = 50h
+
+  Los modos de video son los siguiente:[BLANCO]
+
+    02h - modo texto 40x32x16 colores[AMARILLO]
+    03h - modo texto 80x32x16 colores
+    81h - modo gr fico 320x256x256 colores
+    82h - modo gr fico 640x256x16 colores
+
+  Las p ginas activas, s¢lo pueden ser la 0 o la 1. En este ejemplo, me he[IZQUIERDA BLANCO]
+saltado la opci¢n de guardar el contenido de la pantalla actual en un buffer,
+que es como se deber¡a hacer, pero como es una prueba, se puede hacer
+perfectamente.[NO]
+
+
+  El trozo de c¢digo siguiente:
+
+    LD HL,STRING[AMARILLO]
+    LD C,5Ch
+    RST 10h
+
+  Llama al servicio 5Ch de la interrupci¢n 10h, de tal forma que escribe un[BLANCO IZQUIERDA]
+texto en pantalla, que en este caso es la cadena STRING. Lamentablemente no
+hace nada, ya que al parecer, no esta implementada esta funci¢n en el emulador
+por ahora.[NO]
+
+
+  El c¢digo:
+
+    LD D,1[AMARILLO]
+    LD E,1
+    LD A,'H'
+    LD B,0F0h
+    LD C,58h
+    RST 10h
+
+  Sirve para llamar al servicio 58h de la interrupci¢n 10h, de tal forma que[IZQUIERDA BLANCO]
+equivale a poner un car cter en pantalla con las coordenadas del registro D y
+E, que en este caso es 1,1. Y la letra viene en el registro A, que es la 'H'.[NO]
+  En cuanto al registro B, es para los atributos del color, que siguen el mismo[IZQUIERDA]
+esquema que en el PC en los modos texto de v¡deo.[NO]
+
+  El siguiente c¢digo es para poner un punto, pero no hace nada, ya que estamos[IZQUIERDA]
+en modo texto.[NO]
+
+    IN A,(0E2h)  ;Para poner un punto[AMARILLO]
+    LD C,A
+    LD A,50h
+    OUT (0E2h),A
+    LD A,E
+    OUT (89h),A
+    LD DE,0C000h
+    ADD HL,DE
+    LD A,255
+    LD (HL),A
+    LD A,C
+    OUT (0E2h),A
+
+  Y el siguiente:[BLANCO]
+
+    LD C,30h        ;Espera por pulsar tecla[AMARILLO]
+    RST 10h
+
+  Se espera a que se pulse una tecla, que es similar al waitkey.[BLANCO]
+
+  Para finalizar, cualquier programa en Sprinter, debe acabar as¡:
+
+    LD BC, $0041[AMARILLO]
+    RST 10
+
+  Que se parece mucho a un programa escrito en ensamblador bajo DOS.[BLANCO]
+
+
+  De lo expuesto aqu¡, lo £nico que funcionar  bien, ser  el mostrar un[IZQUIERDA]
+car cter ('H') por pantalla, as¡ como esperar por el pulsar de una tecla en
+pantalla. El resto, no hace nada, pero algo es algo.[NO]
+
+
+
+
+
+Pasos a seguir[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues primero deb‚is de escribir este programa con un editor de textos, como[IZQUIERDA]
+es el caso del EDIT, NOTEPAD, EMACS, lo que quer is.[NO]
+  Despu‚s deb‚is de generar el OBJ:
+
+    Tasm -80 prueba.asm[AMARILLO]
+
+  o bien:[BLANCO]
+
+    Tasm -80 -b prueba.asm[AMARILLO]
+
+  Y por £ltimo convertir el OBJ a formato EXE del Sprinter:[BLANCO]
+
+    Lst2exe prueba.obj[AMARILLO]
+
+  Despu‚s deb‚is de copiar el fichero prueba.exe que se ha creado al directorio[BLANCO]
+DISK del emulador del Sprinter. Y por £ltimo escribir:
+
+    Sprint prueba.exe[AMARILLO]
+
+  Al cabo de unos segundos, deber  de salir una letra 'H' por pantalla, as¡[IZQUIERDA BLANCO]
+como el esperar de una tecla.[NO]
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Espero que esto sirva a la gente para desarrollar o aprender de esta m quina,[IZQUIERDA]
+sobre todo para sistemas empotrados.[NO]
+  Lamento que mi c¢digo no sea m s extenso ni complejo, pero he encontrado muy[IZQUIERDA]
+poca documentaci¢n, as¡ como poco tiempo para realizar pruebas.[NO]
+  Espero que sirva al menos de ejemplo b sico.

@@ -1,0 +1,180 @@
+[FOTOS 8]
+FOTO_SPRINTERZ80_5 PALETA_SPRINTERZ80_5 60 1
+FOTO_EMULADORZ80_1 PALETA_EMULADORZ80_1 60 15
+FOTO_EMULADORZ80_2 PALETA_EMULADORZ80_2 60 32
+FOTO_EMULADORZ80_3 PALETA_EMULADORZ80_3 62 45
+FOTO_EMULADORZ80_4 PALETA_EMULADORZ80_4 60 60
+FOTO_EMULADORZ80_5 PALETA_EMULADORZ80_5 60 75
+FOTO_EMULADORZ80_6 PALETA_EMULADORZ80_6 60 90
+FOTO_EMULADORZ80_7 PALETA_EMULADORZ80_7 60 105
+Emulador Sprint[GRANDE AZULCLARO]
+[PCT BLANCO NO]
+
+
+  En el art¡culo anterior, se ha podido ver algunas de las
+caracter¡sticas del Ordenador Sprinter.Sin embargo,en este
+otro art¡culo, veremos las caracter¡sticas de su emulador.
+
+  El emulador de este equipo tiene  por  nombre  SPRINT  y
+pertenece  a  la  licencia  GNU. Su  £ltima versi¢n se  ha
+compilado el 16 de Octubre del 2002,y la podemos descargar
+desde la p gina web:
+
+
+  http://robots.ural.net/nedopc/sprinter/sprint.htm[VERDEFOSFORITO]
+
+
+  En  dicha  p gina  se  dispone  no   s¢lo   del   archivo[BLANCO]
+SPRINT.RAR (c¢digo fuente y binarios para Windows, Linux  y
+DOS),  sino  tambi‚n  la  utilidad  ZMAC13,  que  act£a  de
+compilador cruzado de ensamblador Z80,  es  decir,  permite
+generar  archivos  binarios  de  Z80 para el Sprinter, pero
+desde nuestro PC.[NO]
+
+
+
+Caracteristicas[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  La versi¢n para Windows y Linux  usa  las librer¡as  SDL,
+mientras que en  el DOS  accede a  la  tarjeta VGA  y  SVGA
+directamente.
+
+
+  Podemos  editar  el  archivo  sprint.ini, para cambiar la
+resoluci¢n de video, el  disco  a emular y la velocidad del
+micro entre otras cosas.
+
+
+  Hay que destacar, que para poder salir del emulador se ha
+de pulsar la tecla F10.Para lanzar alg£n ejecutable de tipo
+Sprinter, se debe de hacer desde la l¡nea de comandos. As¡,
+por ejemplo:
+
+
+  sprint 2dstudio.exe[AMARILLO]
+
+
+  Lanzar¡a el ejecutable 2dstudio de dibujo. El  archivo  RAR[BLANCO]
+viene con  varios  ejecutables de ejemplo, no siendo  este el
+caso citado.
+
+
+  Para Windows se usa el ejecutable sprint.exe y para DOS, el
+gwsprint.exe y para LINUX, el sprint. Para el caso  del  DOS,
+necesitaremos  el  extensor DOS4GW.EXE que se encuentra en la
+p gina web, ya que se compil¢ con C++ WATCOM.
+
+
+  Tambi‚n se  permite la posibilidad de  capturar  im genes
+con la tecla F9. Se guardar n en formato TGA.
+
+  Por  l stima  por  ahora, la emulaci¢n no es perfecta, de
+hecho,no funciona ni la mitad de los archivos para SPRINTER
+al 100%. Pero  como  este emulador es GNU, cualquiera puede
+modificarlo a su gusto y semejanza para mejorarlo,o esperar
+a que el autor lo mejore.
+
+  Hay que destacar que la emulaci¢n del Spectrum Cl sico no
+es posible, emulando s¢lo los ejecutables de tipo Sprinter.
+
+
+
+Pruebas[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+   De lo que he emulado,estoy de acuerdo con la p gina web,
+y por tanto, nos quedar¡a, lo siguiente:
+
+   Programa FN.EXE   --> Buena emulaci¢n. Ver, editar y[PC GRIS]
+                         explorar no funcionan.
+   Programa MENU.EXE --> Perfecta emulaci¢n
+   2DSTUDIO.EXE      --> El rat¢n no funciona 
+   FISH.EXE          --> Buena emulaci¢n
+   FAN256.EXE        --> Buena emulaci¢n
+   STARWAY.EXE       --> Excelente emulaci¢n
+   FLAMES.EXE        --> Emulaci¢n perfecta
+   SD.EXE            --> Buena emulaci¢n
+   PSY.EXE           --> Buena emulaci¢n
+   B_CODE.EXE        --> Buena emulaci¢n
+   FORTH.EXE         --> Buena emulaci¢n
+   CPMEMUL.EXE       --> Buena emulaci¢n
+   TETRIS.EXE        --> Buena emulaci¢n
+   FRACTALS.EXE      --> Buena emulaci¢n
+
+  Al parecer el autor del  emulador, realiz¢  el  programa[PCT BLANCO]
+FRACTALS.EXE, que muestra un fractal y hace uso del rat¢n,
+aunque como ‚l dice, y  yo mismo  he probado, va muy lento
+generando los fractales.
+
+
+   Otro dato a destacar, es el del fundido de im genes, que se hace muy pero[IZQUIERDA]
+que muy lento. Probablemente es culpa de la emulaci¢n, ya que hasta los
+Spectrums originales hac¡an un fundido r pidamente.[NO]
+
+   En cuanto al modo texto, he de decir, que es exacto  al
+modo texto de los PC's,as¡ que aquellos que hacen demos en
+modo  TEXTO  o  ASCII ART, aqu¡ pueden encontrar una nueva
+computadora. Es una pena, que las  tiendas  se  gasten  el
+dinero en  poner  PC's, cuando  al final s¢lo usan el modo
+texto, o una ventanita simple bajo Windows, cuando por  el
+precio de  un  SPRINTER y un programador especializado, se
+podr¡a hacer un software a medida mejor y m s barato, pero
+claro, la sociedad actual demanda tonter¡as.
+
+
+
+ZMAC13[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Esta utilidad, tal y como se oment¢, es un compilador cruzado. En la p gina[IZQUIERDA]
+web viene en formato ZIP. Una vez descomprimido, podremos apreciar, que viene
+s¢lo con el c¢digo fuente.[NO]
+
+  Para ello, debemos de disponer de un compilador de ANSI C. Por tanto,[IZQUIERDA]
+funcionar  en UNIX, BeOS, DOS y dem s sistemas. Por tanto, si teneis a mano el
+DJGPP, s¢lo debereis escribir esto:[NO]
+
+  make[VERDEFOSFORITO]
+
+  Y se generar  el archivo ZMAC.EXE. En mi caso funcion¢ perfectamente y[IZQUIERDA BLANCO]
+despu‚s pude comprimirlo con el [NO]UPX[AMARILLO].[BLANCO]
+
+  Despu‚s escribireis c¢digo en ensamblador para Z80 que podr  ser compilado[IZQUIERDA]
+desde la linea de comandos con ese ejecutable.[NO]
+
+  En los BONUS de este n£mero incluiremos el ejecutable por si alguien no[IZQUIERDA]
+dispone del DJGPP o alg£n compilador de ANSI C GNU.[NO]
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Para aquellos que est n indecisos para comprar este equipo, o sencillamente[IZQUIERDA]
+no tienen el dinero suficiente, pueden probar este emulador, e incluso
+contribuir haci‚ndolo mejor, o construyendo software para el SPRINTER a trav‚s
+del compilador cruzado.[NO]
+
+  Tambi‚n pod‚is coger m s ejecutables de SPRINTER para probar en el emulador,[IZQUIERDA]
+desde la p gina web:[NO]
+
+
+  http://www.petersplus.com/sprinter[VERDEFOSFORITO]
+
+
+  Y quien sabe, quiz s muy pronto, la mayor¡a de los sceners dispongan de este[BLANCO IZQUIERDA]
+equipo, y lo lleven a las PARTY's, incluso a la EUSKAL PARTY.[NO]
+
+  Desde aqui doy la enhorabuena a Alexander Shabarshin por crear el emulador[IZQUIERDA]
+SPRINT y a la compa¤¡a PETERS PLUS por construir el ordenador Sprinter,
+deseandoles desde aqui un futuro prometedor.[NO]
+
+  P.S.[NO AMARILLO] He estado esperando 1 a¤o para conseguir el emulador del SPRINTER, y en[BLANCO]
+       cuanto  ha salido, lo  he probado con la mayor¡a del software presente.
+       Que conste, que en este  art¡culo s¢lo  he  recogido  informaci¢n y  he
+       traducido art¡culos.

@@ -1,0 +1,157 @@
+[FOTOS 3]
+FOTO_DISKMAGZ80_1 PALETA_DISKMAGZ80_1 66 0
+FOTO_DISKMAGZ80_2 PALETA_DISKMAGZ80_2 22 34
+FOTO_DISKMAGZ80_3 PALETA_DISKMAGZ80_3 22 83
+Revista ZXF[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+  Desde el verano del 2002,ten‚is disponible la revista ZXF. Para
+aquellos que les gusta el formato de revista tradicional(impreso)
+,est n de suerte, ya que se encuentra en formato PDF. Por tanto necesitareis de[IZQUIERDA]
+un lector de archivos PDF's, como puede ser el Acrobat Reader para el caso de
+Win32 y Linux, o el BePDF para BeOS.[NO]
+
+
+  Si no dispon‚is del equipo suficiente para poder ver esta revista, se puede[IZQUIERDA]
+uno, bajar la versi¢n en formato TXT (ASCII), que ocupa mucho menos, pero que
+Carece de fotos.[NO]
+
+
+  Esta revista trata temas del mundo del Z80 (Spectrum), a nivel de Hardware,[IZQUIERDA]
+software, entrevistas y emuladores del mismo. Tambi‚n trata temas sobre el
+futuro del Z80 y la scene de esta plataforma.[NO]
+
+
+  La l¡na que sigue es la de [BLANCO]FREE[AMARILLO], es decir, que es gratis, pero no [BLANCO]GNU[AMARILLO].[BLANCO]
+
+  El n£mero 1 tiene el siguiente sumario:
+
+   news:[AMARILLO]   5 p ginas de novedades en el mundo Spectrum.[BLANCO]
+   load:[AMARILLO]   Remakes de juegos: Cybernoid 2 y Sabre Wulf[BLANCO]
+   list:[AMARILLO]   Chris Cowley's BASTRIS laid bare (C¢digo fuente)[BLANCO]
+   int:[AMARILLO]    La entrevista de ZXF: Garry Lancaster en el +3e[BLANCO]
+   exp:[AMARILLO]    La unidad de cinta Plus 2 y como mantenerlo[BLANCO]
+   read:[AMARILLO]   How far would you go to achieve obscurity?[BLANCO]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   De este primer n£mero quiz s lo que m s llama la atenci¢n, a parte de lo[IZQUIERDA]
+bien que est  realizado, tanto a nivel de maquetaci¢n como de edici¢n, ser¡a el
+art¡culo de conectar un disco duro a un Spectrum Z80, ya que aunque esta
+documentaci¢n ya data de bastante tiempo, sigue existiendo un gran misticismo
+al respecto, sobre todo del  mbito de los PC's. Se tiende a caer en el error,
+de que un disco duro s¢lo puede ser colocado en un PC, y que un Spectrum no
+puede tenerlo, cuando en realidad se puede incluso poner un CD-ROM. Y luego
+resulta que hay PC's que no soportan discos duros de m s de 1 GB, cuando los
+Spectrum pueden soportar cualquier disco duro IDE.[NO]
+
+
+
+  Y desde Octubre ten‚is disponible el n£mero 2 de esta revista, cuyo sumario,[IZQUIERDA]
+quedar¡a repartido de la siguiente forma:[NO]
+
+   news:[AMARILLO]   8 p ginas de novedades en el mundo Spectrum.[BLANCO]
+   load:[AMARILLO]   Remake review: PeeJay's Maziacs PC[BLANCO]
+   wibble:[AMARILLO] ¨Cual es tu pensamiento del n£mero 1 de laa revista ZXF?[BLANCO]
+   int:[AMARILLO]    Entrevista ZXF: Alex Goryachev en el Sprinter[BLANCO]
+   exp:[AMARILLO]    Regreso del Spectrum: Gu¡a de tu ZX2000.[BLANCO]
+           Tutorial de leer im genes a pantalla
+           +3/2A Scart lead:
+   read:[AMARILLO]   El genuino interface amigable.[BLANCO]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  En este n£mero, el estilo de la revista sigue siendo totalmente profesional.[IZQUIERDA]
+De hecho se hace hasta un homenaje a los 20 a¤os de la aparici¢n del Sinclair
+Z80. Personalmente, el art¡culo que m s me ha gustado es el del ordenador
+Sprinter, ya que arroja una esperanza de futuro prometedor de cara empresarial
+al mundo del Z80. Ah¡ se explica paso a paso toda la arquitectura y
+caracter¡sticas de este equipo.[NO]
+
+
+
+INTERNET[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Si queremos conseguir esta revista, debemos ir a la p gina web:
+
+   http://www.petersplus.com[VERDEFOSFORITO]
+ 
+  Y desde la p gina principal acceder al enlace ZXF, o bien directamente buscar[IZQUIERDA BLANCO]
+a trav‚s de INTERNET en el buscador GOOGLE.[NO]
+
+  Pod‚is tambi‚n aprovechar para votar a la revista, ya que de verdad, lo[IZQUIERDA]
+merece.[NO]
+
+
+
+Comentarios.[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Gracias al editor Colin Woodcock y colaboradores por hacer una revista de[IZQUIERDA]
+esta gran calidad y por supuesto accesible a toda la gente (gratis).[NO]
+
+  Personalmente, la revista es muy atractiva, pero quiz s el punto negativo[IZQUIERDA]
+ser¡a que al estar en formato PDF, si se intenta visualizar desde un visor de
+PDF's, cuando salen las im genes, no se puede hacer un SCROLL suave, as¡ como
+cambio de tareas dentro del S.O., al intentar redibujar cte. Sin embargo, si
+disponemos de una buena impresora, y nos ponemos a ver los documentos impresos,
+la cosa cambia, ya que tenemos una revista que no s¢lo compite sino que supera
+a todas las comerciales.[NO]
+
+  En nuestra revista EXILIUM hab¡amos empezado a hacerla en formato PDF, pero[IZQUIERDA]
+debido a problemas como estos, y los continuos fallos de los editores que
+us bamos, hicieron que termin semos creando nuestro propio visor.[NO]
+
+  P.S. [AMARILLO]Desde aqu¡ se desea lo mejor a la revista  ZXF, esperando con ansia la[BLANCO]
+       llegada del n£mero 3 a INTERNET.
