@@ -1,0 +1,249 @@
+[FOTOS 7]
+FOTO_REVISTA_1 PALETA_REVISTA_1 72 7
+FOTO_REVISTA_2 PALETA_REVISTA_2 74 13
+FOTO_REVISTA_3 PALETA_REVISTA_3 74 23
+FOTO_REVISTA_4 PALETA_REVISTA_4 70 44
+FOTO_REVISTA_5 PALETA_REVISTA_5 75 53
+FOTO_REVISTA_6 PALETA_REVISTA_6 74 59
+FOTO_REVISTA_7 PALETA_REVISTA_7 74 67
+Manejo de la revista[NARANJA GRANDE COLOR=217 245 209]
+[PCT BLANCO NO]
+
+
+
+  Toda la diskmag est  orientada en torno a los art¡culos. Una vez cargada la[IZQUIERDA]
+diskmag, habr  que desplegar el men£ de art¡culos, haciendo click en el[NO]
+bot¢n que se muestra en la  figura adjunta o bien pulsando la tecla[BLANCO] 'M'[AZULCLARO]
+del teclado. Una vez desplegado este men£, podremos navegar por los[BLANCO]
+art¡culos con tan s¢lo usar los cursores hacia arriba o hacia abajo,as¡
+como hacia los lados.
+
+  Para poder cargar un art¡culo, una vez elegido con los cursores, habr  que[IZQUIERDA]
+dar a la tecla ENTER , o bien al bot¢n con forma de  [NO]PLAY[AZULCLARO] , tal y como se[BLANCO]
+puede apreciar en la [BLANCO]foto adjunta.[COLOR=200 155 209]
+
+  Tambi‚n se puede observar , en  el men£ deplegable , que hay unos  mini[BLANCO]
+botones  para  poder  seleccionar  el art¡culo y para  poder cargarlo. As¡[IZQUIERDA]
+mismo, tambi‚n se permite clickear sobre el art¡culo superior del men£
+desplegado, para poder cargar dicho art¡culo.[NO]
+
+  Si por alg£n motivo, quisieramos abandonar la diskmag, deberemos hacer un[IZQUIERDA]
+click  sobre el  bot¢n de [NO]APAGAR[AMARILLO] , tal y como muestra la figura. A muchos[BLANCO]
+os recordar  al bot¢n de apagado  de  muchas lavadoras , televisiones , e
+incluso planchas.
+  Si pulsamos la tecla [BLANCO]ESC[AZULCLARO] , tambi‚n conseguiremos el  mismo efecto , que[BLANCO]
+pinchando sobre [BLANCO]dicho bot¢n.[COLOR=50 75 200]
+
+  Para poder navegar sobre los art¡culos, deberemos tener desactivado el men£[IZQUIERDA BLANCO]
+desplegable de art¡culos. Para ello, o bien cargamos un tema, o volvemos a dar
+al bot¢n de desplegar el men£, que en este caso, lo ocultar .[NO]
+
+  Si pulsamos las flechas hacia arriba o abajo en los art¡culos ya cargados,[IZQUIERDA]
+veremos como se hace un scroll hacia arriba o hacia abajo. Tambi‚n se permite
+la pulsaci¢n de las teclas R‚Pag y AvP g, que permiten una scroll m s r pido.
+Y se permite la pulsaci¢n de la tecla Inicio y Fin de teclado, que nos llevar 
+al inicio y fin del art¡culo.[NO]
+
+  Si queremos hacer esto mismo con el rat¢n, debemos de tener pulsado el bot¢n[IZQUIERDA]
+derecho, junto con un movimiento hacia arriba o hacia abajo. Lo mismo, para
+navegar en los art¡culos en el men£ desplegable de[NO] art¡culos.[VERDEFOSFORITO]
+
+  Para cambiar de canci¢n, podemos pulsar las teclas 'A' y 'D', o bien hacer[IZQUIERDA BLANCO]
+click sobre los botones de la imagen adjunta.[NO]
+
+  Y como a¤adido , se encuentra el uso del [BLANCO]joystick[AZULCLARO] , que permitir [BLANCO]
+hacer scrolls suaves o r pidos, en funci¢n del tiempo que tengamos apretado el[IZQUIERDA]
+b¢ton, y de si usamos los botones de arriba y abajo, o izquierda y derecha. As¡
+mismo, el bot¢n de acci¢n A sirve para desplegar men£, y el B para cargar tema.
+  Los botones [NO]C[AMARILLO] y[BLANCO] D[AMARILLO], sirven para cambiar m£sica.[BLANCO]
+
+  Para desactivar el sonido, bien porque no queramos oir m£sica, o porque[IZQUIERDA]
+nuestra tarjeta no est  bien soportada,hay que hacer click sobre el bot¢n[NO]
+que aparece en la imagen correspondiente, o bien pulsar la tecla [BLANCO]'S'[AMARILLO].Esta[BLANCO]
+vez, la m£sica se encuentra el formato [BLANCO]MIDI[AZULCLARO], as¡ que es mejor que teng is[BLANCO]
+una buena tarjeta.
+
+  Para buscar una palabra dentro del art¡culo, podemos o bien pulsar la tecla[IZQUIERDA]
+F3 o bien  el icono , con la forma de la figura adjunta , es  decir , una[NO]
+especie de lupa. Si la palabra existe dentro del art¡culo , nos sombrear 
+la zona en  la que se encuentra. Si queremos buscar la palabra siguiente,
+debemos hacer un scroll hacia abajo, ya que sino, s¢lo buscar  la palabra
+sombreada. Es decir, por ahora, no hay buscar [BLANCO]palabra siguiente.[AMARILLO]
+
+
+  Y para efectos bonitos, tenemos la posibilidad de ocultar las barras de la[IZQUIERDA BLANCO]
+diskmag,para que sea m s bonito la vista del art¡culo. Todo esto se logra[NO]
+si pulsamos sobre el icono de la foto adjunta. Una vez ocultas las barras
+no se podr  navegar sobre el art¡culo, ya que s¢lo se trata de un efecto.
+  Para poder volver al estado  anterior , debemos volver a clickear sobre
+dicho bot¢n.
+
+  Y si por alg£n motivo, queremos capturar una imagen, podemos o bien pulsar[IZQUIERDA]
+la tecla [NO]F10[AMARILLO] o la [BLANCO]F12[AMARILLO]. En el acto, se crear  un archivo llamado[BLANCO] SCREEN.PCX.[AMARILLO]
+
+  Para poder activar el joystick y dem s par metros especiales, hay que[BLANCO IZQUIERDA]
+realizar un SETUP o bien editar el ALLEGRO.CFG, de la siguiente forma:[NO]
+
+         exilium setup[CHAR14B VERDEFOSFORITO]
+
+
+  Si no queremos cargar la pantalla de presentaci¢n:[PCT BLANCO]
+
+         exilium no[CHAR14B VERDEFOSFORITO]
+
+
+  Al igual, que en el n£mero anterior, se ha permitido, la posibilidad de usar[PCT BLANCO IZQUIERDA]
+la rueda central del rat¢n (netscroll), para hacer un scroll en los art¡culos.[NO]
+  En funci¢n del S.O. y los drivers que tengamos, se soportar  esta opci¢n.
+  Tambi‚n se ha conservado la opci¢n de regulaci¢n de volumen, pulsando las[IZQUIERDA]
+teclas[NO] '+'[AZULCLARO] y[BLANCO] '-[AZULCLARO]', al puro estilo de una televisi¢n.[BLANCO]
+
+
+
+
+
+Datos de informacion[AMARILLO GRANDE NO]
+[PCT BLANCO NO]
+
+
+  En la esquina superior izquierda se encuentran cinco par metros que aluden a[IZQUIERDA]
+informaci¢n importante del documento, que est  actualmente en proceso. Estos
+datos son la [NO]SECCION, TITULO, AUTOR, P gina WEB y correo electr¢nico.[AMARILLO]
+
+  La secci¢n, hace referencia a la plataforma sobre la cual trata el art¡culo. El[IZQUIERDA BLANCO]
+t¡tulo hace referencia al r¢tulo con que se indica el contenido sobre el
+art¡culo. Y el autor hace referencia a la persona o grupo que ha realizado el
+art¡culo.[NO]
+
+  En cuanto a la [BLANCO]p gina web[AZULCLARO] y al [BLANCO]correo[AZULCLARO], ya sabemos todos lo que es.[BLANCO]
+
+  En la zona superior derecha se dispone de la informaci¢n referente al n£mero[IZQUIERDA]
+de p ginas de las que consta el art¡culo y la p gina en la que nos encontramos
+actualmente. Por supuesto, las p ginas vienen expresadas en el estilo de la
+diskmag, y por tanto, una p gina equivale a 30 filas.[NO]
+
+  En la parte central de la zona inferior de la diskmag, se encuentran los[IZQUIERDA]
+t¡tulos de los temas a los cuales tenemos acceso. No obstante, el tema no se
+cargar  hasta que se pulse la tecla de acci¢n ENTER o el bot¢n izquierdo del
+rat¢n.[NO]
+
+  A parte del cambio en el INTERFACE, con respecto al n£mero anterior, se han[IZQUIERDA]
+hecho una serie de reformas internas en el c¢digo fuente, para poder ganar en
+espacio y en [NO]velocidad[COLOR=50 155 190], tal y como se puede apreciar en el binario resultante.[BLANCO]
+
+  Tambi‚n se han hecho m s a¤adidos, como es el caso, de un mayor control de[IZQUIERDA]
+errores, m s posibilidad de [NO]colores en pantalla[COLOR=255 190 250], y una mayor calidad visual.[BLANCO]
+  Y al igual que en el n£mero 1, se va a portar la diskmag para:
+
+            DOS, WIN32, BeOS, LINUX y QNX[CHAR14B VERDEFOSFORITO]
+
+
+
+
+
+
+Distribucion de la revista[AMARILLO GRANDE NO]
+[PCT BLANCO NO]
+
+
+  Pues aqui damos comienzo a la segunda edici¢n digital de la DISKMAG Sliders.[IZQUIERDA]
+Esta vez hemos tardado m s en sacarla, ya que hemos intentado hacer un
+especial, el cual contiene[NO] 50 art¡culos.[AMARILLO]
+
+  La diskmag no pertenece a la licencia GNU, ni OpenSOURCE. Tiene copyright,[BLANCO IZQUIERDA]
+aunque eso no impide que se vaya a distribuir de forma gratuita. Por tanto,
+queda prohibido cobrar por la distribucion de la diskmag o por ella misma.[NO]
+  
+  Gracias a los adelantos de la viejas y nuevas tecnologias de la comunicaci¢n,[IZQUIERDA]
+la revista digital se va a distribuir atrav‚s de las grandes redes, como son
+INTERNET, FIDONET, y derivados.[NO]
+
+  El tama¤o de la diskmag se intentar  en lo posible que no supere el de un[IZQUIERDA]
+diskette de 3 1/2 de alta densidad. Aunque esta cantidad suele ser de 1,4 MB
+(MegaBytes), nosotros vamos a considerar toda la capacidad total, que en este
+caso es de 1,7 MB si usamos el formato de FDFORMAT o 2 MB si usamos el 2M.[NO]
+  Hemos elegido esta opci¢n, puesto que estos formatos son libres, y estan[IZQUIERDA]
+disponibles para todos los S.O., aunque el[NO] WINDOWS[AMARILLO] no lo soporte.[BLANCO]
+
+
+
+
+Como calaborar[VERDEFOSFORITO GRANDE NO]
+[PCT BLANCO NO]
+
+
+  Se puede colaborar de muchas formas, ya sea como redactor de art¡culos, como[IZQUIERDA]
+pixelador o grafista 2D o 3D para los fondos, portadas y contraportadas de la
+diskmag, o como m£sico para el tracker de la misma.[NO]
+
+  Las direcciones de correo para enviar datos, son:
+
+
+       sliders2002@mixmail.com[VERDEFOSFORITO XMI IZQUIERDA]
+
+
+
+
+
+
+
+Mensaje[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  En definitiva, que todo esto lo hacemos por vosotros, y para vosotros, a[BLANCO PCT IZQUIERDA]
+todos los j¢venes y no tan j¢venes programadores/as, que aun saben lo que
+significa la inform tica, y que se dedican sobre todo a investigar, y por
+supuesto que comparten sus conocimientos con otros que intentan hacer lo mismo
+que ellos (aprender), porque por algo, tanto en Espa¤a, como en el resto del
+mundo existe un decreto de Derechos humanos, y derecho al saber (el
+conocimiento es un derecho y es libre), pero que lamentablemente no se cumple.[NO]
+
+
+
+
+
+Miembros principales[AMARILLO GRANDE]
+[PCT BLANCO]
+
+
+  Pues somos pocos, pero quien sabe, con el tiempo, creceremos:
+
+  Al igual que en la anterior diskmag, todo lo que v‚is (GFX), como lo que[IZQUIERDA]
+ois, ha sido realizado por los siguientes miembros:[NO]
+
+   RGS -->[PC AMARILLO] redactora, GFX, SFX[GRIS]
+   Navegante -->[AMARILLO] redactor, designer[GRIS]
+   JJ -->[AMARILLO] editor, redactor y coder[GRIS]
+
+
+   Maria del Rosario Gavin Sierra -->[AMARILLO] RGS[GRIS]
+   Angel Garcia Rodriguez -->[AMARILLO] Navegante[GRIS]
+   Jaime Jose Gavin Sierra -->[AMARILLO] JJ[GRIS]
+
+
+
+
+Miembros colaboradores[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues la gente que ha colaborado en esta revista ha sido:
+
+
+    Aitor Santamaria Merino (aitor.sm@wanadoo.es) --> [PC AMARILLO]FreeDOS[GRIS]
+    Oliver Ruiz Dorantes -->[AMARILLO] OpenBeOS[GRIS]
+    Fernando Fern ndez de Villegas -->[AMARILLO] Radio[GRIS]
+    Domingo  Alvarez -->[AMARILLO] C64[GRIS]
+
+
+
+
+Agradecimientos[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  A todas las personas y sceners que nos han inspirado y que han contribuido
+en esta diskmag, ya sea directa o indirectamente.
+
+  Desde aqu¡ se les manda un saludo virtual.
