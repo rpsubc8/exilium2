@@ -1,0 +1,264 @@
+[FOTOS 0]
+Librerias HAM[AZULCLARO GRANDE]
+[PCT BLANCO NO]
+
+
+
+
+
+  En el n£mero anterior os ense¤‚ a programar para la GB, pero desde emulador[IZQUIERDA]
+y compilador de C cruzado. Pues esta vez vamos a realizar la misma operaci¢n,
+pero para GBA (Game Boy Adavanced).[NO]
+
+
+
+
+
+Caracteristicas[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  La GBA posee las siguientes caracter¡sticas hardware:
+
+   CPU ARM7tdmi[PC AMARILLO] arquitectura RISC 32 bits a 16.78 Mhz[GRIS]
+   ROM[AMARILLO] de 16 KB localizada en la zona 0x00000000[GRIS]
+   RAM[AMARILLO] externa de 256 KB localizada en la zona 0x02000000[GRIS]
+   RAM[AMARILLO] interna de 32 KB localizada en 0x03000000[GRIS]
+   E/S[AMARILLO] mapeada en RAM de 1 KB localizada en 0x04000000[GRIS]
+   Paleta[AMARILLO] de video de 0x400 bytes localizada en 0x05000000[GRIS]
+   Memoria[AMARILLO] de atributos de objetos (OAM) de 0x400 bytes en 0x07000000[GRIS]
+   RAM[AMARILLO] de video (VRAM) de 0x20000 bytes en 0x06000000[GRIS]
+   ROM[AMARILLO] de hasta 32 MB para cartucho localizada en 0x08000000[GRIS]
+   Imagen[AMARILLO] de ROM1 localizada en 0x0A000000[GRIS]
+   Imagen[AMARILLO] de ROM2 localizada en 0x0C000000[GRIS]
+   CART RAM[AMARILLO] (Flash ROM) de hasta 64 KB localizada en 0x0E000000[GRIS]
+   EEPROM[AMARILLO] de hasta 128 MB.
+
+  Y claro, quedan muchas m s opciones, como el sonido, registros de CPU, y de[IZQUIERDA BLANCO PCT]
+aceleradora, pero con esto, creo que es bastante por hoy.[NO]
+
+
+  A m s de uno se le quedar  la cara rara, al ver que una consola de 16.78 Mhz[IZQUIERDA]
+y tan poca RAM, puede hacer juegos de tanta calidad. Entre ellos los m s
+visuales son el DOOM y el DUKE NUKEM.[NO]
+
+
+  Lo que ganamos en este tipo de arquitectura de 32 bits, es la posibilidad de[IZQUIERDA]
+programar de forma m s c¢moda, ya que con 32 bits, se pueden direccionar 4 GB
+de RAM de forma lineal.[NO]
+
+
+
+
+
+
+
+Modos de video[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Lo que ganamos en la GBA es la forma de trabajar con los modos de v¡deo, que[IZQUIERDA]
+se parecen mucho al modo 0x13 (19d) de la MCGA y VGA de los PC's, o el VESA 2.0
+en modo lineal.[NO]
+
+
+  En concreto tenemos 6 modos de v¡deo, que son:
+
+   - Modo 0:[AMARILLO PC] Permite mostrar hasta 4 textos de fondo, pero no permite rotaci¢n[GRIS]
+             ni escalado.
+   - Modo 1:[AMARILLO] S¢lo permite 3 textos de fondo, y permite rotaci¢n y escalado.[GRIS]
+   - Modo 2:[AMARILLO] Usa modo tiled (GB). Permite fondos con escalado y rotaci¢n.[GRIS]
+   - Modo 3:[AMARILLO] 16 bits de color, con una resoluci¢n de 240 x 160 pixels.[GRIS]
+             La memoria de video comienza en 0x06000000 y ocupa 0x12C00 bytes.
+   - Modo 4:[AMARILLO] 8 bits de color con paleta y de resoluci¢n 240 x 160 pixels.[GRIS]
+             La memoria de video comienza en 0x06000000 o 0x0600A000.
+             La memoria de la paleta empieza en 0x5000000.
+   - Modo 5:[AMARILLO] 16 bits de color, y resoluci¢n de 160 x 128 pixels.[GRIS]
+             La ventaja de este modo de vídeo, con respecto al 3, es que se
+             permite el uso de 2 frame buffers.
+
+
+
+
+
+
+Compilador[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues para poder programar esta maravilla, debemos descargarnos de INTERNET,[IZQUIERDA]
+las librer¡as HAM para GBA. Pod‚is probar en la direcci¢n:[NO]
+
+
+           http://www.gbadev.org[CHAR14B VERDEFOSFORITO]
+
+
+           http://www.gba.org
+
+
+  Y una vez descargadas, pod‚is instalarlas, ya que es sencillo, porque basta[PCT BLANCO IZQUIERDA]
+con descomprimir el ZIP, y luego dar al archivos SETUP.EXE. Aunque estas
+librer¡as comprimidas no ocupan mucho, al dejarlo en disco duro, nos tirar  de
+al menos 19 MB.[NO]
+
+
+  Hay que destacar, que el coraz¢n de este compilador requiere de WIN32, y[IZQUIERDA]
+algunas utilidades que tiene, pedir n s¢lo del DOS.[NO]
+
+
+  La raz¢n de usar estas librer¡as, en lugar de otras herramientas, es que nos[IZQUIERDA]
+permite programar la GBA de forma muy c¢moda (para aprender), as¡ como que
+trae consigo una gran documentaci¢n. Pero claro, podemos elegir cualquier otra,
+corriendo todo esto de nuestra cuenta.[NO]
+
+
+  Adem s se puede no s¢lo crear los archivos ROM de GBA para tirar de emulador,[IZQUIERDA]
+sino que se puede enviar directamente por cable MBV2 de la GBA.[NO]
+
+
+  Una vez instalado, si queremos compilar ejemplos de GBA, debemos de crear[IZQUIERDA]
+unas variables de entorno para que pueda encontrar el compilador. Para ello,
+podemos o bien meterlo en el AUTOEXEC.BAT (Windows 9x y ME), o bien editar el
+archivo starham.bat con los siguiente datos:[NO]
+
+
+  ECHO ----------------------------------------[AMARILLO]
+  ECHO o  Welcome to HAM v2 with HAMlib!      o
+  ECHO o     http://www.ngine.de              o
+  ECHO ----------------------------------------
+  set PATH=C:\gbadev\ham\gcc-arm;C:\gbadev\ham\tools;%PATH%
+  set HAMDIR=C:\gbadev\ham
+  cmd
+
+
+  El PATH y HAMDIR debe ser donde hab‚is instalado HAM, por tanto, cambiadlo[BLANCO IZQUIERDA]
+seg£n sea vuestro directorio.[NO]
+
+
+
+
+
+
+
+Primera compilacion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues despu‚s de todo esto, ya va siendo hora de que hagamos una peque¤a[IZQUIERDA]
+prueba de compilar programas.[NO]
+
+
+  Al igual que en el art¡culo anterior de la GB, la GBA posee unos cuantos[IZQUIERDA]
+ejemplos en C, los cuales se pueden compilar, con ejecutar lo siguiente:[NO]
+
+
+   cd samples[AMARILLO]
+   cd obj
+   make vba
+
+
+  Eso si, acordaros de cargar el starham.bat con los par metros correctos, para[BLANCO IZQUIERDA]
+que as¡ se compile todo bien.[NO]
+
+
+  Y con esto, ya tenemos los ejemplos con extensi¢n [BLANCO].GBA[AZULCLARO] creados.[BLANCO]
+
+  Para poder probarlos, pod‚is tirar del emulador Boicot Advanced, el cual[IZQUIERDA]
+existe en su versi¢n de SDL, incluso para[NO] BeOS[AMARILLO] (lo he probado).[AZULCLARO]
+
+
+
+
+
+
+Primer programa[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues para nuestro primer programa, debemos de escribir lo siguiente:
+
+   #include "mygba.h"[AMARILLO]
+
+   void AgbMain(void){
+     // Libreria HAM incicializada
+     ham_Init();
+
+     // inicializa el modo texto con fondo
+     ham_InitText(0);
+
+        // Pone un texto en pantalla
+        ham_DrawText(2,10,"Hola TOC-DOC");
+     while(1);
+   }
+
+
+
+  Como pod‚is apreciar, hay que incluir siempre la cabecera:[BLANCO]
+
+
+   #include "mygba.h"[AMARILLO]
+ 
+  De lo contrario, no podremos incluir el proyecto de GBA.[BLANCO]
+  Para poder inicializar la librer¡a HAM, hay que poner:
+
+   ham_INIT();[AMARILLO]
+
+  Y para inicializar el modo texto:[BLANCO]
+
+   ham_InitText(0);[AMARILLO]
+
+  El 0, es para el modo texto. Si os acord is, hab¡a 6 modos de v¡deo, y este[BLANCO IZQUIERDA]
+valor se le pasa a la funci¢n.[NO]
+
+
+  Si por alg£n motivo queremos transferir este programa al cable MBV2,[IZQUIERDA]
+deberemos incluir la l¡nea:[NO]
+
+   MULTIBOOT[AMARILLO]
+
+  Despu‚s del[BLANCO] #include "mygba.h"[AMARILLO].[BLANCO]
+
+  Y para compilar nuestro programa, usaremos el famoso makefile, de tal forma[IZQUIERDA]
+que escribiremos:[NO]
+
+   make[AMARILLO]
+
+  Esto es similar al GCC de toda la vida.[BLANCO]
+  Podemos copiar el makefile del programa HELLOWORLD, que es el mismo que el[IZQUIERDA]
+que hemos hecho, y probar a dar al make.[NO]
+
+
+
+
+
+Mensaje[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues como podr‚is comprobar, sale un mensaje de que las librer¡as HAM se han[IZQUIERDA]
+usado, siempre que carguemos nuestra aplicaci¢n.[NO]
+
+  Si queremos quitar este mensaje, podemos tirar de un editor hexadecimal, y[IZQUIERDA]
+editar la cadena "created with hamlib". Podemos cambiar toda esta cadena, y
+las siguiente, salvo la versi¢n de la librer¡a, que va de la siguiente forma:[NO]
+
+  v%d.%2d[AMARILLO]
+
+ Estos datos, los saca de variables, por lo que es menos intuitivo.[BLANCO]
+
+
+
+
+
+
+Conclusion[AMARILLO GRANDE]
+[PCT BLANCO NO]
+
+
+  Pues hasta aqu¡ la lecci¢n de hoy. Ya se que para muchos es muy poco, pero[IZQUIERDA]
+hay que ir poco a poco, y adem s no tengo mucho tiempo para escribir art¡culos,
+as¡ que a esperar al pr¢ximo n£mero, donde os ense¤ar‚ a realizar rotaciones,
+escalados, y leer im genes para GBA. En definitiva, todo lo necesario para
+poder hacer una demo o un juego.[NO]
+
+  ¨Os imagin is la diskmag EXILIUM en GBA?[AMARILLO] Pues quiz s alg£n d¡a la hagamos.[BLANCO]
