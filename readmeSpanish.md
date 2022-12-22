@@ -9,6 +9,15 @@ Posteriormente, varios miembros de la demoscene, lo publicaron en <b>pouet.net</
  <li><a href='https://files.scene.org/view/mirrors/scenesp.org/diskmags/exiliumwin32-2.zip'>https://files.scene.org/view/mirrors/scenesp.org/diskmags/exiliumwin32-2.zip</a></li>
 </ul>  
 
+Artículos a destacar:
+<ul>
+ <li>Entrevista a Almighty God (Domingo  Alvarez) de LEVEL 64</li>
+ <li>Artículo sobre la extinta Diskmag ONLINE CPC Oxygen</li>
+ <li>Programación en C--</li>
+ <li>Artículo sobre Menuet OS (ensamblador)</li>
+ <li>Ordenador Z80 Sprinter</li>
+</ul>
+
 <center><img src='preview/beos.jpg'></center>
 <center><img src='preview/dos.jpg'></center>
 <center><img src='preview/linux.jpg'></center>
