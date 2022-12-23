@@ -29,4 +29,8 @@ The editor and coder of it is me (JJ, ackerman).<br>
 
 After so many years, I am releasing the code, so that it can be looked at in an educational way or whatever you want, given that it is of little use today. <br>
 
-If you only want to run, the data (sliders2.dat) was in the MSDOS distribution, having to copy the binaries for each OS to the same location.
+If you only want to run, the data (sliders2.dat) was in the MSDOS distribution, having to copy the binaries for each OS to the same location.<br>
+
+In issue 2 of Centolos'Becanne magazine we have an article dedicated to us:
+<center><img src='preview/becanne02pag016.jpg'></center>
+<center><img src='preview/becanne02pag017.jpg'></center>
