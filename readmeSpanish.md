@@ -29,4 +29,8 @@ El editor y coder de la misma soy yo (JJ, ackerman).<br>
 
 Después de tantos años, libero el código, para que se mire de manera educativa o lo que se quiera, dado que a día actual, tiene muy poca utilidad.<br>
 
-Si sólo se quiere ejecutar, los datos (sliders2.dat) estaban en la distribución de MSDOS, teniendo que copiar los binarios de cada Sistema Operativo en su misma ubicación.
+Si sólo se quiere ejecutar, los datos (sliders2.dat) estaban en la distribución de MSDOS, teniendo que copiar los binarios de cada Sistema Operativo en su misma ubicación.<br>
+
+En el número 2 de la revista Becanne de Centolos nos dedican un artículo:
+<center><img src='preview/becanne02pag016.jpg'></center>
+<center><img src='preview/becanne02pag017.jpg'></center>
